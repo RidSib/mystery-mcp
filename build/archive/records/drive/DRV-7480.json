@@ -1,0 +1,20 @@
+{
+  "id": "DRV-7480",
+  "channel": "drive",
+  "release": "R1",
+  "event_time": "2026-10-27T16:00:00+01:00",
+  "from": "Sandra Kowalski",
+  "to": [
+    "All staff"
+  ],
+  "cc": [],
+  "subject": "Incident summary: missing course",
+  "thread_id": "THR-9293",
+  "body": "Programs office incident summary\n\nThe keypad recorded the CEO's code overnight. Thomas had described the course as a cash grab that could damage our reputation and asked Finance about refunds. The current course audit names Priya Nair and gives the status as cancelled by Marketing. We should follow those records carefully.\n\nMarketing's messages over the last weeks are worth reading.\n\nSecurity and Programs saw the pale figure and gave chase. Perhaps the Grey Lecturer has finally found a deadline — with a wink. For the review, please send original records alongside accounts of what happened. Programs is collecting the material with teaching and IT input.",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Incident summary: missing course",
+  "author_credit": "Programs office (S. Kowalski), with input from M. Fenwick and P. Nair",
+  "stored_time": "2026-10-27T16:00:00+01:00",
+  "published_time": "2026-10-27T16:00:00+01:00"
+}

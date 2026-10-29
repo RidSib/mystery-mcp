@@ -1,0 +1,20 @@
+{
+  "id": "DRV-6787",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-10-18T14:25:00+02:00",
+  "from": "Nils Braun",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-6831",
+  "body": "Grid corrections for the next handover\n\nWanda's second slot was a proposal, not another workshop. The draft checkbox explains why both appeared. Priya has left the plan for Programs to amend instead of treating it as a technical failure.\n\nThe poster now uses the agreed meeting time. Zoe marked the earlier PDF DRAFT rather than letting a forwarded copy circulate without context.\n\nGreen has been used for available, checked and proposed. Replace those meanings with labels before exporting. Kofi also needs normal room bookings for late sessions; being green in a planning sheet does not reserve building space. Nils",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Late planning notes",
+  "author_credit": "Nils Braun",
+  "stored_time": "2026-10-18T14:25:00+02:00",
+  "published_time": "2026-10-18T14:25:00+02:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "DRV-1170",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-10-20T12:00:00+02:00",
+  "from": "Facilities office",
+  "to": [],
+  "cc": [],
+  "subject": "Motion-sensor lights: service notice",
+  "thread_id": "THR-1678",
+  "body": "Motion-sensor lights — fault open\n\nThe Academy's motion-sensor lights may flicker at night because of a faulty sensor. Facilities is tracking it; please report the location and approximate time if it happens during your work.\n\nRepeatedly switching the controls makes it harder to reproduce the fault. Leave them alone and note what you saw instead. A flicker on its own doesn't tell us whether anyone entered a room.\n\nMira has the service request. Reception can route an observation to facilities without opening another ticket for every retelling of the same flash.",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Motion-sensor lights: service notice",
+  "author_credit": "Facilities office",
+  "stored_time": "2026-10-20T12:00:00+02:00",
+  "published_time": "2026-10-20T12:00:00+02:00"
+}

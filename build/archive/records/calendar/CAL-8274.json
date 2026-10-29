@@ -1,0 +1,24 @@
+{
+  "id": "CAL-8274",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-09T16:45:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Ben Lorenz",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-1611",
+  "body": "Cover check for coursework appointments. Please identify the exercise before routing it to a teacher. Ben",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-09T16:45:00+02:00",
+  "end": "2026-10-09T17:15:00+02:00",
+  "attendees": [
+    "Ben Lorenz",
+    "Nora Stein"
+  ],
+  "private": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0757",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-22T10:45:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "The support sheet still sends module questions to me even where another teacher owns the exercise. Could we put the relevant teacher beside those appointments?\n\nI can't usefully answer a question if I spend the slot finding out which class it belongs to. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

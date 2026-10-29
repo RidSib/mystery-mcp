@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1385",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-19T13:45:00+02:00",
+  "from": "Anton Seidel",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Leo, can the title distinguish the staged joke from the ordinary tour clip? People are forwarding the thumbnail without the caption, which defeats Jule's note.\n\nPut the label where a hurried person will actually see it. Anton",
+  "attachments": [],
+  "case_critical": false
+}

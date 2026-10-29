@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2455",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-04T16:15:00+02:00",
+  "from": "Amira Becker",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "Nora, are we calling the committee Halloween Bash in full on the first invite? \"HB\" means nothing to my students.\n\nI can help collect numbers, but I need a date line and a reply destination before I tell them anything. Amira",
+  "attachments": [],
+  "case_critical": false
+}

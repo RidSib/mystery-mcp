@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3277",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-13T15:35:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "The refund form isn't losing requests. It accepts the submission, then sends people back to a page without a confirmation message.\n\nI've asked Maja to check the wording. Please don't advise students to keep clicking Submit. Priya",
+  "attachments": [],
+  "case_critical": false
+}

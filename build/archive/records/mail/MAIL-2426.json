@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2426",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-13T14:25:00+02:00",
+  "from": "Yara Möller",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "We have two students replying to an automated message that says \"do not reply\". Their questions disappear into the notification mailbox.\n\nCan we change that footer to the support contact? I'll gather the examples without forwarding their personal details. Yara",
+  "attachments": [],
+  "case_critical": false
+}

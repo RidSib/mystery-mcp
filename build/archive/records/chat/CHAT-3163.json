@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3163",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-23T17:25:00+02:00",
+  "from": "Uma Jansen",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Sheets column is corrected. The pages column is still there for comparison; please don't add the two together. Uma",
+  "attachments": [],
+  "case_critical": false
+}

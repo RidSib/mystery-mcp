@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5247",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-15T16:45:00+02:00",
+  "from": "Iris Koch",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Got the corrected support time, thanks. I'll use the appointment confirmation rather than the old welcome-pack page. Iris",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6610",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-18T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-4985",
+  "body": "I help out with the communications-archive integration for free, apparently. It has become a remarkably permanent favour. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7041",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-27T08:15:00+01:00",
+  "from": "Priya Nair",
+  "to": [
+    "All staff"
+  ],
+  "cc": [],
+  "subject": "Course files missing",
+  "thread_id": "THR-2332",
+  "body": "The files for How AI Will Make You 100% Rich are gone. I found the BK-02 removable backup dock empty this morning too.\n\nPlease preserve the records as they are while I look at recovery. Don't replace a log with a screenshot somebody has annotated. I'll send an update when I have something checked. Priya",
+  "attachments": [],
+  "case_critical": false
+}

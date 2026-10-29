@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9545",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-14T17:55:00+02:00",
+  "from": "Greta Hoffmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "I've marked the current admissions questions in the planning grid. Please leave the unanswered ones visible even if they make the sheet untidy.\n\nLast time a tidy-up turned \"not agreed\" into a very convincing blank cell. Greta",
+  "attachments": [],
+  "case_critical": false
+}

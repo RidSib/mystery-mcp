@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2873",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-19T10:14:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "New one in a fresh tab. The embedded thumbnail is still cached.",
+  "attachments": [],
+  "case_critical": false
+}

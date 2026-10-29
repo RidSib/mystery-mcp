@@ -1,0 +1,10 @@
+{
+  "name": "academy-mcp",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "prepare-data": "node scripts/prepare-data.mjs",
+    "test": "node scripts/local-test.mjs"
+  }
+}

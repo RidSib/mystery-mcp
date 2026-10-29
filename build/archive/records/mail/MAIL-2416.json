@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2416",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-16T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course title and copy",
+  "thread_id": "THR-7455",
+  "body": "I can't market this with a straight face",
+  "attachments": [],
+  "case_critical": false
+}

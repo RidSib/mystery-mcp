@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3687",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-02T22:10:00+02:00",
+  "from": "Rafael Frank",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Nora, the support desk notice has two different lunch breaks. I'm putting the newer sheet on top for tomorrow, but I can't tell whether that is the agreed rota.\n\nPlease check before students start queuing against a slot nobody covers. Rafael",
+  "attachments": [],
+  "case_critical": false
+}

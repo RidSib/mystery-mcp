@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5007",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-22T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course title and copy",
+  "thread_id": "THR-6826",
+  "body": "Can we please not call it '100% rich'? Another copy pass and we're still back at this headline.",
+  "attachments": [],
+  "case_critical": false
+}

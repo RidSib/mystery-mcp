@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7279",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-30T14:55:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "I've held the paper purchase until the duplex count is settled. This is not a budget refusal; I don't want six boxes arriving because two columns share the word \"pages\".\n\nPaula, can you put one sample pack beside the order sheet? Ines",
+  "attachments": [],
+  "case_critical": false
+}

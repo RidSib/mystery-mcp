@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-7558",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-19T12:35:00+02:00",
+  "from": "Jana Richter",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "Three dots halfway through a project title are a typo, not an artistic choice. I've asked the team before changing it. Jana",
+  "attachments": [],
+  "case_critical": false
+}

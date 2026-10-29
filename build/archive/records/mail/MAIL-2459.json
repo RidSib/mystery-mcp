@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2459",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-19T11:55:00+02:00",
+  "from": "Nils Braun",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "The shortcut points to the right folder now. Two grids inside it still have the same title.\n\nI can repair a link, but I can't choose which staffing plan Sandra approved. Someone in Programs needs to label that explicitly. Nils",
+  "attachments": [],
+  "case_critical": false
+}

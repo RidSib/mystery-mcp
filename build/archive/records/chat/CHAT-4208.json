@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4208",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-06T10:12:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "Can you open the mobile draft? The headline wraps in a completely new and horrible way.",
+  "attachments": [],
+  "case_critical": false
+}

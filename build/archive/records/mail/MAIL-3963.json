@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3963",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-03T13:15:00+02:00",
+  "from": "Nils Braun",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Service desk wants the exact warning pattern: red steady, red blinking, or both buttons blinking. The photo in the thread is too blurry to tell.\n\nCan you note that next time it fails? No need to unplug it again. Nils",
+  "attachments": [],
+  "case_critical": false
+}

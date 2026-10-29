@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8657",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-06T14:25:00+02:00",
+  "from": "Lena Fischer",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Nora, both equipment instructions are still live. The checklist refers to the classroom display kit, not student laptops.\n\nCould the welcome email say that explicitly? I'm happy to check a rewritten sentence; I can't lend everyone a laptop at the desk. Lena",
+  "attachments": [],
+  "case_critical": false
+}

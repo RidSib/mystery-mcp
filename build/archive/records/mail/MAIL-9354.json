@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9354",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-25T09:05:00+01:00",
+  "from": "Jana Richter",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "I've proofread the programme and fixed the doubled word in the welcome paragraph. There are still two project titles without descriptions.\n\nI'll leave those spaces visible rather than fill them with nonsense. Please chase the teams before the next print run. Jana",
+  "attachments": [],
+  "case_critical": false
+}

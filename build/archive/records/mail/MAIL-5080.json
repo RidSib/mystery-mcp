@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5080",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-02T22:10:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Late note before I close the preview: the opening caption sits over someone's name badge. Please crop that part or move the frame.\n\nAnd please label anything staged in the actual post, not just in a comment underneath it. Jule",
+  "attachments": [],
+  "case_critical": false
+}

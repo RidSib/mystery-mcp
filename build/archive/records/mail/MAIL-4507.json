@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4507",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-01T17:25:00+02:00",
+  "from": "Rafael Frank",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "There's a ticket about a loose charger in with the account-access requests. I've moved the charger to facilities and left the account question with you.\n\nSame student, two problems; the shared subject line was confusing the handoff. Rafael",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7706",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-21T09:35:00+02:00",
+  "from": "Flora Gross",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Nora, where do accessibility questions go? I don't want to put personal details in a reply-all to the welcome message.\n\nA direct contact would be helpful. I have the timetable already; it's the session materials I need to ask about. Flora",
+  "attachments": [],
+  "case_critical": false
+}

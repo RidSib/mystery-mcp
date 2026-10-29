@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-8114",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-02T10:15:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Sandra, can Programs name cover for the planning-meeting gap? David can manage twenty minutes, not the whole support hour. Nora",
+  "attachments": [],
+  "case_critical": false
+}

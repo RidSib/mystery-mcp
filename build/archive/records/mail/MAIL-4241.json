@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4241",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-13T14:55:00+02:00",
+  "from": "Uma Jansen",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "The sample is right-side-up now. I recalculated the order using sheets, with a small allowance for test copies.\n\nThe old total is crossed out rather than hidden. Ines can see why it changed without reopening this entire thread. Uma",
+  "attachments": [],
+  "case_critical": false
+}

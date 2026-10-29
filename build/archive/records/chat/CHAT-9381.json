@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9381",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-13T14:25:00+02:00",
+  "from": "Lukas Meyer",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Paula, try short-edge binding on the folded pack. The old preset flips the last page like a party trick. Lukas",
+  "attachments": [],
+  "case_critical": false
+}

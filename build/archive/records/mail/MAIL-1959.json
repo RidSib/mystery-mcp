@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1959",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-02T12:35:00+02:00",
+  "from": "Karim Vogt",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Jule, which headline should go above the introductory paragraph? The mock-up and the copy sheet disagree.\n\nI've left a yellow box rather than guess, but it makes the draft look as if we're selling highlighters. Karim",
+  "attachments": [],
+  "case_critical": false
+}

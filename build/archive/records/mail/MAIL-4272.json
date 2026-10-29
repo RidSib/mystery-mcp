@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4272",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-10T14:25:00+02:00",
+  "from": "Rosa Lima",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Priya, the cleaner's tablet still goes to the old rota when I use the square on the first screen. Omar's new link works if I type it.\n\nPlease don't close the ticket as fixed until that square goes away. Rosa",
+  "attachments": [],
+  "case_critical": false
+}

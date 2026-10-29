@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4520",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-14T15:35:00+02:00",
+  "from": "Noah Paul",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Display name fixed now, thanks. Just one h at the end of Noah. I promise that's the final version of my name.",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5868",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-19T11:25:00+02:00",
+  "from": "Eda Fuchs",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Hi Nora, can I correct the workshop title on my request without filing a new one? I selected the daytime option by mistake.\n\nThe receipt itself is for the evening spreadsheet workshop. Eda",
+  "attachments": [],
+  "case_critical": false
+}

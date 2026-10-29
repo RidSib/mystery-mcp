@@ -1,0 +1,19 @@
+{
+  "id": "EXP-9994",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-09-15T11:25:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-5205",
+  "body": "Paper samples for checking the folded pack. The thick stock was a test and will not be the bulk order. Idris",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 26.2,
+  "status": "submitted",
+  "approver": null
+}

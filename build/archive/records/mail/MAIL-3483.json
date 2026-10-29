@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3483",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-18T17:55:00+02:00",
+  "from": "Sandra Kowalski",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "The print count is approved for the corrected folded pack. Please don't include the outstanding demo descriptions as blank extra pages.\n\nNora is chasing those separately; hold that programme run until the text arrives. Sandra",
+  "attachments": [],
+  "case_critical": false
+}

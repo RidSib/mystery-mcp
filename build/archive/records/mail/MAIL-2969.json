@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2969",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-21T09:05:00+02:00",
+  "from": "Anton Seidel",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "The banner supplier has asked for an answer again. Their quote expires before our review slot.\n\nCould you mark the row approved, declined or waiting? A blank cell makes everyone assume someone else has dealt with it. Anton",
+  "attachments": [],
+  "case_critical": false
+}

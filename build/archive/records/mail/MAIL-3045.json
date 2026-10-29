@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3045",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-11T17:55:00+02:00",
+  "from": "Bilal Brandt",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "I paid for the evening workshop with my own reference, not the one on the pack. Is that why the matching is taking longer?\n\nHappy to send the receipt directly; I just need to know which address to reply to. Bilal",
+  "attachments": [],
+  "case_critical": false
+}

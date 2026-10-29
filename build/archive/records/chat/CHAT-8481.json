@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-8481",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-23T18:20:00+02:00",
+  "from": "David Sommer",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Exercise bank",
+  "thread_id": "THR-4353",
+  "body": "I'm the one rebuilding the exercise bank for the new title, every single one of the 140 exercises. When it launches, guess whose name is on the course. Not complaining. OK, complaining a bit.",
+  "attachments": [],
+  "case_critical": false
+}

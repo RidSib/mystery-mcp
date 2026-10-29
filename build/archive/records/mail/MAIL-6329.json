@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6329",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-30T15:05:00+02:00",
+  "from": "David Sommer",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Ines, which total goes to review: grey or blue? David",
+  "attachments": [],
+  "case_critical": false
+}

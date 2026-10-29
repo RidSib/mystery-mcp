@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-8052",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-22T16:15:00+02:00",
+  "from": "Mira Falk",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Desk sign has its own stand now. Borrowing a pen should no longer reveal an obsolete support rota underneath it. Mira",
+  "attachments": [],
+  "case_critical": false
+}

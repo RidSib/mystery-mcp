@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2815",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-15T22:10:00+02:00",
+  "from": "Rosa Lima",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Old rota still opens from the tablet square. New link works. Please don't mark it finished just because you tested the link. Rosa",
+  "attachments": [],
+  "case_critical": false
+}

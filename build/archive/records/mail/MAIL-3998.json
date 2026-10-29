@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3998",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-22T22:10:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Evening queue handoff: the caption ticket has a browser version now, the tablet ticket has a repeatable shortcut problem, and the notification footer is still wrong.\n\nI'm leaving the notes here before I forget which screenshot belongs to which. Ben",
+  "attachments": [],
+  "case_critical": false
+}

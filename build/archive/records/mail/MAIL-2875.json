@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2875",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-14T16:45:00+02:00",
+  "from": "Mira Falk",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Could you avoid filming the noticeboard behind reception? People pin contact details there and don't expect them in a student video.\n\nThe close-up of the cups is fine. It is possibly the most flattering footage our cups have had. Mira",
+  "attachments": [],
+  "case_critical": false
+}

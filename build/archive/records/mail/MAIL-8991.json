@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8991",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-04T17:55:00+02:00",
+  "from": "Elena Wolf",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "I made the sample pack. The last page prints upside down when we use the old preset, which may explain why people switched back to single-sided.\n\nCould we name a working preset after the pack rather than \"custom three\"? Elena",
+  "attachments": [],
+  "case_critical": false
+}

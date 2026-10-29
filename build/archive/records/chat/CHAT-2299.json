@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2299",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-11T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-2118",
+  "body": "I'm doing the course work and all the small jobs around it. Can we decide whose job the small jobs actually are? Marcus",
+  "attachments": [],
+  "case_critical": false
+}

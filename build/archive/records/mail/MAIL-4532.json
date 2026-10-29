@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4532",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-08T09:35:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Admissions is getting questions about what \"guaranteed\" means in the draft screenshot. We need an approved response before I send anything else out.\n\nI have stopped forwarding the screenshot; I haven't changed the public page. Milan",
+  "attachments": [],
+  "case_critical": false
+}

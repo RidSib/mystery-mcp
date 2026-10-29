@@ -1,0 +1,19 @@
+{
+  "id": "EXP-7942",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-25T17:25:00+01:00",
+  "from": "Lukas Meyer",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-3807",
+  "body": "Planning-grid print supplies for the review with Sandra. This is one reviewed copy set; please don't add another run for the crossed-out proposed workshop slot. Lukas",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 75.1,
+  "status": "submitted",
+  "approver": null
+}

@@ -1,0 +1,91 @@
+{
+  "id": "LOG-8814",
+  "channel": "log",
+  "release": "C1",
+  "event_time": "2026-10-26T12:00:00+01:00",
+  "from": "Academy drinks service",
+  "to": [],
+  "cc": [],
+  "subject": "Card purchases: drinks fridge",
+  "thread_id": "THR-8324",
+  "body": "Drinks-service transactions, Monday 26 October\n\nEach row records the card charged and the selected item. It does not identify a face at the drinks fridge. Holder allocations are maintained separately from purchase records.",
+  "attachments": [],
+  "case_critical": false,
+  "rows": [
+    {
+      "time": "2026-10-26T09:05:00+01:00",
+      "item": "Water",
+      "card": "0433"
+    },
+    {
+      "time": "2026-10-26T09:48:00+01:00",
+      "item": "Apple juice",
+      "card": "1126"
+    },
+    {
+      "time": "2026-10-26T10:31:00+01:00",
+      "item": "Sparkling water",
+      "card": "1108"
+    },
+    {
+      "time": "2026-10-26T11:14:00+01:00",
+      "item": "Cola",
+      "card": "1121"
+    },
+    {
+      "time": "2026-10-26T11:57:00+01:00",
+      "item": "Water",
+      "card": "1104"
+    },
+    {
+      "time": "2026-10-26T12:40:00+01:00",
+      "item": "Apple juice",
+      "card": "1115"
+    },
+    {
+      "time": "2026-10-26T13:23:00+01:00",
+      "item": "Sparkling water",
+      "card": "1128"
+    },
+    {
+      "time": "2026-10-26T14:06:00+01:00",
+      "item": "Cola",
+      "card": "1105"
+    },
+    {
+      "time": "2026-10-26T14:49:00+01:00",
+      "item": "Water",
+      "card": "1138"
+    },
+    {
+      "time": "2026-10-26T15:32:00+01:00",
+      "item": "Apple juice",
+      "card": "1102"
+    },
+    {
+      "time": "2026-10-26T16:15:00+01:00",
+      "item": "Sparkling water",
+      "card": "1134"
+    },
+    {
+      "time": "2026-10-26T16:58:00+01:00",
+      "item": "Cola",
+      "card": "1112"
+    },
+    {
+      "time": "2026-10-26T17:41:00+01:00",
+      "item": "Water",
+      "card": "1136"
+    },
+    {
+      "time": "2026-10-26T18:24:00+01:00",
+      "item": "Apple juice",
+      "card": "1123"
+    },
+    {
+      "time": "2026-10-26T23:47:00+01:00",
+      "item": "ZAP Energy",
+      "card": "0412"
+    }
+  ]
+}

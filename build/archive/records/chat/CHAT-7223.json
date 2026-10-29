@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-7223",
+  "channel": "chat",
+  "release": "R1",
+  "event_time": "2026-10-26T11:55:00+01:00",
+  "from": "Pia Roth",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "My reference is saved. Please don't merge it with the missing-course questions; mine is the evening spreadsheet workshop. Pia",
+  "attachments": [],
+  "case_critical": false
+}

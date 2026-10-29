@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5624",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-12T11:25:00+02:00",
+  "from": "Mira Falk",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Nora, could the pack ask students to bring refillable bottles? Mira",
+  "attachments": [],
+  "case_critical": false
+}

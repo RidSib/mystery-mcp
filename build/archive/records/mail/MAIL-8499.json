@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8499",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-14T09:05:00+02:00",
+  "from": "Maja Schneider",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "The demo upload form accepts links, not video files. Someone tried to paste a whole recording into the description box.\n\nI'll add a smaller example underneath it. Could teachers check their teams' links before handing the list to Nora? Maja",
+  "attachments": [],
+  "case_critical": false
+}

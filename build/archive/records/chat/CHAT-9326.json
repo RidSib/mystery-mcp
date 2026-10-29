@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9326",
+  "channel": "chat",
+  "release": "R1",
+  "event_time": "2026-10-26T15:35:00+01:00",
+  "from": "Rafael Frank",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "The table sketch and equipment list disagree. Please settle which display you need before I wheel anything upstairs. Rafael",
+  "attachments": [],
+  "case_critical": false
+}

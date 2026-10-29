@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6457",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-15T11:55:00+02:00",
+  "from": "Zoe Peters",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "The corrected time is on the notice now. I kept the previous PDF in the draft folder with DRAFT across it so nobody prints it from a forwarded email.\n\nCan we stop using green ticks to mean both checked and available? Zoe",
+  "attachments": [],
+  "case_critical": false
+}

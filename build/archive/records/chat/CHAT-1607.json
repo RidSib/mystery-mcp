@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-1607",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-15T16:45:00+02:00",
+  "from": "Lukas Meyer",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "Invitation link works now. Please send headcount corrections to Nora, not to the helpdesk ticket. Lukas",
+  "attachments": [],
+  "case_critical": false
+}

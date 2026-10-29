@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0230",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-11T17:25:00+02:00",
+  "from": "Theo Hartwig",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "The welcome pack payment page gives a different contact from the email. Please point payment questions to Finance and timetable questions to Programs.\n\nWe spent half the morning forwarding the same two messages back to each other. Theo",
+  "attachments": [],
+  "case_critical": false
+}

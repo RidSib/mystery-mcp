@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3114",
+  "channel": "chat",
+  "release": "R1",
+  "event_time": "2026-10-27T16:45:00+01:00",
+  "from": "Zoe Peters",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Peppermint is gone again. Zoe",
+  "attachments": [],
+  "case_critical": false
+}

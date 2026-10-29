@@ -1,0 +1,57 @@
+{
+  "id": "TRN-4402",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-10-01T10:00:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Sandra Kowalski",
+    "Jule Hartmann",
+    "Thomas Engel",
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Leadership meeting: course positioning",
+  "thread_id": "THR-4636",
+  "body": "2026-10-01T10:00:00+02:00 — Sandra Kowalski: Before the course-page discussion: Nora needs the missing demo descriptions. The programme can't go to print with half the projects described as title to follow.\n2026-10-01T10:00:54+02:00 — Jule Hartmann: I can make the programme work. The course title is harder. Every copy pass ends with us trying to explain away the headline instead of describing the teaching.\n2026-10-01T10:01:51+02:00 — Thomas Engel: it's a cash grab that could damage our reputation\n2026-10-01T10:02:50+02:00 — Sandra Kowalski: I'll record that concern. Keep the title and the outcomes paragraph together for review; we keep discussing them in separate windows and approving different drafts.\n2026-10-01T10:03:48+02:00 — Ines Duarte: If you want a financial comparison, send me the registration assumptions. I can calculate a total, but I need to know what question you are asking.\n2026-10-01T10:04:45+02:00 — Sandra Kowalski: Right. Next is support cover during the planning meeting, then the facilities queue. Please don't let the coffee machine use the rest of this meeting.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Sandra Kowalski",
+    "Jule Hartmann",
+    "Thomas Engel",
+    "Ines Duarte"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-01T10:00:00+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Before the course-page discussion: Nora needs the missing demo descriptions. The programme can't go to print with half the projects described as title to follow."
+    },
+    {
+      "timestamp": "2026-10-01T10:00:54+02:00",
+      "speaker": "Jule Hartmann",
+      "text": "I can make the programme work. The course title is harder. Every copy pass ends with us trying to explain away the headline instead of describing the teaching."
+    },
+    {
+      "timestamp": "2026-10-01T10:01:51+02:00",
+      "speaker": "Thomas Engel",
+      "text": "it's a cash grab that could damage our reputation"
+    },
+    {
+      "timestamp": "2026-10-01T10:02:50+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "I'll record that concern. Keep the title and the outcomes paragraph together for review; we keep discussing them in separate windows and approving different drafts."
+    },
+    {
+      "timestamp": "2026-10-01T10:03:48+02:00",
+      "speaker": "Ines Duarte",
+      "text": "If you want a financial comparison, send me the registration assumptions. I can calculate a total, but I need to know what question you are asking."
+    },
+    {
+      "timestamp": "2026-10-01T10:04:45+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Right. Next is support cover during the planning meeting, then the facilities queue. Please don't let the coffee machine use the rest of this meeting."
+    }
+  ]
+}

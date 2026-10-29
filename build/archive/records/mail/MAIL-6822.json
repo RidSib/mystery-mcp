@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6822",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-27T16:15:00+01:00",
+  "from": "Uma Jansen",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "The party receipts are in their own envelope at reception, separate from the incident paperwork. People keep dropping everything under \"Halloween\" and expecting Finance to divine the category.\n\nI'll match these to the committee sheet once Nora confirms the last few purchases. Uma",
+  "attachments": [],
+  "case_critical": false
+}

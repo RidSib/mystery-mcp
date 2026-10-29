@@ -1,0 +1,20 @@
+{
+  "id": "DRV-7070",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-28T17:25:00+02:00",
+  "from": "Karim Vogt",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-9641",
+  "body": "Paper order: why the total is on hold\n\nThe quote counts single-sided sheets. The pack was intended to be duplex, but the old preset turned its final page upside down. Elena's sample explains why staff kept going back to single-sided printing.\n\nLukas has suggested short-edge binding for the folded version. Paula should test one complete pack before we approve a preset or order a box quantity from it.\n\nKeep pages and sheets in separate labelled columns. Ines has held the purchase until that distinction is settled. A crossed-out incorrect total is useful; an unexplained replacement number will start the discussion all over again. Karim",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Printing and supplies",
+  "author_credit": "Karim Vogt",
+  "stored_time": "2026-09-28T17:25:00+02:00",
+  "published_time": "2026-09-28T17:25:00+02:00"
+}

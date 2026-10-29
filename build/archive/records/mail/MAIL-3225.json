@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3225",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-10T15:35:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "The spreadsheet workshop students can all see the received message now. One still thinks the green tick means approved.\n\nCould we make that distinction a little less tiny? It is the only sentence people seem not to read. Clara",
+  "attachments": [],
+  "case_critical": false
+}

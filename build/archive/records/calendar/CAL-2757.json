@@ -1,0 +1,24 @@
+{
+  "id": "CAL-2757",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-13T10:15:00+02:00",
+  "from": "Wanda Lange",
+  "to": [
+    "Wanda Lange",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-4099",
+  "body": "Reusable decorations inventory. Bring the box before deciding what else to order. Wanda",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-13T10:15:00+02:00",
+  "end": "2026-10-13T10:45:00+02:00",
+  "attendees": [
+    "Wanda Lange",
+    "Nora Stein"
+  ],
+  "private": false
+}

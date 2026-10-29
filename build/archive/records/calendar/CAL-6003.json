@@ -1,0 +1,23 @@
+{
+  "id": "CAL-6003",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-26T19:00:00+01:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Thomas Engel"
+  ],
+  "cc": [],
+  "subject": "EdTech Summit, Hamburg",
+  "thread_id": "THR-3193",
+  "body": "EdTech Summit, Hamburg — 26–27 October. Travel entry. Katrin Albers (board) is on the same panel.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-26T19:00:00+01:00",
+  "end": null,
+  "attendees": [
+    "Thomas Engel",
+    "Katrin Albers"
+  ],
+  "private": false
+}

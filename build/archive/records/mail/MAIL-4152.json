@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4152",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-01T10:15:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Mira, the machine took my cup hostage halfway through an espresso. Red light, about nine this morning. I rescued the cup; the coffee is less fortunate.\n\nBefore we order beans again, can someone check whether this is a water-feed problem? Ines",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9018",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-18T22:10:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "The crossed-out workshop slot is Wanda's old proposal. Please keep that note when exporting; otherwise it looks as if a class vanished. Clara",
+  "attachments": [],
+  "case_critical": false
+}

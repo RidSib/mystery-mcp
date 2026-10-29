@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8255",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-24T16:45:00+02:00",
+  "from": "Gio Heinrich",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "My support confirmation came through twice, but both emails show the same booking. I haven't reserved two slots.\n\nPlease keep the one in the afternoon; I can ignore the duplicate message if that's easiest. Gio",
+  "attachments": [],
+  "case_critical": false
+}

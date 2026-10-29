@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2028",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-06T13:45:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "The caption examples are useful. Could we keep one version with the corrections visible for my class?\n\nThey will learn more from the gerbil mistake than from a perfectly clean screenshot, although Marcus may disagree. Ben",
+  "attachments": [],
+  "case_critical": false
+}

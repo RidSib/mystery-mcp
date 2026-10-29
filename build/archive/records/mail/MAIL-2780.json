@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2780",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-17T15:05:00+02:00",
+  "from": "NordByte",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Routine integration support",
+  "thread_id": "THR-8631",
+  "body": "We received the integration ticket list. The attachment labelled \"latest\" duplicates the earlier export; the connector error itself is only in the second screenshot.\n\nCould you mark the relevant example in the ticket so the engineer doesn't repeat the same triage? NordByte",
+  "attachments": [],
+  "case_critical": false
+}

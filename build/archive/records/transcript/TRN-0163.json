@@ -1,0 +1,53 @@
+{
+  "id": "TRN-0163",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-10-10T14:55:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Sandra Kowalski",
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-5101",
+  "body": "2026-10-10T14:55:00+02:00 — Sandra Kowalski: Paula, don't start the demo programme run yet. Nora is still missing descriptions, and blank boxes are not an approved design.\n2026-10-10T14:55:58+02:00 — Paula Dietrich: Fine. Separately, the folded welcome pack sample works with Lukas's short-edge setting. The last page is finally upright.\n2026-10-10T14:57:05+02:00 — Sandra Kowalski: Can we approve that preset for the pack without making it the default for every job?\n2026-10-10T14:58:23+02:00 — Paula Dietrich: Yes, I'll give it a proper name after the sample check. TEST is still on it so nobody mistakes the trial for a finished batch.\n2026-10-10T14:59:46+02:00 — Sandra Kowalski: Uma's sheet count is the one for the paper order, then. We don't need the larger single-sided quantity.\n2026-10-10T15:00:50+02:00 — Paula Dietrich: I'll put the sample beside the order form. If someone changes the layout again, we'll test one copy before buying a small forest.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Sandra Kowalski",
+    "Paula Dietrich"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-10T14:55:00+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Paula, don't start the demo programme run yet. Nora is still missing descriptions, and blank boxes are not an approved design."
+    },
+    {
+      "timestamp": "2026-10-10T14:55:58+02:00",
+      "speaker": "Paula Dietrich",
+      "text": "Fine. Separately, the folded welcome pack sample works with Lukas's short-edge setting. The last page is finally upright."
+    },
+    {
+      "timestamp": "2026-10-10T14:57:05+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Can we approve that preset for the pack without making it the default for every job?"
+    },
+    {
+      "timestamp": "2026-10-10T14:58:23+02:00",
+      "speaker": "Paula Dietrich",
+      "text": "Yes, I'll give it a proper name after the sample check. TEST is still on it so nobody mistakes the trial for a finished batch."
+    },
+    {
+      "timestamp": "2026-10-10T14:59:46+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Uma's sheet count is the one for the paper order, then. We don't need the larger single-sided quantity."
+    },
+    {
+      "timestamp": "2026-10-10T15:00:50+02:00",
+      "speaker": "Paula Dietrich",
+      "text": "I'll put the sample beside the order form. If someone changes the layout again, we'll test one copy before buying a small forest."
+    }
+  ]
+}

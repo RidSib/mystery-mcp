@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3913",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-13T14:25:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Bringing the old single-sided welcome pile back to reception. Most of it can become scrap without another dramatic shredding session. Milan",
+  "attachments": [],
+  "case_critical": false
+}

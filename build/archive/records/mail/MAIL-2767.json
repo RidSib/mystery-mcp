@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2767",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-18T09:05:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Can you release the small print allowance today? We have names for the demo programme, but Paula won't print until there is a cost centre.\n\nI know the banner conversation was painful. This is paper, not another banner. Nora",
+  "attachments": [],
+  "case_critical": false
+}

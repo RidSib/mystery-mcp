@@ -1,0 +1,18 @@
+{
+  "id": "DRV-3381",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-08T12:00:00+02:00",
+  "from": "Facilities office",
+  "to": [],
+  "cc": [],
+  "subject": "Facilities questions and service records",
+  "thread_id": "THR-8341",
+  "body": "Facilities desk: quick answers\n\nToo warm? Send the room and approximate time; leave the building controls alone.\n\nPrinter stuck? Note the job name on the display. Reception can route the ticket; another copy in the queue usually makes it worse.\n\nReader flashing? Report the light pattern and time, without sharing your access credentials.\n\nPurchase query? Card logs for the drinks fridge are released by quoting the asset tag and service PIN on the sticker on the side of the fridge. Use the Academy drinks-service sticker, not the manufacturer's label.\n\nEquipment booking? Put the item on the booking sheet and return it for the next slot. A chat saying probably fine is not a reservation.\n\nLoose stationery? Leave it at reception. Please stop relocating entire pots of pens between teams.\n\nFlickering light? Note where and when so the fault can be reproduced.\n\nSpill? Tell facilities promptly and keep the route clear while it is dealt with.",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Facilities questions and service records",
+  "author_credit": "Facilities office",
+  "stored_time": "2026-09-08T12:00:00+02:00",
+  "published_time": "2026-09-08T12:00:00+02:00"
+}

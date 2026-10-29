@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0910",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-06T13:15:00+02:00",
+  "from": "Elena Wolf",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "The red light is back, but only after steaming milk. Two black coffees went through fine before my class.\n\nI put a yellow note beside the buttons so nobody keeps pressing everything. Please don't throw it out as litter. Elena",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "EXP-0482",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-23T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Halloween party decorations",
+  "thread_id": "THR-6458",
+  "body": "Halloween party decorations — €89.90. Order 48213. Approved by Ines Duarte.\n\nPutting this with the committee expenses rather than the teaching receipts. Marcus",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 89.9,
+  "status": "approved",
+  "approver": "Ines Duarte"
+}

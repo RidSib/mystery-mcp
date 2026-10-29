@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7533",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-03T14:55:00+02:00",
+  "from": "NordByte",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Routine integration support",
+  "thread_id": "THR-8631",
+  "body": "Priya, this month's support slot can cover the communications-archive connector and the badge integration. Please send the ticket numbers before the call.\n\nWe need the failed step and the time it happened, not a folder of unrelated screenshots. NordByte support",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6811",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-09T13:15:00+02:00",
+  "from": "Dina Wagner",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "I've made a tiny task list: cut, hang, clear away. At present everyone has volunteered for the first two.\n\nCan someone take clearing away before I let my class make another twenty bats? I'm looking at you, enthusiastic committee. Dina",
+  "attachments": [],
+  "case_critical": false
+}

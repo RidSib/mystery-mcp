@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3193",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-08T09:05:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "I think the duplicate is my fault. I copied the events row to show my class the layout and forgot that the sheet totals every visible line.\n\nIt was a demonstration, not a second request. Can you strike my row rather than delete the original? Ben",
+  "attachments": [],
+  "case_critical": false
+}

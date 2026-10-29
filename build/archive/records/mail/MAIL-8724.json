@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8724",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-03T15:05:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Ines, why is the same banner quote on both the events sheet and marketing's list? I only asked for one banner.\n\nPlease don't approve two because our tabs disagree. I can live without a bigger logo; I cannot explain buying it twice. Jule",
+  "attachments": [],
+  "case_critical": false
+}

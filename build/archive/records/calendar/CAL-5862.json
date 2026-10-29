@@ -1,0 +1,24 @@
+{
+  "id": "CAL-5862",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-29T16:15:00+02:00",
+  "from": "Nils Braun",
+  "to": [
+    "Nils Braun",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-7720",
+  "body": "Committee invitation: thumbnail versus destination.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-29T16:15:00+02:00",
+  "end": "2026-09-29T16:45:00+02:00",
+  "attendees": [
+    "Nils Braun",
+    "Nora Stein"
+  ],
+  "private": false
+}

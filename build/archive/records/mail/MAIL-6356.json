@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6356",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-07T17:25:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "The welcome slides have a few practical notes about keeping learning journals. I'll use the same setup link Nora circulated, so we don't spend the first session comparing versions.\n\nCan someone tell me when the corrected pack has gone out? Marcus",
+  "attachments": [],
+  "case_critical": false
+}

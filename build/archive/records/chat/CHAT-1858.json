@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-1858",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-05T14:55:00+02:00",
+  "from": "NordByte",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Routine integration support",
+  "thread_id": "THR-8631",
+  "body": "Priya, please put the connector error in the ticket itself. The shared attachment folder contains three exports with the same title. NordByte",
+  "attachments": [],
+  "case_critical": false
+}

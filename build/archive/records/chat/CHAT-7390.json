@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-7390",
+  "channel": "chat",
+  "release": "R1",
+  "event_time": "2026-10-27T11:30:00+01:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Staff chat"
+  ],
+  "cc": [],
+  "subject": "Bathroom sticker",
+  "thread_id": "THR-5873",
+  "body": "There's a weird sticker on the stall door in the bathroom, not one of ours. Can facilities look before someone bins it? Ines",
+  "attachments": [],
+  "case_critical": false
+}

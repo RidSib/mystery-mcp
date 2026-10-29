@@ -1,0 +1,24 @@
+{
+  "id": "CAL-4030",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-02T10:15:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Milan Berger",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-1700",
+  "body": "HB invitation format and committee list.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-02T10:15:00+02:00",
+  "end": "2026-09-02T10:45:00+02:00",
+  "attendees": [
+    "Milan Berger",
+    "Nora Stein"
+  ],
+  "private": false
+}

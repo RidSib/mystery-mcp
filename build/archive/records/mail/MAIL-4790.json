@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4790",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-30T16:15:00+02:00",
+  "from": "Sina Simon",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "The form says my slot is reserved but I didn't get a confirmation. Should I submit it again?\n\nI don't want to book the same person twice. The time shown on the final screen was correct. Sina",
+  "attachments": [],
+  "case_critical": false
+}

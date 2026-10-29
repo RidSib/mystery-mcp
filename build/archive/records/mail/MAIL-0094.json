@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0094",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-28T10:15:00+02:00",
+  "from": "Greta Hoffmann",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "The visitors now think we have banned milk. Progress of a sort.\n\nI've been offering tea while the repair is pending; we're almost through the peppermint box. Please include a small replacement box in the normal order, not another emergency shop run. Greta",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "CAL-6968",
+  "channel": "calendar",
+  "release": "R1",
+  "event_time": "2026-10-26T15:35:00+01:00",
+  "from": "Greta Hoffmann",
+  "to": [
+    "Greta Hoffmann",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-2428",
+  "body": "Admissions handover: workshop-refund references and private document route. Use the revised instructions. Greta",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-26T15:35:00+01:00",
+  "end": "2026-10-26T16:05:00+01:00",
+  "attendees": [
+    "Greta Hoffmann",
+    "Nora Stein"
+  ],
+  "private": false
+}

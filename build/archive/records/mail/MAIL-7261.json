@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7261",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-23T13:15:00+02:00",
+  "from": "Lukas Meyer",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "The invitation preview is working again. The old thumbnail may linger, but the link goes to the committee copy.\n\nI haven't touched anybody's headcount. Please ask Nora about names rather than opening another IT ticket. Lukas",
+  "attachments": [],
+  "case_critical": false
+}

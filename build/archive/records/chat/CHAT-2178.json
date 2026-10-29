@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2178",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-01T09:05:00+02:00",
+  "from": "Nils Braun",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Two CURRENT files again. I won't pick one by modification date; that only tells us who last opened the wrong copy. Nils",
+  "attachments": [],
+  "case_critical": false
+}

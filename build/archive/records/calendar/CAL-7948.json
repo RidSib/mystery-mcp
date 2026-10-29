@@ -1,0 +1,24 @@
+{
+  "id": "CAL-7948",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-30T17:25:00+02:00",
+  "from": "Viktor Klein",
+  "to": [
+    "Viktor Klein",
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-6269",
+  "body": "Coursework examples reaching IT.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-30T17:25:00+02:00",
+  "end": "2026-09-30T17:55:00+02:00",
+  "attendees": [
+    "Viktor Klein",
+    "Priya Nair"
+  ],
+  "private": false
+}

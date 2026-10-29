@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5103",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-12T10:15:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "This isn't in the IT queue any more, is it? Lukas was asked to \"restart the coffee server\" and came upstairs with a laptop.\n\nFacilities should have the service booking. I'll close our duplicate ticket once you confirm. Priya",
+  "attachments": [],
+  "case_critical": false
+}

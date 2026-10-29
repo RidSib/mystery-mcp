@@ -1,0 +1,180 @@
+{
+  "id": "DRV-6650",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-07T12:00:00+02:00",
+  "from": "Facilities office",
+  "to": [],
+  "cc": [],
+  "subject": "Staff and daytime-access card register",
+  "thread_id": "THR-7915",
+  "body": "Card allocations — current register\n\nAlphabetical by surname. Use this list to check the registered holder, not attendance. Student cards are daytime access only. Facilities handles corrections.\n\nOmar Albrecht — 1100\nAmira Becker — 1101\nMilan Berger — 1102\nLeo Brandt — 1103\nNils Braun — 1104\nPaula Dietrich — 1105\nInes Duarte — 0451\nThomas Engel — 1107\nMira Falk — 1108\nMarcus Fenwick — 0412\nLena Fischer — 1110\nRafael Frank — 1111\nSara Günther — 1112\nJule Hartmann — 0433\nTheo Hartwig — 1114\nGreta Hoffmann — 1115\nUma Jansen — 1116\nAda Keller — 1117\nViktor Klein — 1118\nSandra Kowalski — 1119\nFelix Krüger — 1120\nWanda Lange — 1121\nRosa Lima — 1122\nBen Lorenz — 1123\nKofi Mensah — 1124\nLukas Meyer — 1125\nYara Möller — 1126\nPriya Nair — 0407\nClara Neumann — 1128\nZoe Peters — 1129\nJana Richter — 1130\nMaja Schneider — 1131\nHanna Schulz — 1132\nAnton Seidel — 1133\nDavid Sommer — 1134\nNora Stein — 1135\nKarim Vogt — 1136\nDina Wagner — 1137\nIdris Weber — 1138\nElena Wolf — 1139",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Staff and daytime-access card register",
+  "author_credit": "Facilities office",
+  "stored_time": "2026-09-07T12:00:00+02:00",
+  "published_time": "2026-09-07T12:00:00+02:00",
+  "holders": [
+    {
+      "holder": "Omar Albrecht",
+      "card": "1100"
+    },
+    {
+      "holder": "Amira Becker",
+      "card": "1101"
+    },
+    {
+      "holder": "Milan Berger",
+      "card": "1102"
+    },
+    {
+      "holder": "Leo Brandt",
+      "card": "1103"
+    },
+    {
+      "holder": "Nils Braun",
+      "card": "1104"
+    },
+    {
+      "holder": "Paula Dietrich",
+      "card": "1105"
+    },
+    {
+      "holder": "Ines Duarte",
+      "card": "0451"
+    },
+    {
+      "holder": "Thomas Engel",
+      "card": "1107"
+    },
+    {
+      "holder": "Mira Falk",
+      "card": "1108"
+    },
+    {
+      "holder": "Marcus Fenwick",
+      "card": "0412"
+    },
+    {
+      "holder": "Lena Fischer",
+      "card": "1110"
+    },
+    {
+      "holder": "Rafael Frank",
+      "card": "1111"
+    },
+    {
+      "holder": "Sara Günther",
+      "card": "1112"
+    },
+    {
+      "holder": "Jule Hartmann",
+      "card": "0433"
+    },
+    {
+      "holder": "Theo Hartwig",
+      "card": "1114"
+    },
+    {
+      "holder": "Greta Hoffmann",
+      "card": "1115"
+    },
+    {
+      "holder": "Uma Jansen",
+      "card": "1116"
+    },
+    {
+      "holder": "Ada Keller",
+      "card": "1117"
+    },
+    {
+      "holder": "Viktor Klein",
+      "card": "1118"
+    },
+    {
+      "holder": "Sandra Kowalski",
+      "card": "1119"
+    },
+    {
+      "holder": "Felix Krüger",
+      "card": "1120"
+    },
+    {
+      "holder": "Wanda Lange",
+      "card": "1121"
+    },
+    {
+      "holder": "Rosa Lima",
+      "card": "1122"
+    },
+    {
+      "holder": "Ben Lorenz",
+      "card": "1123"
+    },
+    {
+      "holder": "Kofi Mensah",
+      "card": "1124"
+    },
+    {
+      "holder": "Lukas Meyer",
+      "card": "1125"
+    },
+    {
+      "holder": "Yara Möller",
+      "card": "1126"
+    },
+    {
+      "holder": "Priya Nair",
+      "card": "0407"
+    },
+    {
+      "holder": "Clara Neumann",
+      "card": "1128"
+    },
+    {
+      "holder": "Zoe Peters",
+      "card": "1129"
+    },
+    {
+      "holder": "Jana Richter",
+      "card": "1130"
+    },
+    {
+      "holder": "Maja Schneider",
+      "card": "1131"
+    },
+    {
+      "holder": "Hanna Schulz",
+      "card": "1132"
+    },
+    {
+      "holder": "Anton Seidel",
+      "card": "1133"
+    },
+    {
+      "holder": "David Sommer",
+      "card": "1134"
+    },
+    {
+      "holder": "Nora Stein",
+      "card": "1135"
+    },
+    {
+      "holder": "Karim Vogt",
+      "card": "1136"
+    },
+    {
+      "holder": "Dina Wagner",
+      "card": "1137"
+    },
+    {
+      "holder": "Idris Weber",
+      "card": "1138"
+    },
+    {
+      "holder": "Elena Wolf",
+      "card": "1139"
+    }
+  ]
+}

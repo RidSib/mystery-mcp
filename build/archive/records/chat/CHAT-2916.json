@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2916",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-20T14:55:00+02:00",
+  "from": "Jamal Krause",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Name typo on my receipt, same payment. I'll send the original confirmation directly rather than put financial details in chat. Jamal",
+  "attachments": [],
+  "case_critical": false
+}

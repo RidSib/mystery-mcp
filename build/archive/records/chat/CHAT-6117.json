@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6117",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-24T09:35:00+02:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Can someone explain the blue total before our review? It is larger than the grey total and neither has a useful label. Thomas",
+  "attachments": [],
+  "case_critical": false
+}

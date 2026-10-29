@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4901",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-06T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course title and copy",
+  "thread_id": "THR-8751",
+  "body": "this course is eating my weekends",
+  "attachments": [],
+  "case_critical": false
+}

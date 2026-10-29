@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9891",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-06T15:05:00+02:00",
+  "from": "Kofi Mensah",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Refund instructions found on the reception shelf. Please tell me which pile is current before I put them out. Kofi",
+  "attachments": [],
+  "case_critical": false
+}

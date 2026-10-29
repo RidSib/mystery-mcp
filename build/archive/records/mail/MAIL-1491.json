@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1491",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-24T17:55:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "The grid has one live version at last. I checked my workshop line and the duplicate proposal is crossed out.\n\nPlease leave the explanatory note attached when you export it; otherwise Wanda's old slot will look like an unexplained cancellation again. Clara",
+  "attachments": [],
+  "case_critical": false
+}

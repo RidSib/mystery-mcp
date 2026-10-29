@@ -1,0 +1,24 @@
+{
+  "id": "CAL-0239",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-09T16:15:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Clara Neumann",
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-2893",
+  "body": "Coffee fault notes with Mira.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-09T16:15:00+02:00",
+  "end": "2026-09-09T16:45:00+02:00",
+  "attendees": [
+    "Clara Neumann",
+    "Mira Falk"
+  ],
+  "private": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9860",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-12T12:35:00+02:00",
+  "from": "Greta Hoffmann",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Jule, could we have three plain sentences for enquiries? The draft is full of slogans and I don't want to improvise a promise on the phone.\n\nDina's practice examples would be more useful than another adjective. Greta",
+  "attachments": [],
+  "case_critical": false
+}

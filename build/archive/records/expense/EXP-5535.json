@@ -1,0 +1,19 @@
+{
+  "id": "EXP-5535",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-21T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Paper garlands",
+  "thread_id": "THR-4756",
+  "body": "Paper garlands for the Bash. These are the lightweight ones; keep them clear of door glass. Jule",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 49.25,
+  "status": "submitted",
+  "approver": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1339",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-04T17:25:00+02:00",
+  "from": "Hanna Schulz",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Priya, the caption preview fails on my laptop but works on the classroom machine. Same file, same link.\n\nI've written down the browser versions instead of taking another photo of the error. Is that enough for the ticket? Hanna",
+  "attachments": [],
+  "case_critical": false
+}

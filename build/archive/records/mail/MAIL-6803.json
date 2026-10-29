@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6803",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-11T10:45:00+02:00",
+  "from": "Rosa Lima",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "The old support sheet is still under the new one on the desk. People turn it over when they borrow a pen and then read the wrong side.\n\nI'll take the loose copy to reception unless somebody needs it for records. Rosa",
+  "attachments": [],
+  "case_critical": false
+}

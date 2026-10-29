@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-7962",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-30T16:45:00+02:00",
+  "from": "Amira Becker",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Any teaspoons left? Amira",
+  "attachments": [],
+  "case_critical": false
+}

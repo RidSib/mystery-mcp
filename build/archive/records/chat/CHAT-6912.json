@@ -1,0 +1,16 @@
+{
+  "cc": [],
+  "attachments": [],
+  "case_critical": false,
+  "id": "CHAT-6912",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-21T22:47:00+02:00",
+  "from": "Katrin Albers",
+  "to": [
+    "Thomas Engel"
+  ],
+  "subject": "Direct message",
+  "thread_id": "THR-6913",
+  "body": "Same hotel as you on Monday. Dinner after the panel? I'll keep it off the board calendar 😉"
+}

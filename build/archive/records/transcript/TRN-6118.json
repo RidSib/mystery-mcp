@@ -1,0 +1,63 @@
+{
+  "id": "TRN-6118",
+  "channel": "transcript",
+  "release": "R1",
+  "event_time": "2026-10-26T23:35:00+01:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Thomas Engel",
+    "Investor"
+  ],
+  "cc": [],
+  "subject": "Investor call",
+  "thread_id": "THR-3926",
+  "body": "2026-10-26T23:35:00+01:00 — Thomas Engel: Good evening from my Hamburg hotel. Thanks for working around the time difference. I have the Academy notes open.\n2026-10-26T23:36:55+01:00 — Investor: Let's start with the ordinary update and leave the detailed figures for a follow-up. I'd rather ask the right questions.\n2026-10-26T23:39:06+01:00 — Thomas Engel: the harbour view here is ridiculous. The camera doesn't do it justice. Anyway, back to the notes before I give you a window tour.\n2026-10-26T23:42:10+01:00 — Investor: Keep the planning assumptions beside the totals. Otherwise two versions of a number look like a disagreement about the figures themselves.\n2026-10-26T23:44:30+01:00 — Thomas Engel: Sorry, one second. (a door closes) Room service. Where were we?\n2026-10-26T23:46:05+01:00 — Thomas Engel: I'm back in Berlin Thursday. Send the questions and we can pick this up with the right people rather than improvise tonight.\n2026-10-26T23:50:00+01:00 — Investor: That works. Include the short written update, please; I can circulate it without making everyone listen to another long call.\n2026-10-26T23:52:00+01:00 — Thomas Engel: I'll follow up with the notes. Good night, and thanks for the late slot.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Thomas Engel",
+    "Investor"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-26T23:35:00+01:00",
+      "speaker": "Thomas Engel",
+      "text": "Good evening from my Hamburg hotel. Thanks for working around the time difference. I have the Academy notes open."
+    },
+    {
+      "timestamp": "2026-10-26T23:36:55+01:00",
+      "speaker": "Investor",
+      "text": "Let's start with the ordinary update and leave the detailed figures for a follow-up. I'd rather ask the right questions."
+    },
+    {
+      "timestamp": "2026-10-26T23:39:06+01:00",
+      "speaker": "Thomas Engel",
+      "text": "the harbour view here is ridiculous. The camera doesn't do it justice. Anyway, back to the notes before I give you a window tour."
+    },
+    {
+      "timestamp": "2026-10-26T23:42:10+01:00",
+      "speaker": "Investor",
+      "text": "Keep the planning assumptions beside the totals. Otherwise two versions of a number look like a disagreement about the figures themselves."
+    },
+    {
+      "timestamp": "2026-10-26T23:44:30+01:00",
+      "speaker": "Thomas Engel",
+      "text": "Sorry, one second. (a door closes) Room service. Where were we?"
+    },
+    {
+      "timestamp": "2026-10-26T23:46:05+01:00",
+      "speaker": "Thomas Engel",
+      "text": "I'm back in Berlin Thursday. Send the questions and we can pick this up with the right people rather than improvise tonight."
+    },
+    {
+      "timestamp": "2026-10-26T23:50:00+01:00",
+      "speaker": "Investor",
+      "text": "That works. Include the short written update, please; I can circulate it without making everyone listen to another long call."
+    },
+    {
+      "timestamp": "2026-10-26T23:52:00+01:00",
+      "speaker": "Thomas Engel",
+      "text": "I'll follow up with the notes. Good night, and thanks for the late slot."
+    }
+  ]
+}

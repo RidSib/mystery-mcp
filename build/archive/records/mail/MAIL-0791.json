@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0791",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-05T09:05:00+02:00",
+  "from": "Lena Fischer",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "The broken-monitor replacement is sitting under \"nice to have\" again. It is not an extra screen; it replaces the one that cuts out during support appointments.\n\nI'm attaching the existing quote to that row, not asking for a second purchase. Lena",
+  "attachments": [],
+  "case_critical": false
+}

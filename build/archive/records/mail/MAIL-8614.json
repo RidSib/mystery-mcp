@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8614",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-20T14:55:00+02:00",
+  "from": "Kofi Mensah",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "If these planning sessions run late, let facilities know through the normal booking route. A calendar colour isn't a building-use request.\n\nI need to know which rooms are booked, not read every disagreement about the rota. Kofi",
+  "attachments": [],
+  "case_critical": false
+}

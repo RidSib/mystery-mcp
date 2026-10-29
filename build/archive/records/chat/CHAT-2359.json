@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2359",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-22T16:15:00+02:00",
+  "from": "Maja Schneider",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Nora, a second confirmation shouldn't mean a second booking. I'll check the duplicate notification against the existing slot before we tell anyone to submit again. Maja",
+  "attachments": [],
+  "case_critical": false
+}

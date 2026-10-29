@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2871",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-09T12:00:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "IT support queue",
+  "thread_id": "THR-1151",
+  "body": "Some days I'm the only one keeping IT alive. NordByte never picks up, and the tickets still have my name on them. Priya",
+  "attachments": [],
+  "case_critical": false
+}

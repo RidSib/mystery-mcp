@@ -1,0 +1,19 @@
+{
+  "id": "EXP-8771",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-09T12:00:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Refreshments",
+  "thread_id": "THR-2424",
+  "body": "Refreshments for the Halloween Bash. Receipt filed against the committee line rather than normal facilities supplies. Ines",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 19.85,
+  "status": "submitted",
+  "approver": null
+}

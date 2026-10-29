@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3593",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-28T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course title and copy",
+  "thread_id": "THR-1320",
+  "body": "the reviews will be brutal if the headline is the only thing anyone remembers about us",
+  "attachments": [],
+  "case_critical": false
+}

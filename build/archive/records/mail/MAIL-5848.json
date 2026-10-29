@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5848",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-18T09:35:00+02:00",
+  "from": "Amira Becker",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Nora, Wanda's students are forwarding refund questions to teachers because the form gives no acknowledgement. Can we send an interim reply while the page is fixed?\n\nA simple \"we received it\" would be better than another explanation of browser refresh. Amira",
+  "attachments": [],
+  "case_critical": false
+}

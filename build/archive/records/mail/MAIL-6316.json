@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6316",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-04T09:35:00+02:00",
+  "from": "Hadi Jung",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Hi Nora, my welcome email says bring a laptop but the checklist says equipment provided. I only have an old tablet.\n\nShould I borrow a laptop before the first session, or is the checklist the newer version? Hadi",
+  "attachments": [],
+  "case_critical": false
+}

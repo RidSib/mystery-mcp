@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6559",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-16T14:25:00+02:00",
+  "from": "Hanna Schulz",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "I've checked the pack on a phone. The contact names wrap awkwardly, but the equipment distinction is finally readable.\n\nPlease stop sending screenshots of the old cover for approval; the version with the green underline is the one I've just reviewed. Hanna",
+  "attachments": [],
+  "case_critical": false
+}

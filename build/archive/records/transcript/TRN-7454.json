@@ -1,0 +1,53 @@
+{
+  "id": "TRN-7454",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-09-24T12:35:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Nils Braun",
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-1707",
+  "body": "2026-09-24T12:35:00+02:00 — Nils Braun: Jule, the preview folder has two files labelled CURRENT. I can tidy the link once you identify which one belongs to the review.\n2026-09-24T12:35:58+02:00 — Jule Hartmann: I know. Karim is looking at the layout while Dina comments in the copy sheet. They aren't seeing the same headline.\n2026-09-24T12:37:05+02:00 — Nils Braun: Could the sheet name the file directly? If I choose by modification time, I may just promote the last person to make a typo.\n2026-09-24T12:38:23+02:00 — Jule Hartmann: Put the question at the top. Admissions also needs something plainer than the slogan for phone enquiries.\n2026-09-24T12:39:46+02:00 — Nils Braun: Greta asked for three sentences about practice. That sounds more useful than trying to describe a preview screenshot.\n2026-09-24T12:40:50+02:00 — Jule Hartmann: Yes. I'll take Dina's examples to the discussion. Please leave both files alone until the review sheet is explicit.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Nils Braun",
+    "Jule Hartmann"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-09-24T12:35:00+02:00",
+      "speaker": "Nils Braun",
+      "text": "Jule, the preview folder has two files labelled CURRENT. I can tidy the link once you identify which one belongs to the review."
+    },
+    {
+      "timestamp": "2026-09-24T12:35:58+02:00",
+      "speaker": "Jule Hartmann",
+      "text": "I know. Karim is looking at the layout while Dina comments in the copy sheet. They aren't seeing the same headline."
+    },
+    {
+      "timestamp": "2026-09-24T12:37:05+02:00",
+      "speaker": "Nils Braun",
+      "text": "Could the sheet name the file directly? If I choose by modification time, I may just promote the last person to make a typo."
+    },
+    {
+      "timestamp": "2026-09-24T12:38:23+02:00",
+      "speaker": "Jule Hartmann",
+      "text": "Put the question at the top. Admissions also needs something plainer than the slogan for phone enquiries."
+    },
+    {
+      "timestamp": "2026-09-24T12:39:46+02:00",
+      "speaker": "Nils Braun",
+      "text": "Greta asked for three sentences about practice. That sounds more useful than trying to describe a preview screenshot."
+    },
+    {
+      "timestamp": "2026-09-24T12:40:50+02:00",
+      "speaker": "Jule Hartmann",
+      "text": "Yes. I'll take Dina's examples to the discussion. Please leave both files alone until the review sheet is explicit."
+    }
+  ]
+}

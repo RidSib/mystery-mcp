@@ -1,0 +1,110 @@
+{
+  "record_id": "LOG-5190",
+  "release": "R2",
+  "revisions": [
+    {
+      "revision": "routine-01",
+      "event_time": "2026-09-03T10:15:00+02:00",
+      "action": "exercise_draft_saved",
+      "area": "exercise_bank"
+    },
+    {
+      "revision": "routine-02",
+      "event_time": "2026-09-11T14:05:00+02:00",
+      "action": "preview_checked",
+      "area": "course_page"
+    },
+    {
+      "revision": "routine-03",
+      "event_time": "2026-09-18T11:25:00+02:00",
+      "action": "resource_link_updated",
+      "area": "module_resources"
+    },
+    {
+      "revision": "routine-04",
+      "event_time": "2026-09-29T09:40:00+02:00",
+      "action": "draft_copy_saved",
+      "area": "course_page"
+    },
+    {
+      "revision": "routine-05",
+      "event_time": "2026-10-06T15:10:00+02:00",
+      "action": "exercise_notes_saved",
+      "area": "exercise_bank"
+    },
+    {
+      "revision": "routine-06",
+      "event_time": "2026-10-15T10:30:00+02:00",
+      "action": "registration_summary_viewed",
+      "area": "enrolments"
+    },
+    {
+      "revision": "routine-07",
+      "event_time": "2026-10-20T16:05:00+02:00",
+      "action": "page_draft_saved",
+      "area": "course_page"
+    },
+    {
+      "revision": "routine-08",
+      "event_time": "2026-10-26T11:20:00+01:00",
+      "action": "module_preview_checked",
+      "area": "module_resources"
+    },
+    {
+      "revision": "v1",
+      "event_time": "2026-10-26T23:59:00+01:00",
+      "action": "session_opened",
+      "session_id": "7f3a-91c2"
+    },
+    {
+      "revision": "v2",
+      "event_time": "2026-10-26T23:59:00+01:00",
+      "action": "export_started",
+      "session_id": "7f3a-91c2"
+    },
+    {
+      "revision": "v3",
+      "event_time": "2026-10-27T00:09:41+01:00",
+      "action": "export_completed",
+      "session_id": "7f3a-91c2"
+    },
+    {
+      "revision": "v4",
+      "event_time": "2026-10-27T00:11:00+01:00",
+      "action": "course_deleted",
+      "deleted_by": "local-console SR-CON-01",
+      "session_id": "7f3a-91c2"
+    },
+    {
+      "revision": "v5",
+      "event_time": "2026-10-27T00:12:00+01:00",
+      "action": "field_changed",
+      "field": "deleted_by",
+      "before": "local-console SR-CON-01",
+      "after": "p.nair",
+      "session_id": "7f3a-91c2"
+    },
+    {
+      "revision": "v6",
+      "event_time": "2026-10-27T00:14:00+01:00",
+      "action": "field_changed",
+      "field": "status",
+      "before": "scheduled — launch 9 Nov",
+      "after": "cancelled by Marketing",
+      "session_id": "7f3a-91c2"
+    },
+    {
+      "revision": "v7",
+      "event_time": "2026-10-27T00:18:00+01:00",
+      "action": "backup_unmounted",
+      "device": "BK-02",
+      "session_id": "7f3a-91c2"
+    },
+    {
+      "revision": "v8",
+      "event_time": "2026-10-27T02:00:00+01:00",
+      "action": "backup_failed",
+      "message": "target BK-02 missing"
+    }
+  ]
+}

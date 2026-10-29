@@ -1,0 +1,24 @@
+{
+  "id": "CAL-2507",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-25T12:05:00+01:00",
+  "from": "Yara Möller",
+  "to": [
+    "Yara Möller",
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-6791",
+  "body": "Check remaining welcome-pack folders with Felix. Count unused stock, not just packs handed out. Yara",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-25T12:05:00+01:00",
+  "end": "2026-10-25T12:35:00+01:00",
+  "attendees": [
+    "Yara Möller",
+    "Ines Duarte"
+  ],
+  "private": false
+}

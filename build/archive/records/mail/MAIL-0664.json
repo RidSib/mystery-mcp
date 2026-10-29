@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0664",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-08T11:25:00+02:00",
+  "from": "Omar Albrecht",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "The facilities tablet keeps opening the old rota from its home-screen shortcut. Refreshing the page works; tapping the icon starts the problem again.\n\nI can remove the shortcut if you tell me which link should replace it. Omar",
+  "attachments": [],
+  "case_critical": false
+}

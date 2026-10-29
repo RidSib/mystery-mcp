@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6393",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-24T09:35:00+02:00",
+  "from": "Lukas Meyer",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "The preview link opens. The old thumbnail is cached, though, which is why people think their changes vanished.\n\nTry a fresh tab before resending the whole file. I'll flag the preview issue to Maja separately. Lukas",
+  "attachments": [],
+  "case_critical": false
+}

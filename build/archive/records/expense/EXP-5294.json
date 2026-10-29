@@ -1,0 +1,19 @@
+{
+  "id": "EXP-5294",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-09-08T10:15:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-5651",
+  "body": "Support-desk stationery. Appointment labels and a folder for the handover, no equipment included. Ben",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 18.05,
+  "status": "submitted",
+  "approver": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6648",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-01T17:55:00+02:00",
+  "from": "Hanna Schulz",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "The contact block needs a phone check before we export it. It wraps straight through Nora's surname. Hanna",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5382",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-20T13:45:00+02:00",
+  "from": "Ola Reuter",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Can I bring just the sentence I'm stuck on? It's a practice exercise question, not something that needs an account screenshot. Ola",
+  "attachments": [],
+  "case_critical": false
+}

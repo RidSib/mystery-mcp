@@ -1,0 +1,24 @@
+{
+  "id": "CAL-7143",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-11T09:35:00+02:00",
+  "from": "Paula Dietrich",
+  "to": [
+    "Paula Dietrich",
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-5261",
+  "body": "Leaflet preview — which filename?",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-11T09:35:00+02:00",
+  "end": "2026-09-11T10:05:00+02:00",
+  "attendees": [
+    "Paula Dietrich",
+    "Jule Hartmann"
+  ],
+  "private": false
+}

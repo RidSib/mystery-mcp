@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5523",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-22T12:05:00+02:00",
+  "from": "Felix Krüger",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Ines, the welcome packs have eight spare folders. Should I return them to supplies or hold them for late joiners?\n\nI haven't ordered replacements. The spreadsheet is showing a shortage because someone counted packs issued rather than folders remaining. Felix",
+  "attachments": [],
+  "case_critical": false
+}

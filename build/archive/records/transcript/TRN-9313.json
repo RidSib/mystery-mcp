@@ -1,0 +1,53 @@
+{
+  "id": "TRN-9313",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-10-17T15:05:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Nora Stein",
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-9392",
+  "body": "2026-10-17T15:05:00+02:00 — Nora Stein: Ines, can we separate the banner argument from the print allowance? I need a cost centre for the programme, not a decision on every purchase this month. Felix's folder count is separate too; the cupboard stock isn't the same unit as the packs handed out.\n2026-10-17T15:05:58+02:00 — Ines Duarte: Yes. Theo found the demonstration row in a hidden subtotal. One banner request, still a quote rather than a paid invoice.\n2026-10-17T15:07:05+02:00 — Nora Stein: Good. Felix is also counting unused folders. The sheet says shortage, but there are folders sitting in the cupboard.\n2026-10-17T15:08:23+02:00 — Ines Duarte: That's issued packs versus stock on hand. Ask him to put the units in the column headings before we order replacements. If the headings stay vague, we'll have the same argument next month with different numbers.\n2026-10-17T15:09:46+02:00 — Nora Stein: I'll chase the programme descriptions, then. Paula is holding the run until the spaces are filled.\n2026-10-17T15:10:50+02:00 — Ines Duarte: And keep the earlier total labelled. I would rather explain a correction than discover somebody erased the reason for it. The crossed-out row is useful evidence of a correction. A mysterious smaller total is just an invitation to another meeting.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Nora Stein",
+    "Ines Duarte"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-17T15:05:00+02:00",
+      "speaker": "Nora Stein",
+      "text": "Ines, can we separate the banner argument from the print allowance? I need a cost centre for the programme, not a decision on every purchase this month. Felix's folder count is separate too; the cupboard stock isn't the same unit as the packs handed out."
+    },
+    {
+      "timestamp": "2026-10-17T15:05:58+02:00",
+      "speaker": "Ines Duarte",
+      "text": "Yes. Theo found the demonstration row in a hidden subtotal. One banner request, still a quote rather than a paid invoice."
+    },
+    {
+      "timestamp": "2026-10-17T15:07:05+02:00",
+      "speaker": "Nora Stein",
+      "text": "Good. Felix is also counting unused folders. The sheet says shortage, but there are folders sitting in the cupboard."
+    },
+    {
+      "timestamp": "2026-10-17T15:08:23+02:00",
+      "speaker": "Ines Duarte",
+      "text": "That's issued packs versus stock on hand. Ask him to put the units in the column headings before we order replacements. If the headings stay vague, we'll have the same argument next month with different numbers."
+    },
+    {
+      "timestamp": "2026-10-17T15:09:46+02:00",
+      "speaker": "Nora Stein",
+      "text": "I'll chase the programme descriptions, then. Paula is holding the run until the spaces are filled."
+    },
+    {
+      "timestamp": "2026-10-17T15:10:50+02:00",
+      "speaker": "Ines Duarte",
+      "text": "And keep the earlier total labelled. I would rather explain a correction than discover somebody erased the reason for it. The crossed-out row is useful evidence of a correction. A mysterious smaller total is just an invitation to another meeting."
+    }
+  ]
+}

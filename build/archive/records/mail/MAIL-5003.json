@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5003",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-23T08:10:00+02:00",
+  "from": "Rosa Lima",
+  "to": [
+    "Facilities"
+  ],
+  "cc": [],
+  "subject": "Resignation",
+  "thread_id": "THR-2025",
+  "body": "Mira, I am resigning. On 22 October at about 23:10 I saw a white figure near the server room. I couldn't see who it was.\n\nAfter the whispering in the bathroom as well, I don't want to keep working here at night. Please tell me how to return my work things and finish the paperwork. Rosa",
+  "attachments": [],
+  "case_critical": false
+}

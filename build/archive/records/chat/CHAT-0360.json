@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-0360",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-11T11:55:00+02:00",
+  "from": "Omar Albrecht",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Bottle reminder goes above the footer, not over it. My print preview has produced a very thirsty copyright notice. Omar",
+  "attachments": [],
+  "case_critical": false
+}

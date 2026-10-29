@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6835",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-21T17:40:00+02:00",
+  "from": "Amira Becker",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Covering again",
+  "thread_id": "THR-8964",
+  "body": "Sandra, that's the third evening class I've covered for this month, and nobody has said a word about it. I'm happy to help, but I'm also writing my own module for demo day in whatever time is left.\n\nCan we talk about who covers next week before it lands on me again? Amira",
+  "attachments": [],
+  "case_critical": false
+}

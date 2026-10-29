@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5010",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-01T09:05:00+02:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "Sandra, can we make the demo programme useful to visitors who don't already know the projects? A list of clever titles isn't enough.\n\nOne sentence per team, with what the audience will actually see, would help. Thomas",
+  "attachments": [],
+  "case_critical": false
+}

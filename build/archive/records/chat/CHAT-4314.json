@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4314",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-25T10:45:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "A photo of a carrier bag is not a receipt. It is evidence that somebody owns a carrier bag. Ines",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "EXP-6319",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-16T12:00:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Table supplies",
+  "thread_id": "THR-9223",
+  "body": "Table supplies for Halloween Bash. Check the committee inventory before reordering; there should be enough for the planned layout. Milan",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 34.55,
+  "status": "submitted",
+  "approver": null
+}

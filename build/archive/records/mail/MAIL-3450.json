@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3450",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-27T16:45:00+02:00",
+  "from": "Yara Möller",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Two students asked whether they can opt out of appearing in the channel clips. Can the caption notes point them to a direct contact?\n\nA joke reply in the public comments isn't enough when someone wants their face removed. Yara",
+  "attachments": [],
+  "case_critical": false
+}

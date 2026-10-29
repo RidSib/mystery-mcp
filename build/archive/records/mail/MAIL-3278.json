@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3278",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-26T17:25:00+01:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Can we have a short list of unresolved support issues for the weekly review? I'm seeing forwarded screenshots without the question that goes with them.\n\nKeep it to a few lines per item. The review needs decisions, not a tour of everybody's inbox. Thomas",
+  "attachments": [],
+  "case_critical": false
+}

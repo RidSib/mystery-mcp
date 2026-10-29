@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9958",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-17T16:45:00+02:00",
+  "from": "Viktor Klein",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "I can take the coursework questions in the uncovered part of the rota this week. Please leave the technical questions with Lena.\n\nDavid's note includes two practice exercises people keep getting stuck on; I'll bring those instructions. Viktor",
+  "attachments": [],
+  "case_critical": false
+}

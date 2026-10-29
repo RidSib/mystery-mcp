@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6201",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-23T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-7677",
+  "body": "Sandra, I have three weeks to rework the modules for the rename. That isn't a tidy-up of the title slide; the positioning runs through the material.\n\nI'm already overworked. Please tell me which other jobs come off my list, and who is actually looking at the work when it's done. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

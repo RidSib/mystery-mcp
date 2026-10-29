@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9322",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-11T09:35:00+02:00",
+  "from": "Dina Wagner",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "The learning outcomes are doing too much work underneath that promise. Could we lead with what students will practise, rather than what their lives will become?\n\nI marked two examples in the margin. Nothing else needs rewriting yet. Dina",
+  "attachments": [],
+  "case_critical": false
+}

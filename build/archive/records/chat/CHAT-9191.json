@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9191",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-19T10:12:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "Do you see the new banner thumbnail or the old orange one?",
+  "attachments": [],
+  "case_critical": false
+}

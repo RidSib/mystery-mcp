@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4040",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-10T15:05:00+02:00",
+  "from": "Felix Krüger",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "Students keep asking whether the demo order is also their assessment order. Can you confirm the wording before I reply to the group?\n\nI can collect missing descriptions, but I don't want to invent a grading rule. Felix",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-0923",
+  "channel": "chat",
+  "release": "R1",
+  "event_time": "2026-10-26T13:15:00+01:00",
+  "from": "David Sommer",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "The corrected tour captions are readable on my phone now. Dark strip behind the words worked better than giant bold text. David",
+  "attachments": [],
+  "case_critical": false
+}

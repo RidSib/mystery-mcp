@@ -1,0 +1,18 @@
+{
+  "cc": [],
+  "attachments": [],
+  "case_critical": false,
+  "id": "DRV-5530",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-14T12:00:00+02:00",
+  "from": "IT office",
+  "to": [],
+  "subject": "IT device register",
+  "thread_id": "THR-5531",
+  "body": "IT device register — staff laptops and approval phones\n\nRegistered approval phones can confirm sign-ins and platform actions for their owner. Report lost devices to IT the same day.\n\nLT-8709 — laptop — Loan pool (classroom 2)\nLT-1385 — laptop — Loan pool (classroom 2)\nLT-9343 — laptop — Omar Albrecht\nLT-3540 — laptop — Amira Becker\nLT-3092 — laptop — Milan Berger\nD-9608 — phone (approval device) — Milan Berger\nLT-9889 — laptop — Nils Braun\nD-2657 — phone (approval device) — Nils Braun\nLT-2753 — laptop — Paula Dietrich\nD-6198 — phone (approval device) — Paula Dietrich\nLT-1000 — laptop — Ines Duarte\nD-3138 — phone (approval device) — Ines Duarte\nLT-9446 — laptop — Thomas Engel\nLT-0630 — laptop — Mira Falk\nLT-0417 — laptop — Marcus Fenwick\nD-4471 — phone (approval device) — Marcus Fenwick\nLT-2121 — laptop — Lena Fischer\nLT-5502 — laptop — Rafael Frank\nLT-5093 — laptop — Sara Günther\nD-3034 — phone (approval device) — Sara Günther\nLT-4623 — laptop — Jule Hartmann\nD-6601 — phone (approval device) — Jule Hartmann\nLT-3556 — laptop — Theo Hartwig\nLT-6005 — laptop — Greta Hoffmann\nD-0922 — phone (approval device) — Greta Hoffmann\nLT-3753 — laptop — Uma Jansen\nLT-5369 — laptop — Viktor Klein\nD-2501 — phone (approval device) — Viktor Klein\nLT-0668 — laptop — Sandra Kowalski\nLT-5955 — laptop — Felix Krüger\nD-9734 — phone (approval device) — Felix Krüger\nLT-7116 — laptop — Wanda Lange\nD-4437 — phone (approval device) — Wanda Lange\nD-5253 — phone (approval device) — Rosa Lima\nLT-5564 — laptop — Ben Lorenz\nD-2814 — phone (approval device) — Ben Lorenz\nD-7558 — phone (approval device) — Kofi Mensah\nLT-3314 — laptop — Lukas Meyer\nD-9678 — phone (approval device) — Lukas Meyer\nLT-4734 — laptop — Yara Möller\nD-2388 — phone (approval device) — Yara Möller\nLT-5244 — laptop — Priya Nair\nD-6211 — phone (approval device) — Priya Nair\nLT-8784 — laptop — Clara Neumann\nD-9351 — phone (approval device) — Clara Neumann\nLT-5163 — laptop — Zoe Peters\nD-1382 — tablet — Reception\nLT-8125 — laptop — Jana Richter\nD-9162 — phone (approval device) — Jana Richter\nLT-4573 — laptop — Maja Schneider\nLT-7754 — laptop — Hanna Schulz\nLT-5853 — laptop — Anton Seidel\nD-5260 — phone (approval device) — Anton Seidel\nLT-7801 — laptop — David Sommer\nLT-0252 — laptop — Nora Stein\nLT-3849 — laptop — Karim Vogt\nD-4800 — phone (approval device) — Karim Vogt\nLT-3685 — laptop — Dina Wagner\nD-1550 — phone (approval device) — Dina Wagner\nLT-4192 — laptop — Idris Weber\nLT-9718 — laptop — Elena Wolf\nD-5830 — phone (approval device) — Elena Wolf",
+  "title": "IT device register",
+  "author_credit": "IT office",
+  "stored_time": "2026-09-14T12:00:00+02:00",
+  "published_time": "2026-09-14T12:00:00+02:00"
+}

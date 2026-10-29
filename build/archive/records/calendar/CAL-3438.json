@@ -1,0 +1,24 @@
+{
+  "id": "CAL-3438",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-03T11:25:00+02:00",
+  "from": "Felix Krüger",
+  "to": [
+    "Felix Krüger",
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-7741",
+  "body": "Support categories — bookings versus accounts.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-03T11:25:00+02:00",
+  "end": "2026-09-03T11:55:00+02:00",
+  "attendees": [
+    "Felix Krüger",
+    "Priya Nair"
+  ],
+  "private": false
+}

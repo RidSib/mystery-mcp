@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6991",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-21T16:15:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Mira, the new notice is readable from a sensible distance now. I used a tiny milk jug icon rather than the angry triangle.\n\nSend the final wording if the engineer changes the instructions; I kept the editable file. Idris",
+  "attachments": [],
+  "case_critical": false
+}

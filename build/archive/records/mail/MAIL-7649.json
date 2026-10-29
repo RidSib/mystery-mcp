@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7649",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-17T22:10:00+02:00",
+  "from": "Zoe Peters",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "Can we sort the food question before collecting more names? Someone has put \"normal food\" in the preference column, which tells me almost nothing.\n\nI'll ask people for specific dietary requirements rather than interpret it. Zoe",
+  "attachments": [],
+  "case_critical": false
+}

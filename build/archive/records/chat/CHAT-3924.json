@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3924",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-01T10:14:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "Yes, opens here. Try the plain link below the preview image.",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "CHAT-1206",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-08-14T09:12:00+02:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Marcus Fenwick",
+    "Priya Nair",
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Back room delivery",
+  "thread_id": "THR-6617",
+  "body": "09:12 — Thomas Engel: Still in Lisbon. Delivery is at 10:00 — back room code is 0737. Can someone let the courier in? please delete this after\n\n09:31 — Marcus Fenwick: done 👍\n\n09:40 — Priya Nair: off today, sorry",
+  "attachments": [],
+  "case_critical": false
+}

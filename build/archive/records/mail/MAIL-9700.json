@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9700",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-19T13:15:00+02:00",
+  "from": "Sandra Kowalski",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Admissions is sending visitors past a machine labelled DO NOT TRUST. Accurate, perhaps, but not quite the welcome we wanted.\n\nIs there a repair estimate? If it needs a part, I would rather tell people to bring a drink than keep promising tomorrow. Sandra",
+  "attachments": [],
+  "case_critical": false
+}

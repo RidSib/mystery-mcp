@@ -1,0 +1,53 @@
+{
+  "id": "TRN-2160",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-09-01T09:05:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Jule Hartmann",
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1306",
+  "body": "2026-09-01T09:05:00+02:00 — Jule Hartmann: Sandra, what is the programme actually for? A visitor can't infer a project from a title like Beyond Tomorrow.\n2026-09-01T09:05:58+02:00 — Sandra Kowalski: Thomas wants one sentence per team explaining what the audience will see. Nora is adding that column today.\n2026-09-01T09:07:05+02:00 — Jule Hartmann: Good. Then I can give the cover less space. We don't need a slogan competing with the students' work.\n2026-09-01T09:08:23+02:00 — Sandra Kowalski: Keep the practical demo instructions separate. Teachers need equipment notes; visitors don't need a printed cable inventory.\n2026-09-01T09:09:46+02:00 — Jule Hartmann: I'll make a proof with obvious empty boxes where descriptions are missing. Otherwise everybody assumes the layout is finished.\n2026-09-01T09:10:50+02:00 — Sandra Kowalski: Do that. Felix can chase the teams, and we'll answer the assessment-order question before he replies to the group.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Jule Hartmann",
+    "Sandra Kowalski"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-09-01T09:05:00+02:00",
+      "speaker": "Jule Hartmann",
+      "text": "Sandra, what is the programme actually for? A visitor can't infer a project from a title like Beyond Tomorrow."
+    },
+    {
+      "timestamp": "2026-09-01T09:05:58+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Thomas wants one sentence per team explaining what the audience will see. Nora is adding that column today."
+    },
+    {
+      "timestamp": "2026-09-01T09:07:05+02:00",
+      "speaker": "Jule Hartmann",
+      "text": "Good. Then I can give the cover less space. We don't need a slogan competing with the students' work."
+    },
+    {
+      "timestamp": "2026-09-01T09:08:23+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Keep the practical demo instructions separate. Teachers need equipment notes; visitors don't need a printed cable inventory."
+    },
+    {
+      "timestamp": "2026-09-01T09:09:46+02:00",
+      "speaker": "Jule Hartmann",
+      "text": "I'll make a proof with obvious empty boxes where descriptions are missing. Otherwise everybody assumes the layout is finished."
+    },
+    {
+      "timestamp": "2026-09-01T09:10:50+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Do that. Felix can chase the teams, and we'll answer the assessment-order question before he replies to the group."
+    }
+  ]
+}

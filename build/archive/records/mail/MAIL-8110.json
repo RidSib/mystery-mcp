@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8110",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-25T10:15:00+01:00",
+  "from": "Paula Dietrich",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Reception has the service email printed beside the visitor book. It says the steam assembly still needs attention, so I've left the warning up.\n\nShall I keep the tea station through this week? Visitors are getting surprisingly loyal to peppermint. Paula",
+  "attachments": [],
+  "case_critical": false
+}

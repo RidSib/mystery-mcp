@@ -1,0 +1,19 @@
+{
+  "id": "EXP-0479",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-09-28T13:45:00+02:00",
+  "from": "Wanda Lange",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-6192",
+  "body": "Tape and string for the reusable decoration box. Please check what is already there before buying more. Wanda",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 42.5,
+  "status": "submitted",
+  "approver": null
+}

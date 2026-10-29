@@ -1,0 +1,374 @@
+{
+  "id": "org-chart",
+  "release": "R0",
+  "source_record": "DRV-7015",
+  "academy_name": "the Academy",
+  "people": [
+    {
+      "name": "Thomas Engel",
+      "role": "CEO",
+      "team": "leadership",
+      "reports_to": null
+    },
+    {
+      "name": "Sandra Kowalski",
+      "role": "Head of Programs",
+      "team": "programs",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Marcus Fenwick",
+      "role": "Course teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Priya Nair",
+      "role": "System administrator",
+      "team": "tech",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Jule Hartmann",
+      "role": "Marketing lead",
+      "team": "marketing",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Kofi Mensah",
+      "role": "Night security",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Rosa Lima",
+      "role": "Cleaner",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Ines Duarte",
+      "role": "Finance",
+      "team": "finance",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Leo Brandt",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Nora Stein",
+      "role": "Programs coordinator",
+      "team": "programs",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Milan Berger",
+      "role": "Admissions coordinator",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Mira Falk",
+      "role": "Facilities coordinator",
+      "team": "facilities",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Amira Becker",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Ben Lorenz",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Clara Neumann",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "David Sommer",
+      "role": "Teaching assistant",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Elena Wolf",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Felix Krüger",
+      "role": "Student support",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Greta Hoffmann",
+      "role": "Admissions adviser",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Hanna Schulz",
+      "role": "Marketing coordinator",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Idris Weber",
+      "role": "Designer",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Jana Richter",
+      "role": "Copy editor",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Karim Vogt",
+      "role": "Campaign assistant",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Lena Fischer",
+      "role": "Systems technician",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Lukas Meyer",
+      "role": "Helpdesk technician",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Maja Schneider",
+      "role": "Learning platform support",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Nils Braun",
+      "role": "IT coordinator",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Omar Albrecht",
+      "role": "Facilities assistant",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Paula Dietrich",
+      "role": "Reception coordinator",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Rafael Frank",
+      "role": "Facilities assistant",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Sara Günther",
+      "role": "Purchasing assistant",
+      "team": "finance",
+      "reports_to": "Ines Duarte"
+    },
+    {
+      "name": "Theo Hartwig",
+      "role": "Accounts assistant",
+      "team": "finance",
+      "reports_to": "Ines Duarte"
+    },
+    {
+      "name": "Uma Jansen",
+      "role": "Finance assistant",
+      "team": "finance",
+      "reports_to": "Ines Duarte"
+    },
+    {
+      "name": "Viktor Klein",
+      "role": "Teaching assistant",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Wanda Lange",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Yara Möller",
+      "role": "Student support",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Zoe Peters",
+      "role": "Admissions adviser",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Anton Seidel",
+      "role": "Event coordinator",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Dina Wagner",
+      "role": "Learning designer",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Ada Keller",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Bilal Brandt",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Celia Busch",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Dario Engelmann",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Eda Fuchs",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Flora Gross",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Gio Heinrich",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Hadi Jung",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Iris Koch",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Jamal Krause",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Kira Ludwig",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Lian Maas",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Mina Otto",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Noah Paul",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Ola Reuter",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Pia Roth",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Rami Schäfer",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Sina Simon",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Tariq Vogel",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Vera Walter",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Katrin Albers",
+      "role": "Board member (non-executive)",
+      "team": "board",
+      "reports_to": null
+    }
+  ],
+  "external_support": [
+    {
+      "name": "NordByte",
+      "role": "Outside IT contractor"
+    }
+  ]
+}

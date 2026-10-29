@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8380",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-09T12:05:00+02:00",
+  "from": "Theo Hartwig",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "I've reconciled the banner entries. One quote, one requested item, no invoice yet. The deleted demonstration row was still inside a hidden subtotal.\n\nPlease use the total labelled REVIEW, not the blue number from last month's screenshot. Theo",
+  "attachments": [],
+  "case_critical": false
+}

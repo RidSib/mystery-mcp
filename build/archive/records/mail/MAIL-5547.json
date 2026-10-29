@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5547",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-11T22:10:00+02:00",
+  "from": "Yara Möller",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "I know it's late, but the demo form has a real student name in one of the sample screenshots. Can that be cropped before the programme goes to print?\n\nI've left a comment exactly where it appears. Yara",
+  "attachments": [],
+  "case_critical": false
+}

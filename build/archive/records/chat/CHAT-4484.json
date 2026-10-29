@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4484",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-16T09:05:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Could the received screen say it hasn't been approved yet? That enormous green tick is doing a lot of promising. Clara",
+  "attachments": [],
+  "case_critical": false
+}

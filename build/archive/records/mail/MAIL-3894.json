@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3894",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-09T11:55:00+02:00",
+  "from": "Lukas Meyer",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "The duplex setting needs short-edge binding for that folded pack. I saved a preset called Folded pack TEST so nobody mistakes it for an approved print run.\n\nPaula, please try one copy before removing TEST from the name. Lukas",
+  "attachments": [],
+  "case_critical": false
+}

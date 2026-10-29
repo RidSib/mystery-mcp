@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-7048",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-07T16:15:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Keeping the gerbil example for class if that's OK. A caption mistake with educational value at last. Ben",
+  "attachments": [],
+  "case_critical": false
+}

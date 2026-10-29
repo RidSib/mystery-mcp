@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5638",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-12T11:55:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "The notices on your shelf are mine. Only the top copy is for display; the rest were a test of the grey background.\n\nPlease recycle the tests. I will put my name in the job title next time, lesson learned. Clara",
+  "attachments": [],
+  "case_critical": false
+}

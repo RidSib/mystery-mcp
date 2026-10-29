@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2730",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-03T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-5836",
+  "body": "Sandra, I've done the exercises, slides and the new module, and now the little admin jobs are landing here as well. I do everything on this course.\n\nDid anyone actually open the new module? Nobody has mentioned it, and I spent a long time getting it into shape. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

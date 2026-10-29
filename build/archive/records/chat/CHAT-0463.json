@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-0463",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-04T22:10:00+02:00",
+  "from": "Sara Günther",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "Can the committee pick the decoration list before I order tape? Last year's box might contain a lifetime supply. Sara",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "TRN-4634",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-10-02T13:45:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Viktor Klein",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-6522",
+  "body": "2026-10-02T13:45:00+02:00 — Viktor Klein: Nora, I can cover coursework questions during the remaining gap. David's twenty minutes shouldn't turn into a full support shift by accident.\n2026-10-02T13:45:58+02:00 — Nora Stein: Thank you. Lena wants technical questions clearly separated. She was booked to discuss an essay, which didn't help either person.\n2026-10-02T13:47:05+02:00 — Viktor Klein: Can the form ask which exercise the question concerns? Otherwise I spend the slot locating the instructions rather than helping.\n2026-10-02T13:48:23+02:00 — Nora Stein: I'll add guidance for a short heading. Lian also wanted details kept private instead of writing the whole problem to the group.\n2026-10-02T13:49:46+02:00 — Viktor Klein: Good. For payment problems, point them to Finance early. I don't want to collect receipts I have no reason to see.\n2026-10-02T13:50:50+02:00 — Nora Stein: Theo is sending a routing sentence. I'll put that beside the categories and leave a named handover for any uncovered slot.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Viktor Klein",
+    "Nora Stein"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-02T13:45:00+02:00",
+      "speaker": "Viktor Klein",
+      "text": "Nora, I can cover coursework questions during the remaining gap. David's twenty minutes shouldn't turn into a full support shift by accident."
+    },
+    {
+      "timestamp": "2026-10-02T13:45:58+02:00",
+      "speaker": "Nora Stein",
+      "text": "Thank you. Lena wants technical questions clearly separated. She was booked to discuss an essay, which didn't help either person."
+    },
+    {
+      "timestamp": "2026-10-02T13:47:05+02:00",
+      "speaker": "Viktor Klein",
+      "text": "Can the form ask which exercise the question concerns? Otherwise I spend the slot locating the instructions rather than helping."
+    },
+    {
+      "timestamp": "2026-10-02T13:48:23+02:00",
+      "speaker": "Nora Stein",
+      "text": "I'll add guidance for a short heading. Lian also wanted details kept private instead of writing the whole problem to the group."
+    },
+    {
+      "timestamp": "2026-10-02T13:49:46+02:00",
+      "speaker": "Viktor Klein",
+      "text": "Good. For payment problems, point them to Finance early. I don't want to collect receipts I have no reason to see."
+    },
+    {
+      "timestamp": "2026-10-02T13:50:50+02:00",
+      "speaker": "Nora Stein",
+      "text": "Theo is sending a routing sentence. I'll put that beside the categories and leave a named handover for any uncovered slot."
+    }
+  ]
+}

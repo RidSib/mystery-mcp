@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3001",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-07T16:15:00+02:00",
+  "from": "Wanda Lange",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Both buttons blinked after a cappuccino at break. I wrote that on the yellow note, underneath Milan's polite heading.\n\nAlso: whoever is using a teaspoon as a drip-tray prop, please stop. It's the last long spoon. Wanda",
+  "attachments": [],
+  "case_critical": false
+}

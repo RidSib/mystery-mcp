@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6775",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-16T22:10:00+02:00",
+  "from": "Dario Engelmann",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Sorry, just noticed I booked a technical slot for a coursework question. Can it be moved rather than cancelled and started again?\n\nThe form categories are clearer now. I was using the link I saved from the old pack. Dario",
+  "attachments": [],
+  "case_critical": false
+}

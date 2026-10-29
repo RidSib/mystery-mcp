@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6320",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-09T09:35:00+02:00",
+  "from": "Hadi Jung",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Nora, did you find out about laptops? My tablet definitely won't run whatever is in that setup screenshot. Hadi",
+  "attachments": [],
+  "case_critical": false
+}

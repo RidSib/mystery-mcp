@@ -1,0 +1,19 @@
+{
+  "id": "EXP-6656",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-05T14:55:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-5788",
+  "body": "Small support-handoff stationery purchase. Filing this separately from the course materials. Marcus",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 50.65,
+  "status": "submitted",
+  "approver": null
+}

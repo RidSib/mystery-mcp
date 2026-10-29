@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3302",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-01T09:35:00+02:00",
+  "from": "Zoe Peters",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "I have a short workshop-refund reply ready for admissions. It asks for the request reference and sends payment documents privately.\n\nPlease check the last line about response times. I left it vague rather than promise something Finance hasn't agreed. Zoe",
+  "attachments": [],
+  "case_critical": false
+}

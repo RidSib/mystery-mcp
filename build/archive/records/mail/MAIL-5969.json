@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5969",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-18T10:45:00+02:00",
+  "from": "Hanna Schulz",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "The caption contrast disappears over the pale wall. A dark strip behind the text would help more than making every word bold.\n\nI've put a sample frame in the review sheet; you don't need to rebuild the whole clip. Hanna",
+  "attachments": [],
+  "case_critical": false
+}

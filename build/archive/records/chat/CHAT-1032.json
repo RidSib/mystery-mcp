@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-1032",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-27T13:15:00+02:00",
+  "from": "Rafael Frank",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Crop the edge of the checklist, please. Facilities paperwork is not an exciting background prop, however blurry. Rafael",
+  "attachments": [],
+  "case_critical": false
+}

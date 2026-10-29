@@ -1,0 +1,19 @@
+{
+  "id": "EXP-7966",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-09-21T12:35:00+02:00",
+  "from": "Omar Albrecht",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-2003",
+  "body": "Budget-review printouts and binding strips. The classroom example is not a second purchasing request. Omar",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 34.35,
+  "status": "submitted",
+  "approver": null
+}

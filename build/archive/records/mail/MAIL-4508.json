@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4508",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-07T22:10:00+02:00",
+  "from": "Kofi Mensah",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Paula, a print job labelled \"final notice\" has been sitting at reception all evening. Is it meant for display or for someone's meeting pack?\n\nI left it face down on the shelf rather than put an unknown notice on the wall. Kofi",
+  "attachments": [],
+  "case_critical": false
+}

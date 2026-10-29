@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6668",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-20T13:45:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Lukas says someone called it the coffee server again. Mira owns this ticket; please spare IT the cappuccino stack trace. Priya",
+  "attachments": [],
+  "case_critical": false
+}

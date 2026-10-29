@@ -1,0 +1,20 @@
+{
+  "id": "DRV-5226",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-10-01T09:35:00+02:00",
+  "from": "Rafael Frank",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4887",
+  "body": "Budget reconciliation — working explanation\n\nThe banner appears twice because Ben copied a purchasing row for a classroom example. Theo is checking the hidden subtotal as well as the visible rows; deleting a line from view did not remove it from every calculation.\n\nOpen items: identify the total for review; separate Rosa's cleaning supplies from party materials; attach the monitor replacement quote to Lena's existing request. None of those changes is a new purchase.\n\nI've left the earlier totals visible with labels. Please don't erase the trail just to make the sheet look calmer. Rafael",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Budget review",
+  "author_credit": "Rafael Frank",
+  "stored_time": "2026-10-01T09:35:00+02:00",
+  "published_time": "2026-10-01T09:35:00+02:00"
+}

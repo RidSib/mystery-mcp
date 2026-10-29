@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1998",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-29T12:35:00+02:00",
+  "from": "Uma Jansen",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "The leaflet footer still points to last month's copy sheet. I can correct that link in the purchasing pack once you tell me which document is final.\n\nPlease use a filename humans can distinguish from \"final final new\". Uma",
+  "attachments": [],
+  "case_critical": false
+}

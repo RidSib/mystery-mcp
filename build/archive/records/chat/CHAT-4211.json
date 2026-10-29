@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4211",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-17T09:05:00+02:00",
+  "from": "Dina Wagner",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "New refund instructions distinguish received from approved. I'll use those in the workshop notes instead of another homemade explanation. Dina",
+  "attachments": [],
+  "case_critical": false
+}

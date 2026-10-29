@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3003",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-21T10:15:00+02:00",
+  "from": "Kofi Mensah",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "For the Halloween Bash, please keep decorations clear of door glass and access routes. I don't mind paper bats; I do mind walking into a hanging string in the dark.\n\nSend Mira the layout if you are moving tables. Kofi",
+  "attachments": [],
+  "case_critical": false
+}

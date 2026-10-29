@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-1161",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-08T17:25:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "Which meeting time goes on the poster? Agenda says one thing, grid another. I'm leaving the space blank for now. Idris",
+  "attachments": [],
+  "case_critical": false
+}

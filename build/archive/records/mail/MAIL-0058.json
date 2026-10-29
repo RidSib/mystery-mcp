@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0058",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-23T15:05:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "My teams' descriptions are now in the sheet. I shortened the one that read like an entire grant application.\n\nPlease keep the practical demo instructions separate from the visitor blurb; students are using both and mixing them up. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

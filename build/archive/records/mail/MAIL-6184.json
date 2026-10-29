@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6184",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-16T13:45:00+02:00",
+  "from": "David Sommer",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "I can cover the first half of the support hour while Nora is in the planning meeting. Put my name on that portion only, please.\n\nThe last rota made a twenty-minute favour look like an entire afternoon commitment. David",
+  "attachments": [],
+  "case_critical": false
+}

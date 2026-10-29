@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4087",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-24T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-5297",
+  "body": "Sandra, apparently I'm the person who 'helps out' with the badge integration for free. That is becoming a second job beside the course.\n\nCan we count that time in the workload discussion? The teaching doesn't get shorter when I spend an afternoon on somebody else's support queue. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

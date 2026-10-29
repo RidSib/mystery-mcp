@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0416",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-26T13:15:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "I'll bring scissors and the reusable decorations box to the committee meeting. Please don't order another bag until we see what's left in it.\n\nThere were enough paper pumpkins last year to start a modest farm. Clara",
+  "attachments": [],
+  "case_critical": false
+}

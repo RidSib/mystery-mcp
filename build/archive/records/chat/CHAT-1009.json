@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-1009",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-17T10:15:00+02:00",
+  "from": "Jana Richter",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Auto-captions don't need punctuation at every inhale. I've fixed the worst ones; please don't regenerate over the edits. Jana",
+  "attachments": [],
+  "case_critical": false
+}

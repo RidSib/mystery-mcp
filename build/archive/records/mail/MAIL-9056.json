@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9056",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-20T16:45:00+02:00",
+  "from": "Lena Fischer",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Can the support rota distinguish technical appointments from coursework questions? Someone booked me to review an essay because both slots say \"help\".\n\nI'm happy to fix a login; I am dangerously unqualified to grade the essay. Lena",
+  "attachments": [],
+  "case_critical": false
+}

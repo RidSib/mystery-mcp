@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9592",
+  "channel": "chat",
+  "release": "R1",
+  "event_time": "2026-10-27T14:25:00+01:00",
+  "from": "Karim Vogt",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "Poster uses the agreed time now. If someone changes the grid, tell me before asking Paula for more copies. Karim",
+  "attachments": [],
+  "case_critical": false
+}

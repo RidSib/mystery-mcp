@@ -1,0 +1,406 @@
+{
+  "id": "LOG-3409",
+  "channel": "log",
+  "release": "R1",
+  "event_time": "2026-10-27T12:00:00+01:00",
+  "from": "Door controller",
+  "to": [],
+  "cc": [],
+  "subject": "Server-room keypad entries",
+  "thread_id": "THR-4823",
+  "body": "Keypad retained entries, August–October\n\nSlot #1: Programs, Sandra Kowalski. Slot #2: IT, Priya Nair. Slot #3: Thomas Engel (T. Engel). The holder is the assigned code holder, not an identification of whoever typed it. Numeric code values are not included.",
+  "attachments": [],
+  "case_critical": false,
+  "rows": [
+    {
+      "time": "2026-08-03T09:00:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-08-04T10:13:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-05T11:26:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-08-05T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-06T12:39:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-08-07T13:52:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-10T09:31:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-11T10:44:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-08-12T11:57:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-08-12T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-13T12:10:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-14T10:12:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-08-14T13:23:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-08-17T09:02:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-08-18T10:15:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-08-19T11:28:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-19T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-20T12:41:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-08-21T13:54:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-08-24T09:33:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-08-25T10:46:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-26T11:59:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-08-26T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-27T12:12:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-08-28T13:25:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-08-31T09:04:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-01T10:17:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-02T11:30:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-02T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-03T12:43:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-04T13:56:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-07T09:35:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-08T10:48:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-09T11:01:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-09T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-10T09:10:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-10T12:14:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-11T13:27:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-14T09:06:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-15T10:19:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-16T11:32:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-16T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-17T12:45:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-18T13:58:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-21T09:37:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-22T10:50:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-22T11:25:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-23T11:03:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-23T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-24T12:16:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-25T13:29:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-28T09:08:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-09-29T10:21:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-09-30T11:34:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-09-30T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-01T12:47:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-10-02T13:00:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-10-05T09:39:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-10-06T10:52:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-07T11:05:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-10-07T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-08T12:18:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-10-09T13:31:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-09T14:10:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-12T09:10:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-13T10:23:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-10-14T11:36:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-10-14T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-15T12:49:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-16T13:02:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-10-19T09:41:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-10-20T10:54:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-10-21T11:07:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-21T16:20:00+02:00",
+      "slot": 2,
+      "holder": "Priya Nair"
+    },
+    {
+      "time": "2026-10-22T12:20:00+02:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-10-23T13:33:00+02:00",
+      "slot": 1,
+      "holder": "Sandra Kowalski"
+    },
+    {
+      "time": "2026-10-26T23:58:00+01:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    },
+    {
+      "time": "2026-10-27T00:05:00+01:00",
+      "slot": 3,
+      "holder": "Thomas Engel"
+    }
+  ]
+}

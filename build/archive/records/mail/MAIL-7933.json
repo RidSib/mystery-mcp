@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7933",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-15T10:15:00+02:00",
+  "from": "Lian Maas",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Could I book a support slot without explaining the whole question in the group chat? The booking form asks for a public comment.\n\nI'd rather give a short heading and talk through the details privately. Lian",
+  "attachments": [],
+  "case_critical": false
+}

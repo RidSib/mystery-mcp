@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5241",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-21T09:10:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Rename fallout",
+  "thread_id": "THR-1286",
+  "body": "The rename isn't just Marcus's problem. Half my workshop slides point students to the old course, so I'm redoing those too, unpaid and on top of demo day.\n\nIf the whole course vanished overnight I'd finally get my evenings back. Kidding. Mostly. Can we at least get one list of everything that has to change? Ben",
+  "attachments": [],
+  "case_critical": false
+}

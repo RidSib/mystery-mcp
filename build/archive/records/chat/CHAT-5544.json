@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5544",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-14T12:00:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "IT support queue",
+  "thread_id": "THR-8581",
+  "body": "I'm overworked too. Being the admin doesn't make every request an immediate fix. NordByte never picks up when we need a hand. Priya",
+  "attachments": [],
+  "case_critical": false
+}

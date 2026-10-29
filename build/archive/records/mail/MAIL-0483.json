@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0483",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-02T11:25:00+02:00",
+  "from": "Gio Heinrich",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Hi Nora, I need to ask about the evening spreadsheet workshop fee. I used the wrong payment reference and the receipt has no workshop name.\n\nCan you tell me what evidence you need before I send a bank screenshot? Gio",
+  "attachments": [],
+  "case_critical": false
+}

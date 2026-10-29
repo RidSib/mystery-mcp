@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0372",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-06T22:10:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "Sending this now because the poster layout is still open on my screen: the meeting time in the grid and the agenda heading differ.\n\nI haven't changed either. Which should the notice use in the morning? Idris",
+  "attachments": [],
+  "case_critical": false
+}

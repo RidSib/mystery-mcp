@@ -1,0 +1,19 @@
+{
+  "id": "EXP-8721",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-18T16:15:00+02:00",
+  "from": "Felix Krüger",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-5513",
+  "body": "Caption-review print samples. Actual-size frames for checking readability, not a new video-production order. Felix",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 66.95,
+  "status": "submitted",
+  "approver": null
+}

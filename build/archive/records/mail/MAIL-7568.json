@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7568",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-05T12:05:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "I've added a column for the one-sentence descriptions Thomas requested. Please don't put full scripts in there; the programme will be a single folded sheet.\n\nThe first two teams have submitted, so there is something to copy the format from. Nora",
+  "attachments": [],
+  "case_critical": false
+}

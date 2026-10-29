@@ -1,0 +1,20 @@
+{
+  "id": "DRV-9173",
+  "channel": "drive",
+  "release": "R1",
+  "event_time": "2026-10-26T17:55:00+01:00",
+  "from": "Nora Stein",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-2700",
+  "body": "Pack handover to Programs\n\nEquipment wording corrected; plain link added below the setup button; contact block checked on a narrow screen. The green-underlined cover is the reviewed copy. Older forwarded packs may still contain the image-only button.\n\nThe bottle reminder belongs above the footer in the print version. Omar caught the overlap; please use print preview before producing a fresh stack.\n\nIndividual accessibility questions should go directly to the contact rather than reply-all. I've kept those conversations out of the group thread. Yara is using the corrected pack at the welcome desk. Nora\n\nMaja now has the staff contact list for her induction pack. I've replaced its student-menu link, so the next new colleague won't have to ask which welcome pack was meant for them.",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Cohort onboarding",
+  "author_credit": "Nora Stein",
+  "stored_time": "2026-10-26T17:55:00+01:00",
+  "published_time": "2026-10-26T17:55:00+01:00"
+}

@@ -1,0 +1,76 @@
+{
+  "cc": [],
+  "attachments": [],
+  "case_critical": false,
+  "id": "LOG-7105",
+  "channel": "log",
+  "release": "R1",
+  "event_time": "2026-10-27T12:00:00+01:00",
+  "from": "Storage and exam system",
+  "to": [],
+  "subject": "Storage and exam-system events",
+  "thread_id": "THR-7106",
+  "body": "Volumes: COURSE-01 (course platform files), EXAMS-02 (exam results and snapshots).",
+  "rows": [
+    {
+      "time": "2026-10-20T03:40:00+02:00",
+      "volume": "EXAMS-02",
+      "event": "snapshot ok",
+      "by": "exam-sync"
+    },
+    {
+      "time": "2026-10-22T03:40:00+02:00",
+      "volume": "COURSE-01",
+      "event": "snapshot ok",
+      "by": "backup"
+    },
+    {
+      "time": "2026-10-23T16:05:00+02:00",
+      "volume": "EXAMS-02",
+      "event": "grades entered: Data Analysis (14 students)",
+      "by": "w.lange"
+    },
+    {
+      "time": "2026-10-24T03:40:00+02:00",
+      "volume": "EXAMS-02",
+      "event": "snapshot ok",
+      "by": "exam-sync"
+    },
+    {
+      "time": "2026-10-24T23:47:00+02:00",
+      "volume": "EXAMS-02",
+      "event": "grade changed: Data Analysis, student 1103, 41 → 71",
+      "by": "exam-sync"
+    },
+    {
+      "time": "2026-10-24T23:52:00+02:00",
+      "volume": "EXAMS-02",
+      "event": "volume wiped (snapshots and history)",
+      "by": "exam-sync"
+    },
+    {
+      "time": "2026-10-25T18:00:00+01:00",
+      "volume": "EXAMS-02",
+      "event": "results published",
+      "by": "exam office"
+    },
+    {
+      "time": "2026-10-26T03:40:00+01:00",
+      "volume": "COURSE-01",
+      "event": "snapshot ok",
+      "by": "backup"
+    },
+    {
+      "time": "2026-10-27T00:11:00+01:00",
+      "volume": "COURSE-01",
+      "event": "contents deleted",
+      "by": "course platform"
+    },
+    {
+      "time": "2026-10-27T02:00:00+01:00",
+      "volume": "COURSE-01",
+      "event": "nightly backup failed: target BK-02 missing",
+      "by": "backup"
+    }
+  ]
+}

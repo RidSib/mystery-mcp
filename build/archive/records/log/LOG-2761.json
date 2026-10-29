@@ -1,0 +1,831 @@
+{
+  "id": "LOG-2761",
+  "channel": "log",
+  "release": "R1",
+  "event_time": "2026-10-27T12:00:00+01:00",
+  "from": "Front-door controller",
+  "to": [],
+  "cc": [],
+  "subject": "Current front-door badge view",
+  "thread_id": "THR-1402",
+  "body": "Front door — current export\n\nDisplay names are shown; card numbers aren't included in this view. Entries below are retained door movements for 26–27 October.",
+  "attachments": [],
+  "case_critical": false,
+  "rows": [
+    {
+      "time": "2026-10-26T07:40:00+01:00",
+      "name": "Priya Nair",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T07:42:00+01:00",
+      "name": "Maja Schneider",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T07:47:00+01:00",
+      "name": "Hanna Schulz",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T07:49:00+01:00",
+      "name": "Dina Wagner",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T07:52:00+01:00",
+      "name": "Ben Lorenz",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T07:54:00+01:00",
+      "name": "Uma Jansen",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T07:57:00+01:00",
+      "name": "Jule Hartmann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T07:59:00+01:00",
+      "name": "Nils Braun",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:04:00+01:00",
+      "name": "Idris Weber",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:09:00+01:00",
+      "name": "Clara Neumann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:11:00+01:00",
+      "name": "Viktor Klein",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:14:00+01:00",
+      "name": "Ines Duarte",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:16:00+01:00",
+      "name": "Omar Albrecht",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:21:00+01:00",
+      "name": "Jana Richter",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:26:00+01:00",
+      "name": "David Sommer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:28:00+01:00",
+      "name": "Wanda Lange",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:31:00+01:00",
+      "name": "Nora Stein",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:33:00+01:00",
+      "name": "Paula Dietrich",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:38:00+01:00",
+      "name": "Karim Vogt",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:43:00+01:00",
+      "name": "Elena Wolf",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:45:00+01:00",
+      "name": "Yara Möller",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:48:00+01:00",
+      "name": "Milan Berger",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:50:00+01:00",
+      "name": "Marcus Fenwick",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:50:00+01:00",
+      "name": "Rafael Frank",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T08:55:00+01:00",
+      "name": "Lena Fischer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:00:00+01:00",
+      "name": "Felix Krüger",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:02:00+01:00",
+      "name": "Zoe Peters",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:05:00+01:00",
+      "name": "Mira Falk",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:07:00+01:00",
+      "name": "Sara Günther",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:12:00+01:00",
+      "name": "Lukas Meyer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:17:00+01:00",
+      "name": "Greta Hoffmann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:19:00+01:00",
+      "name": "Anton Seidel",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:22:00+01:00",
+      "name": "Amira Becker",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T09:24:00+01:00",
+      "name": "Theo Hartwig",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T12:05:00+01:00",
+      "name": "Priya Nair",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:08:00+01:00",
+      "name": "Nora Stein",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:11:00+01:00",
+      "name": "Amira Becker",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:14:00+01:00",
+      "name": "David Sommer",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:17:00+01:00",
+      "name": "Greta Hoffmann",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:20:00+01:00",
+      "name": "Jana Richter",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:23:00+01:00",
+      "name": "Lukas Meyer",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:26:00+01:00",
+      "name": "Omar Albrecht",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:29:00+01:00",
+      "name": "Sara Günther",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:32:00+01:00",
+      "name": "Viktor Klein",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:33:00+01:00",
+      "name": "Priya Nair",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T12:35:00+01:00",
+      "name": "Zoe Peters",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T12:39:00+01:00",
+      "name": "Nora Stein",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T12:45:00+01:00",
+      "name": "Amira Becker",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T12:51:00+01:00",
+      "name": "David Sommer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T12:56:00+01:00",
+      "name": "Omar Albrecht",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T12:57:00+01:00",
+      "name": "Greta Hoffmann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T13:02:00+01:00",
+      "name": "Sara Günther",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T13:03:00+01:00",
+      "name": "Jana Richter",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T13:08:00+01:00",
+      "name": "Viktor Klein",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T13:09:00+01:00",
+      "name": "Lukas Meyer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T13:14:00+01:00",
+      "name": "Zoe Peters",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T16:05:00+01:00",
+      "name": "Priya Nair",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:08:00+01:00",
+      "name": "Uma Jansen",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:12:00+01:00",
+      "name": "Omar Albrecht",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:16:00+01:00",
+      "name": "Karim Vogt",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:20:00+01:00",
+      "name": "Felix Krüger",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:24:00+01:00",
+      "name": "Amira Becker",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:27:00+01:00",
+      "name": "Dina Wagner",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:28:00+01:00",
+      "name": "Jule Hartmann",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:31:00+01:00",
+      "name": "Viktor Klein",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:35:00+01:00",
+      "name": "Paula Dietrich",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:39:00+01:00",
+      "name": "Lena Fischer",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:43:00+01:00",
+      "name": "Greta Hoffmann",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:47:00+01:00",
+      "name": "Ben Lorenz",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:51:00+01:00",
+      "name": "Ines Duarte",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:54:00+01:00",
+      "name": "Wanda Lange",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T16:58:00+01:00",
+      "name": "Rafael Frank",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:02:00+01:00",
+      "name": "Lukas Meyer",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:06:00+01:00",
+      "name": "Hanna Schulz",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:10:00+01:00",
+      "name": "Clara Neumann",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:14:00+01:00",
+      "name": "Nora Stein",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:17:00+01:00",
+      "name": "Yara Möller",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:21:00+01:00",
+      "name": "Sara Günther",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:25:00+01:00",
+      "name": "Maja Schneider",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:29:00+01:00",
+      "name": "Idris Weber",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:33:00+01:00",
+      "name": "David Sommer",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:37:00+01:00",
+      "name": "Milan Berger",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:40:00+01:00",
+      "name": "Zoe Peters",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:44:00+01:00",
+      "name": "Theo Hartwig",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:48:00+01:00",
+      "name": "Nils Braun",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:52:00+01:00",
+      "name": "Jana Richter",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T17:56:00+01:00",
+      "name": "Elena Wolf",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T18:00:00+01:00",
+      "name": "Mira Falk",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T18:03:00+01:00",
+      "name": "Anton Seidel",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T18:30:00+01:00",
+      "name": "Marcus Fenwick",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-26T21:15:00+01:00",
+      "name": "Sandra Kowalski",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-26T21:30:00+01:00",
+      "name": "Kofi Mensah",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T00:35:00+01:00",
+      "name": "Sandra Kowalski",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T07:41:00+01:00",
+      "name": "Greta Hoffmann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T07:43:00+01:00",
+      "name": "Anton Seidel",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T07:46:00+01:00",
+      "name": "Amira Becker",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T07:48:00+01:00",
+      "name": "Theo Hartwig",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T07:51:00+01:00",
+      "name": "Priya Nair",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T07:53:00+01:00",
+      "name": "Maja Schneider",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T07:58:00+01:00",
+      "name": "Hanna Schulz",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:00:00+01:00",
+      "name": "Dina Wagner",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:03:00+01:00",
+      "name": "Ben Lorenz",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:05:00+01:00",
+      "name": "Uma Jansen",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:08:00+01:00",
+      "name": "Jule Hartmann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:10:00+01:00",
+      "name": "Nils Braun",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:15:00+01:00",
+      "name": "Idris Weber",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:20:00+01:00",
+      "name": "Clara Neumann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:22:00+01:00",
+      "name": "Viktor Klein",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:25:00+01:00",
+      "name": "Ines Duarte",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:27:00+01:00",
+      "name": "Omar Albrecht",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:32:00+01:00",
+      "name": "Jana Richter",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:37:00+01:00",
+      "name": "David Sommer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:39:00+01:00",
+      "name": "Wanda Lange",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:40:00+01:00",
+      "name": "Sandra Kowalski",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:42:00+01:00",
+      "name": "Nora Stein",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:44:00+01:00",
+      "name": "Paula Dietrich",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:45:00+01:00",
+      "name": "Marcus Fenwick",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:49:00+01:00",
+      "name": "Karim Vogt",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:54:00+01:00",
+      "name": "Elena Wolf",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:56:00+01:00",
+      "name": "Yara Möller",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T08:59:00+01:00",
+      "name": "Milan Berger",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:01:00+01:00",
+      "name": "Rafael Frank",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:06:00+01:00",
+      "name": "Lena Fischer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:11:00+01:00",
+      "name": "Felix Krüger",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:13:00+01:00",
+      "name": "Zoe Peters",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:16:00+01:00",
+      "name": "Mira Falk",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:18:00+01:00",
+      "name": "Sara Günther",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:23:00+01:00",
+      "name": "Lukas Meyer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T09:30:00+01:00",
+      "name": "Kofi Mensah",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:05:00+01:00",
+      "name": "Priya Nair",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:07:00+01:00",
+      "name": "Ines Duarte",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:09:00+01:00",
+      "name": "Milan Berger",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:11:00+01:00",
+      "name": "Amira Becker",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:13:00+01:00",
+      "name": "Clara Neumann",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:15:00+01:00",
+      "name": "Elena Wolf",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:17:00+01:00",
+      "name": "Greta Hoffmann",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:18:00+01:00",
+      "name": "Priya Nair",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:19:00+01:00",
+      "name": "Idris Weber",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:21:00+01:00",
+      "name": "Karim Vogt",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:22:00+01:00",
+      "name": "Ines Duarte",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:23:00+01:00",
+      "name": "Lukas Meyer",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:25:00+01:00",
+      "name": "Nils Braun",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:26:00+01:00",
+      "name": "Milan Berger",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:27:00+01:00",
+      "name": "Paula Dietrich",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:29:00+01:00",
+      "name": "Sara Günther",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:30:00+01:00",
+      "name": "Amira Becker",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:31:00+01:00",
+      "name": "Greta Hoffmann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:31:00+01:00",
+      "name": "Uma Jansen",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:33:00+01:00",
+      "name": "Wanda Lange",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:34:00+01:00",
+      "name": "Clara Neumann",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:35:00+01:00",
+      "name": "Idris Weber",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:35:00+01:00",
+      "name": "Zoe Peters",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:37:00+01:00",
+      "name": "Dina Wagner",
+      "direction": "out"
+    },
+    {
+      "time": "2026-10-27T10:38:00+01:00",
+      "name": "Elena Wolf",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:39:00+01:00",
+      "name": "Karim Vogt",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:40:00+01:00",
+      "name": "Paula Dietrich",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:43:00+01:00",
+      "name": "Lukas Meyer",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:44:00+01:00",
+      "name": "Sara Günther",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:47:00+01:00",
+      "name": "Nils Braun",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:48:00+01:00",
+      "name": "Uma Jansen",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:52:00+01:00",
+      "name": "Wanda Lange",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T10:56:00+01:00",
+      "name": "Zoe Peters",
+      "direction": "in"
+    },
+    {
+      "time": "2026-10-27T11:00:00+01:00",
+      "name": "Dina Wagner",
+      "direction": "in"
+    }
+  ]
+}

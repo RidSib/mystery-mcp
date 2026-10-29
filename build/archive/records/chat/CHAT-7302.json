@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-7302",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-05T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-9339",
+  "body": "Nobody noticed the new module. Not a question, not a comment. Some acknowledgement of the work would be nice. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

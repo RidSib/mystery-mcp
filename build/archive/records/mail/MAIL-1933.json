@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1933",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-03T14:25:00+02:00",
+  "from": "Tariq Vogel",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "My refund confirmation has a reference now. I don't need to send it again, do I?\n\nI saw the older instructions saying to email a copy and thought I'd check before creating yet another version of the same request. Tariq",
+  "attachments": [],
+  "case_critical": false
+}

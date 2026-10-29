@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9060",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-27T14:55:00+01:00",
+  "from": "Hadi Jung",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Nora, I have the refund reference saved now. This is about the evening spreadsheet workshop, not the missing course everybody is discussing today.\n\nThe confirmation says received, which I understand isn't a decision. I'm just checking whether I should expect the normal support reply or whether the timetable is changing this morning. I don't need to submit again.\n\nThanks for sorting the form wording. It is much easier to tell what happens next than in the first version I used. Hadi",
+  "attachments": [],
+  "case_critical": false
+}

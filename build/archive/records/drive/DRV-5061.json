@@ -1,0 +1,20 @@
+{
+  "id": "DRV-5061",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-01T09:05:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-4474",
+  "body": "Evening spreadsheet workshop — form review\n\nA submission reaching the queue and a refund being approved are separate stages. The page currently returns without a clear received message, so people are submitting again. That produces duplicates rather than reassurance.\n\nSuggested fix: show the request reference after submission, with a plain received label and the next contact step. Avoid wording that promises a decision at this point.\n\nAdmissions can match follow-up questions to the reference. Payment documents should be sent privately, not pasted into the workshop chat. I'll ask Maja to check the screen once we agree the wording. Priya",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Workshop refund query",
+  "author_credit": "Priya Nair",
+  "stored_time": "2026-09-01T09:05:00+02:00",
+  "published_time": "2026-09-01T09:05:00+02:00"
+}

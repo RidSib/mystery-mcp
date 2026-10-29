@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-0178",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-03T11:25:00+02:00",
+  "from": "Sandra Kowalski",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Hold the demo programme until Nora has the missing descriptions. Those blank boxes are waiting for text, not a printer fault. Paula can print the corrected welcome pack separately; one unfinished job doesn't mean we have to stop everything. Sandra",
+  "attachments": [],
+  "case_critical": false
+}

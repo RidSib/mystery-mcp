@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2210",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-04T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course title and copy",
+  "thread_id": "THR-2531",
+  "body": "Can we please not call it '100% rich'? The mock-up isn't making the words any less embarrassing.",
+  "attachments": [],
+  "case_critical": false
+}

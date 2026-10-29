@@ -1,0 +1,16 @@
+{
+  "buildCommand": "echo static",
+  "outputDirectory": "public",
+  "functions": {
+    "api/server.js": {
+      "includeFiles": "data/**",
+      "maxDuration": 15
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/mcp",
+      "destination": "/api/server"
+    }
+  ]
+}

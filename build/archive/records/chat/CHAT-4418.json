@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4418",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-08T13:25:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "#marketing"
+  ],
+  "cc": [],
+  "subject": "Course title thread",
+  "thread_id": "THR-5826",
+  "body": "Honestly I'd love to get rid of this course. It makes us look like a scam.",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5807",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-22T15:05:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Preview ticket is waiting on the actual document link. A photo of the screen won't let me repair the link. Priya",
+  "attachments": [],
+  "case_critical": false
+}

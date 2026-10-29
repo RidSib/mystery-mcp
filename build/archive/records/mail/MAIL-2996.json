@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2996",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-28T09:05:00+02:00",
+  "from": "Rami Schäfer",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Nora, as a new platform-support hire I'm discovering that our own welcome pack has the same problem as the student one: three links with different labels. Which contact list should I keep?\n\nFor students, the setup page sorts by start date; teacher is a filter. I'll add that explanation to the help text. Maja",
+  "attachments": [],
+  "case_critical": false
+}

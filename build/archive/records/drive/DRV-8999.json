@@ -1,0 +1,20 @@
+{
+  "id": "DRV-8999",
+  "channel": "drive",
+  "release": "R1",
+  "event_time": "2026-10-27T09:05:00+01:00",
+  "from": "Elena Wolf",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-3702",
+  "body": "Page copy: unresolved handover\n\nThere are still two files marked CURRENT in the preview folder. Nils has left their names alone until the review sheet identifies the approved copy. Modification time alone won't settle that question.\n\nAdmissions needs a plain enquiry response about what students practise. Greta's request is specific; another slogan won't answer it.\n\nPriya has the preview-link ticket. Send her the actual document link rather than a screenshot. Today's incident may delay the queue, but we should leave this work in a state someone can pick up without reconstructing seven forwarded images. Elena",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Course-page wording",
+  "author_credit": "Elena Wolf",
+  "stored_time": "2026-10-27T09:05:00+01:00",
+  "published_time": "2026-10-27T09:05:00+01:00"
+}

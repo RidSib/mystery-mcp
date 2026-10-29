@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1954",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-12T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-7756",
+  "body": "Another batch of course changes, another request to sort out a small support problem. It all seems to land on me, Sandra.\n\nI need you to look at the workload before asking what else I can fit in. The module work alone takes more time than the planning sheet suggests. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

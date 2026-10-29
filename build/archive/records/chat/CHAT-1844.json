@@ -1,0 +1,16 @@
+{
+  "cc": [],
+  "attachments": [],
+  "case_critical": false,
+  "id": "CHAT-1844",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-20T23:05:00+02:00",
+  "from": "Leo Brandt",
+  "to": [
+    "Jana Richter"
+  ],
+  "subject": "Direct message",
+  "thread_id": "THR-1845",
+  "body": "if I fail Data Analysis the internship is gone. they want the certificate by November. not happening, I'll sort it"
+}

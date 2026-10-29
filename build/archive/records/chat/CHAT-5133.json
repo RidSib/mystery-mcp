@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5133",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-08T17:25:00+02:00",
+  "from": "Mina Otto",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Two submissions from me, sorry. The first screen didn't say received, so I tried again. Please keep just one workshop request. Mina",
+  "attachments": [],
+  "case_critical": false
+}

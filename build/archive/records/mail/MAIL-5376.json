@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5376",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-16T12:35:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Jule, please remove the draft price badge from the copy review. People keep discussing whether it is an offer and I only put it there to test spacing.\n\nThe real pricing belongs in the registration figures. Ines",
+  "attachments": [],
+  "case_critical": false
+}

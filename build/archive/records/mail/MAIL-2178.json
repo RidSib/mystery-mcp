@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2178",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-24T17:25:00+02:00",
+  "from": "Felix Krüger",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "The corrected pack is clearer. I've put the setup link in the welcome reply instead of attaching another PDF.\n\nMaja also asked which contact list belongs in her new-hire pack; the student version won't help her route staff questions. Could we check both while the links are being corrected? Felix",
+  "attachments": [],
+  "case_critical": false
+}

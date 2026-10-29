@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6700",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-25T10:45:00+01:00",
+  "from": "Uma Jansen",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "Receipt envelope is at reception. Party purchases in that one, unrelated paperwork elsewhere, or Theo will turn into a bat. Uma",
+  "attachments": [],
+  "case_critical": false
+}

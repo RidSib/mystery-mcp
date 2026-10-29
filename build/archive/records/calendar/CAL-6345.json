@@ -1,0 +1,24 @@
+{
+  "id": "CAL-6345",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-10T17:55:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Idris Weber",
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-9337",
+  "body": "Paper order — pages versus sheets.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-10T17:55:00+02:00",
+  "end": "2026-10-10T18:25:00+02:00",
+  "attendees": [
+    "Idris Weber",
+    "Paula Dietrich"
+  ],
+  "private": false
+}

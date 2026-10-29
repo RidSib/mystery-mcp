@@ -1,0 +1,178 @@
+{
+  "primary_scope": [
+    "archive"
+  ],
+  "rules": [
+    {
+      "name": "back_room_code",
+      "value_from": {
+        "config": "back_room_code"
+      },
+      "allowed_record_ids": [
+        "CHAT-1206"
+      ]
+    },
+    {
+      "name": "order_number",
+      "value_from": {
+        "config": "order_number"
+      },
+      "allowed_record_ids": [
+        "EXP-0482"
+      ]
+    },
+    {
+      "name": "console_session",
+      "value_from": {
+        "config": "session_id"
+      },
+      "allowed_record_ids": [],
+      "allowed_revision_ids": [
+        "LOG-5190"
+      ],
+      "allowed_vault_ids": [
+        "VAULT-1",
+        "VAULT-4",
+        "VAULT-5"
+      ]
+    },
+    {
+      "name": "teacher_card",
+      "value_from": {
+        "config": "cards.culprit"
+      },
+      "allowed_record_ids": [
+        "DRV-6650",
+        "LOG-8814"
+      ],
+      "allowed_vault_ids": [
+        "VAULT-4"
+      ]
+    },
+    {
+      "name": "competitor",
+      "value_from": {
+        "config": "competitor"
+      },
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-2"
+      ]
+    },
+    {
+      "name": "buyer_surname",
+      "value_from": {
+        "derive": "buyer_surname"
+      },
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-2"
+      ]
+    },
+    {
+      "name": "disguise_brand",
+      "literal": "Phantom",
+      "allowed_record_ids": []
+    },
+    {
+      "name": "room_token",
+      "value_from": {
+        "environment": "ROOM_TOKEN"
+      },
+      "allowed_record_ids": [],
+      "private_prop_only": true
+    },
+    {
+      "name": "service_asset",
+      "value_from": {
+        "environment": "SERVICE_ASSET"
+      },
+      "allowed_record_ids": [],
+      "private_prop_only": true
+    },
+    {
+      "name": "service_pin",
+      "value_from": {
+        "environment": "SERVICE_PIN"
+      },
+      "allowed_record_ids": [],
+      "private_prop_only": true
+    },
+    {
+      "name": "operator_name",
+      "value_from": {
+        "derive": "operator_name"
+      },
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-1",
+        "VAULT-4",
+        "VAULT-5"
+      ]
+    },
+    {
+      "name": "academy_login",
+      "value_from": {
+        "derive": "academy_login"
+      },
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-1",
+        "VAULT-4",
+        "VAULT-5"
+      ]
+    },
+    {
+      "name": "personal_host",
+      "value_from": {
+        "derive": "personal_host"
+      },
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-1",
+        "VAULT-4",
+        "VAULT-5"
+      ]
+    },
+    {
+      "name": "original_title_message",
+      "literal": "Honestly I'd love to get rid of this title. It makes us look like a scam.",
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-4"
+      ]
+    },
+    {
+      "name": "original_rename_message",
+      "literal": "If the board doesn't rename it, I'm out of ideas.",
+      "allowed_record_ids": [
+        "MAIL-3312"
+      ],
+      "allowed_vault_ids": [
+        "VAULT-4"
+      ]
+    },
+    {
+      "name": "original_logo_message",
+      "literal": "do you still have the new logo files?",
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-4"
+      ]
+    },
+    {
+      "name": "deleted_arrival_message",
+      "literal": "costume arrived, I look terrifying",
+      "allowed_record_ids": [],
+      "allowed_vault_ids": [
+        "VAULT-4"
+      ]
+    }
+  ],
+  "special_checks": [
+    "teacher-authored records must not mention costume",
+    "no vault plaintext, ciphertext, download links, private paths or answer flags in participant/server files",
+    "real room/service secrets only in their approved prop print masters and the private environment file"
+  ],
+  "control_scope_note": "The prescribed root config and private operator/test documents are not served records. Their explicit config values are build controls, not archive exceptions."
+}

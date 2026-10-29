@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9315",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-09T13:45:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "The automatic captions have turned \"learning journal\" into \"yearning gerbil\". I'm not sure which is more accurate, but please correct it before the welcome clip goes round.\n\nSend me the teaching terms that still look doubtful. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

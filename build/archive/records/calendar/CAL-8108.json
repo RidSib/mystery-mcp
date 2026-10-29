@@ -1,0 +1,24 @@
+{
+  "id": "CAL-8108",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-03T10:45:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Nora Stein",
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-2769",
+  "body": "Appearance-consent contact in the caption notes. Individual requests go directly, not through public replies. Nora",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-03T10:45:00+02:00",
+  "end": "2026-10-03T11:15:00+02:00",
+  "attendees": [
+    "Nora Stein",
+    "Leo Brandt"
+  ],
+  "private": false
+}

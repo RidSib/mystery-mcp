@@ -1,0 +1,19 @@
+{
+  "id": "EXP-1475",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-22T12:00:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Name badges",
+  "thread_id": "THR-8370",
+  "body": "Blank name badges for the Halloween Bash. Purchaser and receipt belong on the committee sheet. Ines",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 56.6,
+  "status": "submitted",
+  "approver": null
+}

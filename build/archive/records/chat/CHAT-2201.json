@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2201",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-06T14:55:00+02:00",
+  "from": "Lena Fischer",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Could we rename \"screen issue\" to the equipment involved? Anton and I are now discussing two entirely different cables. Lena",
+  "attachments": [],
+  "case_critical": false
+}

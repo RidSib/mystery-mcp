@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-8945",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-19T12:35:00+02:00",
+  "from": "Yara Möller",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "Sandra, one demo screenshot has a student's name in it. I've marked the frame, not forwarded it round the group. Yara",
+  "attachments": [],
+  "case_critical": false
+}

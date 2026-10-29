@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6754",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-27T17:55:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "The grid isn't broken. It is showing both Wanda's draft slot and the agreed one because the draft checkbox was never cleared.\n\nI've explained that in a comment and left Programs to change the plan. Please stop calling this a platform outage. Priya",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,24 @@
+{
+  "id": "CAL-8268",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-11T09:05:00+02:00",
+  "from": "Omar Albrecht",
+  "to": [
+    "Omar Albrecht",
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-6887",
+  "body": "Facilities items: gloves, paper, tablet stand.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-11T09:05:00+02:00",
+  "end": "2026-10-11T09:35:00+02:00",
+  "attendees": [
+    "Omar Albrecht",
+    "Ines Duarte"
+  ],
+  "private": false
+}

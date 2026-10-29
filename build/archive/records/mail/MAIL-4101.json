@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4101",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-14T17:25:00+02:00",
+  "from": "NordByte",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Routine integration support",
+  "thread_id": "THR-8631",
+  "body": "Following up on the scheduled support handoff: please confirm which connector questions remain open. The badge and communications-archive items have separate queues on our side.\n\nA reply in one ticket won't automatically update the other. We can discuss both in the booked slot. NordByte support",
+  "attachments": [],
+  "case_critical": false
+}

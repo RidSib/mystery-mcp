@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7546",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-24T16:15:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "Six people asked whether the yellow coffee notice means the whole Academy water supply is unsafe. Could we change the heading?\n\nI can print something less dramatic. The phrase \"steam fault\" would save me several conversations before lunch. Milan",
+  "attachments": [],
+  "case_critical": false
+}

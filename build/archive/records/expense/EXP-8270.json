@@ -1,0 +1,19 @@
+{
+  "id": "EXP-8270",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-05T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Paper decorations",
+  "thread_id": "THR-3064",
+  "body": "Paper decorations for HB. Reusable pieces go back in the box after the event, if they survive us. Jule",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 12.5,
+  "status": "submitted",
+  "approver": null
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3606",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-15T10:45:00+02:00",
+  "from": "Rafael Frank",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "The student-channel clip includes the edge of a facilities checklist. Could you crop a little tighter?\n\nNothing dramatic, just the usual rule about not turning every wall into a public noticeboard. Mira already flagged the reception board for the same reason. Rafael",
+  "attachments": [],
+  "case_critical": false
+}

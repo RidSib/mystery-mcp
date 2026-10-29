@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-0464",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-02T10:15:00+02:00",
+  "from": "Lian Maas",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "The form now lets me write a short heading privately. Much better than describing the whole problem in the group. Lian",
+  "attachments": [],
+  "case_critical": false
+}

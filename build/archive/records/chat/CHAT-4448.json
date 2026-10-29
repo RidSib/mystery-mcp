@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4448",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-14T15:35:00+02:00",
+  "from": "Theo Hartwig",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "The banner quote isn't an invoice. Please stop adding it to the paid column; it makes the reconciliation very exciting. Theo",
+  "attachments": [],
+  "case_critical": false
+}

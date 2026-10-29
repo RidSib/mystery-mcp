@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3920",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-29T12:00:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "IT support queue",
+  "thread_id": "THR-5640",
+  "body": "Sandra, NordByte never picks up when these integration jobs pile up. By the time I get a useful response, somebody here has started another thread asking why nothing happened.\n\nI need the questions in the queue with the steps already tried. I can't keep chasing screenshots through four conversations and do the repairs as well. Priya",
+  "attachments": [],
+  "case_critical": false
+}

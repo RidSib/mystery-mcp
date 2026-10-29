@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3305",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-07T22:47:00+02:00",
+  "from": "Rosa Lima",
+  "to": [
+    "Facilities"
+  ],
+  "cc": [],
+  "subject": "Whispering in the staff bathroom",
+  "thread_id": "THR-7457",
+  "body": "Heard whispering in the staff bathroom around 22:40. Couldn't see who it was. Really unpleasant with the corridor so quiet. Has anyone else heard that? Rosa",
+  "attachments": [],
+  "case_critical": false
+}

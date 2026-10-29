@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5876",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-15T11:25:00+02:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Nora, can we put a human contact on the first page? The pack currently sends a new student through three menus before they can ask a question.\n\nKeep the checklist, but move the welcome back above the administrative bits. Thomas",
+  "attachments": [],
+  "case_critical": false
+}

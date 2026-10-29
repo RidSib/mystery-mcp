@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6127",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-23T16:10:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Ben Lorenz"
+  ],
+  "cc": [],
+  "subject": "Passwords",
+  "thread_id": "THR-4336",
+  "body": "I never remember passwords. They live behind the screen I teach from all day, don't tell IT 🙈\n\nlol 👻",
+  "attachments": [],
+  "case_critical": false
+}

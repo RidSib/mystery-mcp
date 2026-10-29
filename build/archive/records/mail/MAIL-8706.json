@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8706",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-06T12:35:00+02:00",
+  "from": "Vera Walter",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Digital checklist is fine for me. No printing, then? Vera",
+  "attachments": [],
+  "case_critical": false
+}

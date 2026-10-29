@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9090",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-20T15:35:00+02:00",
+  "from": "Noah Paul",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "My pack arrived, thanks. Tiny problem: my name is Noah, not Noahh. I can survive the extra h, but I'd rather it didn't migrate onto the attendance sheet.\n\nThe email address is correct, so I think it's just the display name.",
+  "attachments": [],
+  "case_critical": false
+}

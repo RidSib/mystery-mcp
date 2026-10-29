@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2603",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-15T09:35:00+02:00",
+  "from": "Karim Vogt",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "I've enlarged the word RECEIVED on the confirmation example. Making the tick smaller also helps; it looked rather triumphant for a form submission.\n\nNora, please approve the wording before I export another set of screenshots for the instructions. Karim",
+  "attachments": [],
+  "case_critical": false
+}

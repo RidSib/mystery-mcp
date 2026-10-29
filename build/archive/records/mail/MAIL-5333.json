@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5333",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-14T16:15:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "HB expenses need receipts, even when the item costs less than lunch. Please don't send a photo of a shopping bag and ask me to calculate what was inside.\n\nPut the purchaser's name beside the line on the committee sheet. Ines",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8496",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-13T13:15:00+02:00",
+  "from": "Paula Dietrich",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "Reception is getting party questions that belong to the committee. Can the next notice point people to one list?\n\nI have three pencilled headcounts, all different, and I don't want the smallest number to become a booking by accident. Paula",
+  "attachments": [],
+  "case_critical": false
+}

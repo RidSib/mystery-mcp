@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9547",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-23T17:25:00+02:00",
+  "from": "Greta Hoffmann",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Which pile is the new folded pack? I found three stacks and one says TEST in very confident capitals. Greta",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,53 @@
+{
+  "id": "TRN-3919",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-10-25T16:15:00+01:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Elena Wolf",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-3852",
+  "body": "2026-10-25T16:15:00+01:00 — Elena Wolf: Nora, I can collect reusable decorations after the Bash. But I saw my name under everything to clear, which is quite a promotion.\n2026-10-25T16:15:58+01:00 — Nora Stein: I'll narrow the task. Dina is right that we had lots of cutters and hangers and almost nobody for the end.\n2026-10-25T16:17:05+01:00 — Elena Wolf: And keep sticky things off painted walls. The reusable box contains some very permanent-looking adhesive.\n2026-10-25T16:18:23+01:00 — Nora Stein: Kofi asked for door glass and routes to stay clear too. I'll put that beside the layout, not buried in the invitation.\n2026-10-25T16:19:46+01:00 — Elena Wolf: How are receipts going? Ines's carrier-bag speech was memorable.\n2026-10-25T16:20:50+01:00 — Nora Stein: Uma has an envelope at reception. I'm matching purchases to the committee sheet so Finance doesn't get a pile of mysteries.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Elena Wolf",
+    "Nora Stein"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-25T16:15:00+01:00",
+      "speaker": "Elena Wolf",
+      "text": "Nora, I can collect reusable decorations after the Bash. But I saw my name under everything to clear, which is quite a promotion."
+    },
+    {
+      "timestamp": "2026-10-25T16:15:58+01:00",
+      "speaker": "Nora Stein",
+      "text": "I'll narrow the task. Dina is right that we had lots of cutters and hangers and almost nobody for the end."
+    },
+    {
+      "timestamp": "2026-10-25T16:17:05+01:00",
+      "speaker": "Elena Wolf",
+      "text": "And keep sticky things off painted walls. The reusable box contains some very permanent-looking adhesive."
+    },
+    {
+      "timestamp": "2026-10-25T16:18:23+01:00",
+      "speaker": "Nora Stein",
+      "text": "Kofi asked for door glass and routes to stay clear too. I'll put that beside the layout, not buried in the invitation."
+    },
+    {
+      "timestamp": "2026-10-25T16:19:46+01:00",
+      "speaker": "Elena Wolf",
+      "text": "How are receipts going? Ines's carrier-bag speech was memorable."
+    },
+    {
+      "timestamp": "2026-10-25T16:20:50+01:00",
+      "speaker": "Nora Stein",
+      "text": "Uma has an envelope at reception. I'm matching purchases to the committee sheet so Finance doesn't get a pile of mysteries."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "EXP-0731",
+  "channel": "expense",
+  "release": "R2",
+  "event_time": "2026-10-28T10:00:00+01:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Hamburg accommodation receipt",
+  "thread_id": "THR-3669",
+  "body": "Hamburg hotel, 26–27 October. Filing the accommodation receipt with the EdTech Summit claim. Room: double occupancy, 2 guests.\n\nThe amount hasn't been transcribed in this view. Thomas",
+  "attachments": [],
+  "case_critical": false,
+  "amount": null,
+  "status": "submitted",
+  "approver": null,
+  "stay_dates": [
+    "2026-10-26",
+    "2026-10-27"
+  ]
+}

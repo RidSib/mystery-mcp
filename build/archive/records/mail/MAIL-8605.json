@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8605",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-08T10:45:00+02:00",
+  "from": "Ada Keller",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Hi Nora, is a screenshot enough for a support appointment? The form asks for an attachment, but my question is about the exercise instructions rather than something broken.\n\nI can paste the sentence that confused me. Ada",
+  "attachments": [],
+  "case_critical": false
+}

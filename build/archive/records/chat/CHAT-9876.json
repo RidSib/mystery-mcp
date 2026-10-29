@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9876",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-05T13:45:00+02:00",
+  "from": "Elena Wolf",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "I'll collect reusable decorations after the Bash. Please put me under clear-away, not \"everything Elena hasn't explicitly refused\".",
+  "attachments": [],
+  "case_critical": false
+}

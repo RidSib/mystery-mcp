@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5524",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-15T10:28:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Thomas Engel"
+  ],
+  "cc": [],
+  "subject": "Re: Course refunds",
+  "thread_id": "THR-6628",
+  "body": "212 × €1,490 = €315,880\n\nThat's the refund total on the current registrations and price. It doesn't include anything else you may want to compare in a decision. Please keep the count with the figure when you forward it; otherwise I'll be asked to reconstruct it again. Ines",
+  "attachments": [],
+  "case_critical": false
+}

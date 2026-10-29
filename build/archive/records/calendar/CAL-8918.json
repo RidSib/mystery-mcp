@@ -1,0 +1,24 @@
+{
+  "id": "CAL-8918",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-05T12:05:00+02:00",
+  "from": "Lena Fischer",
+  "to": [
+    "Lena Fischer",
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1182",
+  "body": "Demo links: test ordinary viewer access.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-05T12:05:00+02:00",
+  "end": "2026-10-05T12:35:00+02:00",
+  "attendees": [
+    "Lena Fischer",
+    "Sandra Kowalski"
+  ],
+  "private": false
+}

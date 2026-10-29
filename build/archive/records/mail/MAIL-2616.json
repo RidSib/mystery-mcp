@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2616",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-29T13:45:00+02:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Please make sure the rota has a named handover for uncovered slots. A blank cell isn't a service plan.\n\nIf we cannot offer an appointment that day, say so plainly instead of leaving reception to improvise. Thomas",
+  "attachments": [],
+  "case_critical": false
+}

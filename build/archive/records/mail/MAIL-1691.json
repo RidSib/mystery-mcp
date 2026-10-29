@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1691",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-18T10:15:00+02:00",
+  "from": "Elena Wolf",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "I can take the clear-away slot, provided the sticky things aren't on painted walls. Last year's blu-tack archaeology took longer than the event.\n\nPut me down for collecting reusable bits, not supervising the whole evening. Elena",
+  "attachments": [],
+  "case_critical": false
+}

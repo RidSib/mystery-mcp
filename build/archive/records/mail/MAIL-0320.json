@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0320",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-21T22:10:00+02:00",
+  "from": "Omar Albrecht",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "One last pack snag before tomorrow: the bottle reminder overlaps the footer on the print version. It looks fine on screen.\n\nI'll shorten the facilities paragraph in the morning. Please don't print another pile tonight from this copy. Omar",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4492",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-22T12:35:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "I drafted a confirmation panel with a big tick and the request reference. Please check the sentence before it goes live.\n\nIt says received, not approved. Those are two different things and I'd prefer the design not to start a financial incident. Idris",
+  "attachments": [],
+  "case_critical": false
+}

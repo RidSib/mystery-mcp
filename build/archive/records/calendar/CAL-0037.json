@@ -1,0 +1,24 @@
+{
+  "id": "CAL-0037",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-22T09:35:00+02:00",
+  "from": "Clara Neumann",
+  "to": [
+    "Clara Neumann",
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-2496",
+  "body": "Course-page examples with Jule. Compare Dina's practice descriptions with the current paragraph. Clara",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-22T09:35:00+02:00",
+  "end": "2026-10-22T10:05:00+02:00",
+  "attendees": [
+    "Clara Neumann",
+    "Jule Hartmann"
+  ],
+  "private": false
+}

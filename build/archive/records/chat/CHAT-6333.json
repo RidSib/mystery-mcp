@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6333",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-04T12:35:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Printing still needs a cost centre. I can chase descriptions all day but Paula can't print them against a shrug. Nora",
+  "attachments": [],
+  "case_critical": false
+}

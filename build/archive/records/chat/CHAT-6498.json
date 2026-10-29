@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-6498",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-12T13:15:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Please add the exercise's teacher to module questions. At the moment every question becomes my question by default. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

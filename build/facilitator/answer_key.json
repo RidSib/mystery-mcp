@@ -1,0 +1,1677 @@
+{
+  "facilitator_only": true,
+  "case_title": "The Ghost of the Server Room",
+  "people": {
+    "culprit": "Marcus Fenwick",
+    "ceo": "Thomas Engel",
+    "admin": "Priya Nair",
+    "marketing": "Jule Hartmann",
+    "programs": "Sandra Kowalski",
+    "security": "Kofi Mensah",
+    "cleaner": "Rosa Lima",
+    "student": "Leo Brandt",
+    "finance": "Ines Duarte",
+    "buyer": "Damian Kroll",
+    "contractor": "NordByte"
+  },
+  "case_critical": {
+    "CAL-0037": false,
+    "CAL-0141": false,
+    "CAL-0239": false,
+    "CAL-0440": false,
+    "CAL-0465": false,
+    "CAL-0981": false,
+    "CAL-1163": false,
+    "CAL-1296": false,
+    "CAL-1396": false,
+    "CAL-1450": true,
+    "CAL-1557": false,
+    "CAL-1760": false,
+    "CAL-1781": false,
+    "CAL-2145": false,
+    "CAL-2204": true,
+    "CAL-2486": false,
+    "CAL-2507": false,
+    "CAL-2757": false,
+    "CAL-2771": true,
+    "CAL-2880": false,
+    "CAL-3017": true,
+    "CAL-3298": false,
+    "CAL-3388": true,
+    "CAL-3438": false,
+    "CAL-3554": false,
+    "CAL-4012": true,
+    "CAL-4030": false,
+    "CAL-4549": false,
+    "CAL-4628": false,
+    "CAL-4650": false,
+    "CAL-5092": false,
+    "CAL-5561": true,
+    "CAL-5650": false,
+    "CAL-5862": false,
+    "CAL-5971": false,
+    "CAL-6003": true,
+    "CAL-6243": false,
+    "CAL-6345": false,
+    "CAL-6438": false,
+    "CAL-6478": false,
+    "CAL-6652": false,
+    "CAL-6697": false,
+    "CAL-6849": false,
+    "CAL-6968": false,
+    "CAL-7143": false,
+    "CAL-7608": false,
+    "CAL-7637": false,
+    "CAL-7708": false,
+    "CAL-7948": false,
+    "CAL-8077": false,
+    "CAL-8108": false,
+    "CAL-8268": false,
+    "CAL-8274": false,
+    "CAL-8476": false,
+    "CAL-8599": false,
+    "CAL-8635": false,
+    "CAL-8804": false,
+    "CAL-8918": false,
+    "CAL-8995": false,
+    "CAL-9391": false,
+    "CHAT-0178": false,
+    "CHAT-0360": false,
+    "CHAT-0463": false,
+    "CHAT-0464": false,
+    "CHAT-0923": false,
+    "CHAT-0962": false,
+    "CHAT-1009": false,
+    "CHAT-1032": false,
+    "CHAT-1161": false,
+    "CHAT-1206": true,
+    "CHAT-1475": false,
+    "CHAT-1605": false,
+    "CHAT-1607": false,
+    "CHAT-1608": false,
+    "CHAT-1858": false,
+    "CHAT-2178": false,
+    "CHAT-2201": false,
+    "CHAT-2210": true,
+    "CHAT-2299": true,
+    "CHAT-2359": false,
+    "CHAT-2441": false,
+    "CHAT-2793": false,
+    "CHAT-2815": false,
+    "CHAT-2871": true,
+    "CHAT-2873": false,
+    "CHAT-2916": false,
+    "CHAT-3030": false,
+    "CHAT-3110": false,
+    "CHAT-3114": false,
+    "CHAT-3140": true,
+    "CHAT-3163": false,
+    "CHAT-3305": true,
+    "CHAT-3506": false,
+    "CHAT-3565": false,
+    "CHAT-3593": true,
+    "CHAT-3764": false,
+    "CHAT-3913": false,
+    "CHAT-3924": false,
+    "CHAT-4072": true,
+    "CHAT-4188": false,
+    "CHAT-4208": false,
+    "CHAT-4211": false,
+    "CHAT-4250": false,
+    "CHAT-4314": false,
+    "CHAT-4418": true,
+    "CHAT-4419": true,
+    "CHAT-4448": false,
+    "CHAT-4484": false,
+    "CHAT-4520": false,
+    "CHAT-4743": false,
+    "CHAT-4866": false,
+    "CHAT-4890": false,
+    "CHAT-4901": true,
+    "CHAT-4934": false,
+    "CHAT-5007": true,
+    "CHAT-5120": true,
+    "CHAT-5129": true,
+    "CHAT-5133": false,
+    "CHAT-5142": false,
+    "CHAT-5247": false,
+    "CHAT-5295": false,
+    "CHAT-5382": false,
+    "CHAT-5544": true,
+    "CHAT-5807": false,
+    "CHAT-5885": false,
+    "CHAT-5886": false,
+    "CHAT-6117": false,
+    "CHAT-6127": true,
+    "CHAT-6320": false,
+    "CHAT-6333": false,
+    "CHAT-6498": false,
+    "CHAT-6610": true,
+    "CHAT-6648": false,
+    "CHAT-6668": false,
+    "CHAT-6700": false,
+    "CHAT-7048": false,
+    "CHAT-7223": false,
+    "CHAT-7302": true,
+    "CHAT-7353": false,
+    "CHAT-7390": true,
+    "CHAT-7504": false,
+    "CHAT-7558": false,
+    "CHAT-7664": false,
+    "CHAT-7962": false,
+    "CHAT-8052": false,
+    "CHAT-8114": false,
+    "CHAT-8481": false,
+    "CHAT-8945": false,
+    "CHAT-9018": false,
+    "CHAT-9191": false,
+    "CHAT-9195": false,
+    "CHAT-9326": false,
+    "CHAT-9381": false,
+    "CHAT-9389": false,
+    "CHAT-9547": false,
+    "CHAT-9592": false,
+    "CHAT-9712": false,
+    "CHAT-9876": false,
+    "CHAT-9891": false,
+    "CHAT-9931": false,
+    "DRV-0917": true,
+    "DRV-1170": true,
+    "DRV-1561": false,
+    "DRV-2045": true,
+    "DRV-2291": false,
+    "DRV-2918": true,
+    "DRV-3381": true,
+    "DRV-3385": false,
+    "DRV-4725": false,
+    "DRV-4930": true,
+    "DRV-5061": false,
+    "DRV-5226": false,
+    "DRV-5306": true,
+    "DRV-5393": false,
+    "DRV-5841": false,
+    "DRV-5891": false,
+    "DRV-6084": false,
+    "DRV-6650": true,
+    "DRV-6787": false,
+    "DRV-7015": true,
+    "DRV-7070": false,
+    "DRV-7480": true,
+    "DRV-7734": true,
+    "DRV-7769": false,
+    "DRV-8640": false,
+    "DRV-8661": false,
+    "DRV-8999": false,
+    "DRV-9097": false,
+    "DRV-9173": false,
+    "DRV-9338": false,
+    "EXP-0479": false,
+    "EXP-0482": true,
+    "EXP-0731": true,
+    "EXP-1269": false,
+    "EXP-1475": false,
+    "EXP-3043": false,
+    "EXP-4692": false,
+    "EXP-5294": false,
+    "EXP-5451": false,
+    "EXP-5535": false,
+    "EXP-6319": false,
+    "EXP-6656": false,
+    "EXP-7848": false,
+    "EXP-7942": false,
+    "EXP-7966": false,
+    "EXP-8270": false,
+    "EXP-8721": false,
+    "EXP-8771": false,
+    "EXP-9714": false,
+    "EXP-9994": false,
+    "LOG-2761": true,
+    "LOG-2762": true,
+    "LOG-3409": true,
+    "LOG-5190": true,
+    "LOG-8814": true,
+    "MAIL-0021": false,
+    "MAIL-0058": false,
+    "MAIL-0094": false,
+    "MAIL-0230": false,
+    "MAIL-0320": false,
+    "MAIL-0372": false,
+    "MAIL-0416": false,
+    "MAIL-0483": false,
+    "MAIL-0664": false,
+    "MAIL-0757": false,
+    "MAIL-0791": false,
+    "MAIL-0910": false,
+    "MAIL-1339": false,
+    "MAIL-1385": false,
+    "MAIL-1491": false,
+    "MAIL-1533": false,
+    "MAIL-1551": false,
+    "MAIL-1668": false,
+    "MAIL-1691": false,
+    "MAIL-1758": false,
+    "MAIL-1802": false,
+    "MAIL-1933": false,
+    "MAIL-1954": true,
+    "MAIL-1959": false,
+    "MAIL-1998": false,
+    "MAIL-2028": false,
+    "MAIL-2178": false,
+    "MAIL-2416": true,
+    "MAIL-2426": false,
+    "MAIL-2455": false,
+    "MAIL-2459": false,
+    "MAIL-2603": false,
+    "MAIL-2616": false,
+    "MAIL-2730": true,
+    "MAIL-2741": false,
+    "MAIL-2767": false,
+    "MAIL-2780": false,
+    "MAIL-2871": false,
+    "MAIL-2875": false,
+    "MAIL-2932": false,
+    "MAIL-2969": false,
+    "MAIL-2996": false,
+    "MAIL-3001": false,
+    "MAIL-3003": false,
+    "MAIL-3045": false,
+    "MAIL-3133": false,
+    "MAIL-3193": false,
+    "MAIL-3225": false,
+    "MAIL-3277": false,
+    "MAIL-3278": false,
+    "MAIL-3302": false,
+    "MAIL-3307": true,
+    "MAIL-3312": true,
+    "MAIL-3450": false,
+    "MAIL-3483": false,
+    "MAIL-3606": false,
+    "MAIL-3687": false,
+    "MAIL-3724": false,
+    "MAIL-3858": false,
+    "MAIL-3894": false,
+    "MAIL-3920": true,
+    "MAIL-3963": false,
+    "MAIL-3998": false,
+    "MAIL-4040": false,
+    "MAIL-4087": true,
+    "MAIL-4101": false,
+    "MAIL-4152": false,
+    "MAIL-4241": false,
+    "MAIL-4272": false,
+    "MAIL-4357": false,
+    "MAIL-4455": true,
+    "MAIL-4458": true,
+    "MAIL-4492": false,
+    "MAIL-4507": false,
+    "MAIL-4508": false,
+    "MAIL-4532": false,
+    "MAIL-4776": true,
+    "MAIL-4790": false,
+    "MAIL-4817": false,
+    "MAIL-4878": false,
+    "MAIL-4903": false,
+    "MAIL-4996": false,
+    "MAIL-5003": true,
+    "MAIL-5010": false,
+    "MAIL-5034": false,
+    "MAIL-5080": false,
+    "MAIL-5103": false,
+    "MAIL-5158": false,
+    "MAIL-5166": false,
+    "MAIL-5241": false,
+    "MAIL-5333": false,
+    "MAIL-5376": false,
+    "MAIL-5403": false,
+    "MAIL-5453": false,
+    "MAIL-5487": false,
+    "MAIL-5518": true,
+    "MAIL-5523": false,
+    "MAIL-5524": true,
+    "MAIL-5547": false,
+    "MAIL-5565": false,
+    "MAIL-5624": false,
+    "MAIL-5638": false,
+    "MAIL-5749": false,
+    "MAIL-5848": false,
+    "MAIL-5868": false,
+    "MAIL-5876": false,
+    "MAIL-5969": false,
+    "MAIL-6026": false,
+    "MAIL-6184": false,
+    "MAIL-6201": true,
+    "MAIL-6316": false,
+    "MAIL-6329": false,
+    "MAIL-6356": false,
+    "MAIL-6393": false,
+    "MAIL-6457": false,
+    "MAIL-6503": false,
+    "MAIL-6522": false,
+    "MAIL-6559": false,
+    "MAIL-6720": true,
+    "MAIL-6754": false,
+    "MAIL-6775": false,
+    "MAIL-6803": false,
+    "MAIL-6811": false,
+    "MAIL-6822": false,
+    "MAIL-6835": false,
+    "MAIL-6991": false,
+    "MAIL-7041": true,
+    "MAIL-7261": false,
+    "MAIL-7279": false,
+    "MAIL-7364": false,
+    "MAIL-7518": false,
+    "MAIL-7533": false,
+    "MAIL-7546": false,
+    "MAIL-7568": false,
+    "MAIL-7649": false,
+    "MAIL-7702": true,
+    "MAIL-7706": false,
+    "MAIL-7933": false,
+    "MAIL-7944": false,
+    "MAIL-8110": false,
+    "MAIL-8153": false,
+    "MAIL-8255": false,
+    "MAIL-8380": false,
+    "MAIL-8496": false,
+    "MAIL-8499": false,
+    "MAIL-8605": false,
+    "MAIL-8614": false,
+    "MAIL-8657": false,
+    "MAIL-8706": false,
+    "MAIL-8724": false,
+    "MAIL-8728": false,
+    "MAIL-8865": false,
+    "MAIL-8991": false,
+    "MAIL-9056": false,
+    "MAIL-9060": false,
+    "MAIL-9090": false,
+    "MAIL-9122": false,
+    "MAIL-9145": false,
+    "MAIL-9171": false,
+    "MAIL-9271": false,
+    "MAIL-9315": false,
+    "MAIL-9322": false,
+    "MAIL-9354": false,
+    "MAIL-9545": false,
+    "MAIL-9684": false,
+    "MAIL-9700": false,
+    "MAIL-9860": false,
+    "MAIL-9868": false,
+    "MAIL-9905": false,
+    "MAIL-9958": false,
+    "TRN-0163": false,
+    "TRN-1635": false,
+    "TRN-2160": false,
+    "TRN-2181": false,
+    "TRN-3919": false,
+    "TRN-4402": true,
+    "TRN-4634": false,
+    "TRN-6118": true,
+    "TRN-7255": true,
+    "TRN-7454": false,
+    "TRN-7498": false,
+    "TRN-9313": false
+  },
+  "critical_record_ids": [
+    "CAL-1450",
+    "CAL-2204",
+    "CAL-2771",
+    "CAL-3017",
+    "CAL-3388",
+    "CAL-4012",
+    "CAL-5561",
+    "CAL-6003",
+    "CHAT-1206",
+    "CHAT-2210",
+    "CHAT-2299",
+    "CHAT-2871",
+    "CHAT-3140",
+    "CHAT-3305",
+    "CHAT-3593",
+    "CHAT-4072",
+    "CHAT-4418",
+    "CHAT-4419",
+    "CHAT-4901",
+    "CHAT-5007",
+    "CHAT-5120",
+    "CHAT-5129",
+    "CHAT-5544",
+    "CHAT-6127",
+    "CHAT-6610",
+    "CHAT-7302",
+    "CHAT-7390",
+    "DRV-0917",
+    "DRV-1170",
+    "DRV-2045",
+    "DRV-2918",
+    "DRV-3381",
+    "DRV-4930",
+    "DRV-5306",
+    "DRV-6650",
+    "DRV-7015",
+    "DRV-7480",
+    "DRV-7734",
+    "EXP-0482",
+    "EXP-0731",
+    "LOG-2761",
+    "LOG-2762",
+    "LOG-3409",
+    "LOG-5190",
+    "LOG-8814",
+    "MAIL-1954",
+    "MAIL-2416",
+    "MAIL-2730",
+    "MAIL-3307",
+    "MAIL-3312",
+    "MAIL-3920",
+    "MAIL-4087",
+    "MAIL-4455",
+    "MAIL-4458",
+    "MAIL-4776",
+    "MAIL-5003",
+    "MAIL-5518",
+    "MAIL-5524",
+    "MAIL-6201",
+    "MAIL-6720",
+    "MAIL-7041",
+    "MAIL-7702",
+    "TRN-4402",
+    "TRN-6118",
+    "TRN-7255"
+  ],
+  "suppressed_records": [
+    "CHAT-3871"
+  ],
+  "roster": [
+    {
+      "name": "Thomas Engel",
+      "role": "CEO",
+      "team": "leadership",
+      "reports_to": null
+    },
+    {
+      "name": "Sandra Kowalski",
+      "role": "Head of Programs",
+      "team": "programs",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Marcus Fenwick",
+      "role": "Course teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Priya Nair",
+      "role": "System administrator",
+      "team": "tech",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Jule Hartmann",
+      "role": "Marketing lead",
+      "team": "marketing",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Kofi Mensah",
+      "role": "Night security",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Rosa Lima",
+      "role": "Cleaner",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Ines Duarte",
+      "role": "Finance",
+      "team": "finance",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Leo Brandt",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Nora Stein",
+      "role": "Programs coordinator",
+      "team": "programs",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Milan Berger",
+      "role": "Admissions coordinator",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Mira Falk",
+      "role": "Facilities coordinator",
+      "team": "facilities",
+      "reports_to": "Thomas Engel"
+    },
+    {
+      "name": "Amira Becker",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Ben Lorenz",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Clara Neumann",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "David Sommer",
+      "role": "Teaching assistant",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Elena Wolf",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Felix Krüger",
+      "role": "Student support",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Greta Hoffmann",
+      "role": "Admissions adviser",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Hanna Schulz",
+      "role": "Marketing coordinator",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Idris Weber",
+      "role": "Designer",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Jana Richter",
+      "role": "Copy editor",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Karim Vogt",
+      "role": "Campaign assistant",
+      "team": "marketing",
+      "reports_to": "Jule Hartmann"
+    },
+    {
+      "name": "Lena Fischer",
+      "role": "Systems technician",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Lukas Meyer",
+      "role": "Helpdesk technician",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Maja Schneider",
+      "role": "Learning platform support",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Nils Braun",
+      "role": "IT coordinator",
+      "team": "tech",
+      "reports_to": "Priya Nair"
+    },
+    {
+      "name": "Omar Albrecht",
+      "role": "Facilities assistant",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Paula Dietrich",
+      "role": "Reception coordinator",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Rafael Frank",
+      "role": "Facilities assistant",
+      "team": "facilities",
+      "reports_to": "Mira Falk"
+    },
+    {
+      "name": "Sara Günther",
+      "role": "Purchasing assistant",
+      "team": "finance",
+      "reports_to": "Ines Duarte"
+    },
+    {
+      "name": "Theo Hartwig",
+      "role": "Accounts assistant",
+      "team": "finance",
+      "reports_to": "Ines Duarte"
+    },
+    {
+      "name": "Uma Jansen",
+      "role": "Finance assistant",
+      "team": "finance",
+      "reports_to": "Ines Duarte"
+    },
+    {
+      "name": "Viktor Klein",
+      "role": "Teaching assistant",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Wanda Lange",
+      "role": "Teacher",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Yara Möller",
+      "role": "Student support",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Zoe Peters",
+      "role": "Admissions adviser",
+      "team": "admissions",
+      "reports_to": "Nora Stein"
+    },
+    {
+      "name": "Anton Seidel",
+      "role": "Event coordinator",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Dina Wagner",
+      "role": "Learning designer",
+      "team": "programs",
+      "reports_to": "Sandra Kowalski"
+    },
+    {
+      "name": "Ada Keller",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Bilal Brandt",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Celia Busch",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Dario Engelmann",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Eda Fuchs",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Flora Gross",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Gio Heinrich",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Hadi Jung",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Iris Koch",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Jamal Krause",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Kira Ludwig",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Lian Maas",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Mina Otto",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Noah Paul",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Ola Reuter",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Pia Roth",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Rami Schäfer",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Sina Simon",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Tariq Vogel",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    },
+    {
+      "name": "Vera Walter",
+      "role": "Student",
+      "team": "students",
+      "reports_to": null
+    }
+  ],
+  "channel_targets": {
+    "mail": 170,
+    "chat": 100,
+    "calendar": 60,
+    "drive": 30,
+    "transcript": 12,
+    "expense": 20,
+    "log": 5
+  },
+  "metadata_assignments": "Unspecified ordinary publication dates, times, reporting lines, and background details are non-evidential fixture metadata.",
+  "truth_timeline": [
+    {
+      "event_time": "2026-08-14T09:12:00+02:00",
+      "date": "2026-08-14",
+      "actor": "Thomas Engel",
+      "action": "Shared the back-room code while in Lisbon; delivery due at 10:00",
+      "evidence": [
+        "CHAT-1206"
+      ],
+      "code_reference": "case_config.back_room_code"
+    },
+    {
+      "event_time": "2026-08-14T10:12:00+02:00",
+      "date": "2026-08-14",
+      "actor": "Unidentified code user",
+      "action": "Used the CEO code during the delivery",
+      "evidence": [
+        "LOG-3409"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-01",
+      "actor": "Thomas Engel",
+      "action": "Criticized the course as a reputation risk",
+      "evidence": [
+        "TRN-4402"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-02",
+      "actor": "Marcus Fenwick",
+      "action": "Call with buyer, described only as HB in calendar",
+      "evidence": [
+        "CAL-2204"
+      ]
+    },
+    {
+      "event_time": "2026-10-07T22:40:00+02:00",
+      "date": "2026-10-07",
+      "actor": "Marcus Fenwick",
+      "action": "Called buyer from the bathroom; Rosa heard whispering",
+      "evidence": [
+        "CHAT-3305",
+        "CAL-3017"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-15",
+      "actor": "Leo Brandt",
+      "action": "Staged the bedsheet hallway sighting",
+      "evidence": [
+        "CHAT-4072"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-15",
+      "actor": "Thomas Engel",
+      "action": "Requested refund arithmetic",
+      "evidence": [
+        "MAIL-5518",
+        "MAIL-5524"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-16",
+      "actor": "Marcus Fenwick",
+      "action": "Ordered ghost disguise privately; deleted arrival message later survives only in cleanup log",
+      "evidence": [
+        "VAULT-4",
+        "EXP-0482",
+        "PROP-COSTUME-LABEL"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-16",
+      "actor": "Marcus Fenwick",
+      "action": "Second private HB call",
+      "evidence": [
+        "CAL-3388"
+      ]
+    },
+    {
+      "event_time": "2026-10-19T23:55:00+02:00",
+      "date": "2026-10-19",
+      "actor": "Marcus Fenwick",
+      "action": "Tested pale face through a laptop HDMI connection",
+      "evidence": [
+        "DRV-4930"
+      ],
+      "public_strength": "consistent, not independently established"
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-20",
+      "actor": "Board",
+      "action": "Renamed the course with launch date unchanged",
+      "evidence": [
+        "DRV-2918"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-20",
+      "actor": "Facilities",
+      "action": "Reported faulty motion sensors",
+      "evidence": [
+        "DRV-1170"
+      ]
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-21",
+      "actor": "Marcus Fenwick",
+      "action": "Withdrew from the Christmas booking; actual reason is planned departure",
+      "evidence": [
+        "MAIL-4455",
+        "PROP-PARTY-SIGNUP"
+      ]
+    },
+    {
+      "event_time": "2026-10-22T23:10:00+02:00",
+      "date": "2026-10-22",
+      "actor": "Marcus Fenwick",
+      "action": "Rehearsed the ghost appearance near server room",
+      "evidence": [
+        "MAIL-5003"
+      ],
+      "public_strength": "consistent, not independently established"
+    },
+    {
+      "event_time": null,
+      "date": "2026-10-23",
+      "actor": "Marcus Fenwick",
+      "action": "Expensed the private disguise as party decorations",
+      "evidence": [
+        "EXP-0482",
+        "PROP-COSTUME-LABEL"
+      ]
+    },
+    {
+      "event_time": "2026-10-26T18:30:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Marcus Fenwick",
+      "action": "Badged out, saying going home",
+      "evidence": [
+        "LOG-2761"
+      ]
+    },
+    {
+      "event_time": "2026-10-26T21:15:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Sandra Kowalski",
+      "action": "Working late",
+      "evidence": [
+        "LOG-2761",
+        "MAIL-6720"
+      ]
+    },
+    {
+      "event_time": "2026-10-26T23:21:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Marcus Fenwick",
+      "action": "Returned using registered card; row later deleted",
+      "evidence": [
+        "LOG-2762",
+        "VAULT-4"
+      ]
+    },
+    {
+      "event_time": "2026-10-26T23:30:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Marcus Fenwick",
+      "action": "Changed in bathroom and left shop label",
+      "evidence": [
+        "PROP-COSTUME-LABEL"
+      ],
+      "approximate": true
+    },
+    {
+      "event_time": "2026-10-26T23:35:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Thomas Engel",
+      "action": "Investor call from Hamburg until 23:52",
+      "evidence": [
+        "TRN-6118",
+        "CAL-6003"
+      ]
+    },
+    {
+      "event_time": "2026-10-26T23:47:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Marcus Fenwick",
+      "action": "Purchased energy drink",
+      "evidence": [
+        "LOG-8814"
+      ]
+    },
+    {
+      "event_time": "2026-10-26T23:58:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Marcus Fenwick",
+      "action": "Entered using shared CEO code",
+      "evidence": [
+        "LOG-3409"
+      ]
+    },
+    {
+      "event_time": "2026-10-26T23:59:00+01:00",
+      "date": "2026-10-26",
+      "actor": "Marcus Fenwick",
+      "action": "Opened console session and authorized official export using own login and phone",
+      "evidence": [
+        "LOG-5190@revisions",
+        "VAULT-5"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:01:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Was seen by security and Programs; fled toward stairs",
+      "evidence": [
+        "DRV-5306",
+        "MAIL-6720"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:03:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Lost the witnesses in stairwell",
+      "evidence": [
+        "DRV-5306",
+        "MAIL-6720"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:04:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Kofi Mensah and Sandra Kowalski",
+      "action": "At lobby phone until 00:19",
+      "evidence": [
+        "DRV-5306",
+        "MAIL-6720"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:05:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Re-entered server room",
+      "evidence": [
+        "LOG-3409"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:09:41+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Export completed and platform issued signed receipt",
+      "evidence": [
+        "LOG-5190@revisions",
+        "VAULT-1",
+        "VAULT-5"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:11:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Deleted the course from platform and file server",
+      "evidence": [
+        "LOG-5190@revisions"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:12:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Changed deletion attribution to the tech administrator account",
+      "evidence": [
+        "LOG-5190@revisions",
+        "VAULT-4"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:14:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Changed course status to Marketing cancellation",
+      "evidence": [
+        "LOG-5190@revisions",
+        "VAULT-4"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:18:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Unmounted and removed docked BK-02",
+      "evidence": [
+        "LOG-5190@revisions",
+        "MAIL-7041",
+        "VAULT-1"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:24:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Badged out; row later deleted",
+      "evidence": [
+        "LOG-2762",
+        "VAULT-4"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:40:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Deleted two badge rows via shared facilities role and VPN",
+      "evidence": [
+        "LOG-2762",
+        "VAULT-4"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T00:46:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Changed communications archive record CHAT-4418",
+      "evidence": [
+        "VAULT-4"
+      ],
+      "before": "Honestly I'd love to get rid of this title. It makes us look like a scam.",
+      "after": "Honestly I'd love to get rid of this course. It makes us look like a scam."
+    },
+    {
+      "event_time": "2026-10-27T00:48:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Changed communications archive record MAIL-3307",
+      "evidence": [
+        "VAULT-4"
+      ],
+      "before": "If the board doesn't rename it, I'm out of ideas.",
+      "after": "If the board doesn't kill it, I'll do it myself."
+    },
+    {
+      "event_time": "2026-10-27T00:50:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Changed communications archive record CHAT-5120",
+      "evidence": [
+        "VAULT-4"
+      ],
+      "before": "do you still have the new logo files?",
+      "after": "do you know who has admin on the course platform? asking for a friend 😉"
+    },
+    {
+      "event_time": "2026-10-27T00:52:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Changed communications archive record CHAT-5129",
+      "evidence": [
+        "VAULT-4"
+      ],
+      "before": "[record absent]",
+      "after": "after Monday this course is history 👋"
+    },
+    {
+      "event_time": "2026-10-27T00:53:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Changed communications archive record CHAT-3871",
+      "evidence": [
+        "VAULT-4"
+      ],
+      "before": "costume arrived, I look terrifying 👻",
+      "after": "[record deleted]"
+    },
+    {
+      "event_time": "2026-10-27T01:02:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Encrypted bundle reached storage; folder index did not publish",
+      "evidence": [
+        "DRV-7734"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T02:00:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Backup scheduler",
+      "action": "Nightly backup failed: target missing",
+      "evidence": [
+        "LOG-5190@revisions"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T08:15:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Priya Nair",
+      "action": "Discovered deletion and empty backup dock",
+      "evidence": [
+        "MAIL-7041"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T09:00:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Marcus Fenwick",
+      "action": "Claimed home asleep by eleven at all-hands",
+      "evidence": [
+        "TRN-7255"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T11:30:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Ines Duarte",
+      "action": "Reported sticker on bathroom stall door",
+      "evidence": [
+        "CHAT-7390"
+      ]
+    },
+    {
+      "event_time": "2026-10-27T16:00:00+01:00",
+      "date": "2026-10-27",
+      "actor": "Programs office",
+      "action": "Published summary with teacher-shaped framing sections",
+      "evidence": [
+        "DRV-7480"
+      ]
+    },
+    {
+      "event_time": "2026-10-28T10:00:00+01:00",
+      "date": "2026-10-28",
+      "actor": "IT",
+      "action": "Released recovered audit/badge records and repaired Drive index",
+      "evidence": [
+        "MAIL-7702",
+        "LOG-5190@revisions",
+        "LOG-2762",
+        "DRV-7734"
+      ]
+    },
+    {
+      "event_time": "2026-11-02T10:00:00+01:00",
+      "date": "2026-11-02",
+      "actor": "Marcus Fenwick",
+      "action": "Planned exclusive handover for EUR 60000; not yet completed",
+      "evidence": [
+        "VAULT-2",
+        "CAL-5561",
+        "PROP-BUYER-MAGNET"
+      ],
+      "planned": true
+    },
+    {
+      "event_time": null,
+      "date": "2026-12-01",
+      "actor": "Marcus Fenwick",
+      "action": "Planned start at competitor; not yet completed",
+      "evidence": [
+        "VAULT-2"
+      ],
+      "planned": true
+    }
+  ],
+  "proof_chain": [
+    {
+      "id": "W1",
+      "fact": "Platform receipt binds teacher to export/deletion session",
+      "evidence": [
+        "VAULT-5",
+        "LOG-5190@revisions"
+      ],
+      "gate": "R2 and room",
+      "strength": "proof"
+    },
+    {
+      "id": "W2",
+      "fact": "Self-written manifest/log carry personal operator and host",
+      "evidence": [
+        "VAULT-1",
+        "VAULT-4"
+      ],
+      "gate": "R2 and room",
+      "strength": "support"
+    },
+    {
+      "id": "W3",
+      "fact": "Masked overnight card window and later deletion",
+      "evidence": [
+        "LOG-2762"
+      ],
+      "gate": "R2",
+      "strength": "support"
+    },
+    {
+      "id": "W4",
+      "fact": "Registered card charged at 23:47",
+      "evidence": [
+        "LOG-8814"
+      ],
+      "gate": "C1",
+      "strength": "support"
+    },
+    {
+      "id": "W5",
+      "fact": "Registered card holder is teacher",
+      "evidence": [
+        "DRV-6650"
+      ],
+      "gate": "R0",
+      "strength": "support"
+    },
+    {
+      "id": "W6",
+      "fact": "Disguise order matches teacher expense",
+      "evidence": [
+        "PROP-COSTUME-LABEL",
+        "EXP-0482"
+      ],
+      "gate": "room and R0",
+      "strength": "support"
+    },
+    {
+      "id": "W7",
+      "fact": "Card use contradicts claimed bedtime",
+      "evidence": [
+        "TRN-7255",
+        "LOG-8814"
+      ],
+      "gate": "R1 and C1",
+      "strength": "support"
+    },
+    {
+      "id": "H1",
+      "fact": "CEO code used at both entry times",
+      "evidence": [
+        "LOG-3409"
+      ],
+      "gate": "R1",
+      "strength": "code proof, not person"
+    },
+    {
+      "id": "H2",
+      "fact": "Code shared in August",
+      "evidence": [
+        "CHAT-1206",
+        "LOG-3409"
+      ],
+      "gate": "R0 and R1",
+      "strength": "proof"
+    },
+    {
+      "id": "H3",
+      "fact": "Disguise used for concealment and ghost story",
+      "evidence": [
+        "PROP-COSTUME-LABEL",
+        "EXP-0482",
+        "DRV-5306"
+      ],
+      "gate": "room and R1",
+      "strength": "support"
+    },
+    {
+      "id": "H4",
+      "fact": "Export before deletion, backup unmount and failed job",
+      "evidence": [
+        "LOG-5190@revisions",
+        "MAIL-7041"
+      ],
+      "gate": "R2",
+      "strength": "proof of action; WHO route identifies actor"
+    },
+    {
+      "id": "H5",
+      "fact": "Audit/status and badge records altered after deletion",
+      "evidence": [
+        "LOG-5190@revisions",
+        "LOG-2762",
+        "VAULT-4"
+      ],
+      "gate": "R2 and room",
+      "strength": "proof"
+    },
+    {
+      "id": "H6",
+      "fact": "Communications altered to frame Marketing",
+      "evidence": [
+        "VAULT-4",
+        "MAIL-3312",
+        "CHAT-4419"
+      ],
+      "gate": "R2 and room",
+      "strength": "proof in vault; quoted replies support"
+    },
+    {
+      "id": "Y1",
+      "fact": "Planned exclusive sale and new job",
+      "evidence": [
+        "VAULT-2"
+      ],
+      "gate": "R2 and room",
+      "strength": "proof"
+    },
+    {
+      "id": "Y2",
+      "fact": "Buyer meeting corresponds to private calendar",
+      "evidence": [
+        "PROP-BUYER-MAGNET",
+        "CAL-5561"
+      ],
+      "gate": "room and R0",
+      "strength": "strong support"
+    },
+    {
+      "id": "Y3",
+      "fact": "Departure signals",
+      "evidence": [
+        "MAIL-4455",
+        "PROP-PARTY-SIGNUP",
+        "VAULT-2"
+      ],
+      "gate": "room and R0",
+      "strength": "support"
+    },
+    {
+      "id": "Y4",
+      "fact": "Grievances and unchanged rename deadline",
+      "evidence": [
+        "MAIL-2730",
+        "CHAT-2299",
+        "CHAT-3140",
+        "MAIL-6201",
+        "DRV-2918"
+      ],
+      "gate": "R0 and R2",
+      "strength": "support"
+    },
+    {
+      "id": "E1",
+      "fact": "CEO too far away at entry times",
+      "evidence": [
+        "TRN-6118",
+        "CAL-6003",
+        "LOG-3409"
+      ],
+      "gate": "R1",
+      "strength": "proof of absence"
+    },
+    {
+      "id": "E2",
+      "fact": "Hotel stay",
+      "evidence": [
+        "EXP-0731"
+      ],
+      "gate": "R2",
+      "strength": "support"
+    },
+    {
+      "id": "E3",
+      "fact": "Board chose continuation and rename",
+      "evidence": [
+        "DRV-2918"
+      ],
+      "gate": "R2",
+      "strength": "support"
+    },
+    {
+      "id": "E4",
+      "fact": "CEO code not exclusive",
+      "evidence": [
+        "CHAT-1206"
+      ],
+      "gate": "R0",
+      "strength": "support"
+    },
+    {
+      "id": "J1",
+      "fact": "Threats edited or inserted in teacher cleanup",
+      "evidence": [
+        "VAULT-4"
+      ],
+      "gate": "R2 and room",
+      "strength": "proof"
+    },
+    {
+      "id": "J2",
+      "fact": "Original objection concerned title",
+      "evidence": [
+        "MAIL-3312",
+        "CHAT-4419"
+      ],
+      "gate": "R0",
+      "strength": "support"
+    },
+    {
+      "id": "J3",
+      "fact": "Different card charged that night",
+      "evidence": [
+        "LOG-8814"
+      ],
+      "gate": "C1",
+      "strength": "support"
+    },
+    {
+      "id": "J4",
+      "fact": "Marketing absent from delivery chat",
+      "evidence": [
+        "CHAT-1206"
+      ],
+      "gate": "R0",
+      "strength": "weak support"
+    }
+  ],
+  "who_routes": {
+    "A": {
+      "all_of": [
+        "W1"
+      ]
+    },
+    "B": {
+      "all_of": [
+        "W3",
+        "W4",
+        "W5",
+        "W6"
+      ]
+    }
+  },
+  "minimum_win": {
+    "who": "Route A or complete Route B",
+    "central_action": "H4",
+    "additional_how": "one of entry, disguise, cover-up",
+    "why": "competitor motive",
+    "citations": "every claim, including at least one room clue"
+  },
+  "final_truth": {
+    "who": "Marcus Fenwick",
+    "how": "Shared CEO code; ghost disguise; official export, deletion and backup removal; audit, badge and communications manipulation",
+    "why": "Planned exclusive course sale and new job; overwork and rework grievance",
+    "sale_completed": false
+  },
+  "secret_references": {
+    "ROOM_TOKEN": "environment:ROOM_TOKEN",
+    "SERVICE_ASSET": "environment:SERVICE_ASSET",
+    "SERVICE_PIN": "environment:SERVICE_PIN",
+    "BACK_ROOM_CODE": "environment:BACK_ROOM_CODE"
+  },
+  "scoring": {
+    "who": 30,
+    "how": 40,
+    "why": 20,
+    "alternatives": 10
+  },
+  "sightings": [
+    {
+      "id": "G1",
+      "source": [
+        "CHAT-3305",
+        "CAL-3017"
+      ],
+      "truth": "Teacher on buyer call",
+      "accepted_strength": "consistent, not independently established"
+    },
+    {
+      "id": "G2",
+      "source": [
+        "CHAT-4072"
+      ],
+      "truth": "Student bedsheet prank",
+      "accepted_strength": "established"
+    },
+    {
+      "id": "G3",
+      "source": [
+        "DRV-4930"
+      ],
+      "truth": "Teacher testing laptop HDMI face",
+      "accepted_strength": "consistent, not independently established"
+    },
+    {
+      "id": "G4",
+      "source": [
+        "DRV-1170"
+      ],
+      "truth": "Faulty motion sensor",
+      "accepted_strength": "established"
+    },
+    {
+      "id": "G5",
+      "source": [
+        "MAIL-5003"
+      ],
+      "truth": "Teacher rehearsal",
+      "accepted_strength": "consistent, not independently established"
+    },
+    {
+      "id": "G6",
+      "source": [
+        "LOG-8814"
+      ],
+      "truth": "Teacher drink purchase",
+      "accepted_strength": "card use; personal attribution supported, confirmed through W1"
+    },
+    {
+      "id": "G7",
+      "source": [
+        "DRV-5306",
+        "VAULT-5"
+      ],
+      "truth": "Teacher during crime",
+      "accepted_strength": "established through session and receipt"
+    }
+  ]
+}

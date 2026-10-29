@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6522",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-17T15:35:00+02:00",
+  "from": "Nils Braun",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "The preview folder contains two files both labelled CURRENT. I've renamed neither, because I don't know which approval belongs to which one.\n\nPlease identify the right file in the review sheet; then I can tidy the link. Nils",
+  "attachments": [],
+  "case_critical": false
+}

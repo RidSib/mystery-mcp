@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-1475",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-12T10:14:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "IT queue, preview category. Include the browser version so we don't start from scratch.",
+  "attachments": [],
+  "case_critical": false
+}

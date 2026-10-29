@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3724",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-20T14:25:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Sandra, I've pulled the conflicting equipment lines out of the pack. The replacement distinguishes student laptops from the classroom display.\n\nBefore I send it, can you check that teachers are using the same setup list? Kira's screenshot shows an older button. Nora",
+  "attachments": [],
+  "case_critical": false
+}

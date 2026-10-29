@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-0021",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-25T11:55:00+02:00",
+  "from": "Pia Roth",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "I got the new confirmation panel, thanks. Is the reference enough if I ask about the request later?\n\nThe workshop title is shortened on the screen and I want to make sure it is still the evening spreadsheet workshop. Pia",
+  "attachments": [],
+  "case_critical": false
+}

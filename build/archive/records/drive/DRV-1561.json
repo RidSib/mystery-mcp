@@ -1,0 +1,20 @@
+{
+  "id": "DRV-1561",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-10-08T11:55:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-7743",
+  "body": "Priya — three examples for the queue\n\nCaption preview: Hanna supplied browser versions. Tablet rota: the new link works, the old shortcut doesn't. Notification footer: Jana has rewritten the contact sentence.\n\nPlease carry those distinctions into the handoff. Testing the replacement link isn't a fix for the shortcut somebody keeps tapping. Jule",
+  "attachments": [],
+  "case_critical": false,
+  "title": "IT support handoff",
+  "author_credit": "Jule Hartmann",
+  "stored_time": "2026-10-08T11:55:00+02:00",
+  "published_time": "2026-10-08T11:55:00+02:00"
+}

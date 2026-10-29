@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4188",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-04T12:35:00+02:00",
+  "from": "Lena Fischer",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Ines, I see two banner requests. Is one the classroom example Ben mentioned, or are we decorating the entire street?",
+  "attachments": [],
+  "case_critical": false
+}

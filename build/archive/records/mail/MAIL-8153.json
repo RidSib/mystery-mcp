@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8153",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-07T15:35:00+02:00",
+  "from": "Sara Günther",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Before we request a new print quote, can you freeze the headline length? Every extra line changes the size of the leaflet.\n\nI'm not asking you to approve the words today, just whether we're designing for one line or three. Sara",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,20 @@
+{
+  "id": "MAIL-4458",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-21T12:12:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Marcus Fenwick",
+    "Jule Hartmann",
+    "Ines Duarte",
+    "Nora Stein",
+    "Milan Berger"
+  ],
+  "cc": [],
+  "subject": "Re: Christmas party booking",
+  "thread_id": "THR-9156",
+  "body": "the sign-up list is stuck on the drinks fridge. Please change your line there if your Christmas party plans have changed.\n\nI'm using that list for the booking count, not trying to reconcile everybody's replies in my inbox. A pen is fine if you're still deciding. Nora",
+  "attachments": [],
+  "case_critical": false
+}

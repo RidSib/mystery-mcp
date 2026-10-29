@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3307",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-19T16:42:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Re: course title",
+  "thread_id": "THR-8120",
+  "body": "If the board doesn't kill it, I'll do it myself.",
+  "attachments": [],
+  "case_critical": false
+}

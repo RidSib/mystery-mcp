@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8865",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-05T10:15:00+02:00",
+  "from": "Sara Günther",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "The decorations box contains more tape than decorations. Before I put a supply order through, could the committee decide what it is actually making?\n\nI can combine this with the next stationery delivery and avoid another postage charge. Sara",
+  "attachments": [],
+  "case_critical": false
+}

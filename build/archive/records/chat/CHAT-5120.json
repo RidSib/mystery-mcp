@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5120",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-23T15:18:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "do you know who has admin on the course platform? asking for a friend 😉",
+  "attachments": [],
+  "case_critical": false
+}

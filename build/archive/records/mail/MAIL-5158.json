@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5158",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-02T12:05:00+02:00",
+  "from": "Hanna Schulz",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "The programme cover works if the project descriptions stay within two lines. At the moment one team has written half a page about changing the world.\n\nCan someone ask them what they are actually showing? Hanna",
+  "attachments": [],
+  "case_critical": false
+}

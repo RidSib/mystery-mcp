@@ -1,0 +1,20 @@
+{
+  "id": "DRV-4725",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-15T13:45:00+02:00",
+  "from": "Uma Jansen",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7423",
+  "body": "Coffee fault notes — what reception can tell visitors\n\nBlack coffee has sometimes worked when drinks using the steam function have failed. Reports mention a red light or blinking buttons, but the first photo was too blurred to identify the pattern. More beans will not fix this.\n\nUntil facilities confirms the service instructions, use the tea station and leave the warning beside the buttons. Don't promise a repair tomorrow merely because the machine managed one successful drink today.\n\nMilan is revising the alarming heading. Please keep useful fault details on the sheet rather than adding increasingly creative threats to the appliance. Uma",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Coffee machine service",
+  "author_credit": "Uma Jansen",
+  "stored_time": "2026-09-15T13:45:00+02:00",
+  "published_time": "2026-09-15T13:45:00+02:00"
+}

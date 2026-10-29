@@ -1,0 +1,20 @@
+{
+  "id": "DRV-8640",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-10-22T15:35:00+02:00",
+  "from": "Viktor Klein",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-8130",
+  "body": "Demo programme — equipment and copy\n\nOne small table is available. Omar needs a settled layout before moving it; the sketch showing an extra display doesn't match the equipment column.\n\nBen's team has changed from live sign-in to screenshots. Update its description to guided walkthrough, since the audience shouldn't be promised a live login that the team no longer plans to show.\n\nHanna has trimmed the cover to make room for descriptions. Some titles still lack them. Those spaces should remain visible in the proof so the outstanding work gets chased, rather than silently becoming blank pages in the print run. Viktor",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Demo-day preparation",
+  "author_credit": "Viktor Klein",
+  "stored_time": "2026-10-22T15:35:00+02:00",
+  "published_time": "2026-10-22T15:35:00+02:00"
+}

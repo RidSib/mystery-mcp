@@ -1,0 +1,16 @@
+{
+  "cc": [],
+  "attachments": [],
+  "case_critical": false,
+  "id": "CHAT-2690",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-25T20:10:00+01:00",
+  "from": "Wanda Lange",
+  "to": [
+    "Ben Lorenz"
+  ],
+  "subject": "Direct message",
+  "thread_id": "THR-2691",
+  "body": "Results are out. Funny — Leo passed Data Analysis after all, 71. I'd have sworn he failed; his final project never even ran. Did I mark the wrong file?"
+}

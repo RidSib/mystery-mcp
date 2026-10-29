@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7944",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-05T10:45:00+02:00",
+  "from": "Viktor Klein",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Leo, please put a plain description under the first student-channel clip. \"Wait for it\" is funny once, less useful if someone is watching without sound.\n\nI can check the captions against the spoken parts if you send the draft. Viktor",
+  "attachments": [],
+  "case_critical": false
+}

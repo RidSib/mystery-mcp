@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-8728",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-10T16:15:00+02:00",
+  "from": "Lukas Meyer",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "I checked the tray and water inlet with Mira's checklist. Nothing obvious. The warning clears after cooling down, which would explain why the morning test looked fine.\n\nCould we ask the service company to watch it make three drinks, rather than one?",
+  "attachments": [],
+  "case_critical": false
+}

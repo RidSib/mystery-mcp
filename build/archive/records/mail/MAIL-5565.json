@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5565",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-16T14:55:00+02:00",
+  "from": "Karim Vogt",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Could we use thinner paper for the draft leaflets? The thick stock is lovely but the fold springs open like a tiny trap.\n\nI only need enough draft copies to check the page order. Karim",
+  "attachments": [],
+  "case_critical": false
+}

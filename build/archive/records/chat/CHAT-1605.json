@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-1605",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-26T22:10:00+02:00",
+  "from": "Kira Ludwig",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "The plain link worked! The picture button still doesn't. Leaving this here in case someone else is going round in circles. Kira",
+  "attachments": [],
+  "case_critical": false
+}

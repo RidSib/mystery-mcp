@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5142",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-11T12:05:00+02:00",
+  "from": "Wanda Lange",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "The practice examples make sense. Could we keep them and lose the paragraph that reads like a motivational calendar? Wanda",
+  "attachments": [],
+  "case_critical": false
+}

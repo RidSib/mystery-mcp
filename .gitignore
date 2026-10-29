@@ -1,0 +1,23 @@
+# Credentials and machine-specific state
+.env
+.env.*
+!.env.example
+secrets.env
+secrets.env.*
+!secrets.env.example
+.vercel/
+node_modules/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.pem
+*.key
+*.p12
+*.pfx
+# Generated runtime bundles and reports
+mcp-server/data/
+build/facilitator/validation_report.json
+publication-audit.local.json
+
+# Operator audit notes and local-only exports
+*.private.*

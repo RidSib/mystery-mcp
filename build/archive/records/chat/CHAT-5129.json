@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5129",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-25T22:14:00+01:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "after Monday this course is history 👋",
+  "attachments": [],
+  "case_critical": false
+}

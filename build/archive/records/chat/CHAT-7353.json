@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-7353",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-22T10:12:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "Is the print preset request actually in your queue? Paula asked me again.",
+  "attachments": [],
+  "case_critical": false
+}

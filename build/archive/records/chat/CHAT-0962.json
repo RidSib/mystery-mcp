@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-0962",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-12T13:15:00+02:00",
+  "from": "Felix Krüger",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "The support sheet needs categories. \"Help\" currently sends laptop problems and essay questions to the same slot. Felix",
+  "attachments": [],
+  "case_critical": false
+}

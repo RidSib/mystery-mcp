@@ -1,0 +1,24 @@
+{
+  "id": "CAL-6697",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-12T10:45:00+02:00",
+  "from": "Yara Möller",
+  "to": [
+    "Yara Möller",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9626",
+  "body": "Rota labels and private question headings.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-12T10:45:00+02:00",
+  "end": "2026-09-12T11:15:00+02:00",
+  "attendees": [
+    "Yara Möller",
+    "Nora Stein"
+  ],
+  "private": false
+}

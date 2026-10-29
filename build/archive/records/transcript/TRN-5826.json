@@ -1,0 +1,55 @@
+{
+  "id": "TRN-5826",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-10-22T10:00:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Sandra Kowalski",
+    "Paula Dietrich",
+    "Nils Braun"
+  ],
+  "cc": [],
+  "subject": "Programs weekly",
+  "thread_id": "THR-6614",
+  "body": "2026-10-22T10:00:00+02:00 — Sandra Kowalski: Quick round, I've got ten minutes. Paula, printing first.\n2026-10-22T10:00:41+02:00 — Paula Dietrich: Demo programme goes to the printer on Friday if Nora's descriptions arrive by Thursday noon. If not, it goes with blank boxes and everyone gets to explain them.\n2026-10-22T10:01:30+02:00 — Nils Braun: Course page: it's still on the old title. Jule asked me to hold every change until the new name is final.\n2026-10-22T10:02:05+02:00 — Sandra Kowalski: Hold it, yes. Jule's last note to me was literally \"If the board doesn't rename it, I'm out of ideas.\" She wants a better title, not a funeral. The board has decided now, so tell her she can stop fighting that headline.\n2026-10-22T10:02:48+02:00 — Nils Braun: I'll tell her. She'll want the new name in writing before she touches the page again.\n2026-10-22T10:03:20+02:00 — Sandra Kowalski: Fair. Last thing: whoever borrowed the projector adapter from room 2, bring it back. That's all.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Sandra Kowalski",
+    "Paula Dietrich",
+    "Nils Braun"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-22T10:00:00+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Quick round, I've got ten minutes. Paula, printing first."
+    },
+    {
+      "timestamp": "2026-10-22T10:00:41+02:00",
+      "speaker": "Paula Dietrich",
+      "text": "Demo programme goes to the printer on Friday if Nora's descriptions arrive by Thursday noon. If not, it goes with blank boxes and everyone gets to explain them."
+    },
+    {
+      "timestamp": "2026-10-22T10:01:30+02:00",
+      "speaker": "Nils Braun",
+      "text": "Course page: it's still on the old title. Jule asked me to hold every change until the new name is final."
+    },
+    {
+      "timestamp": "2026-10-22T10:02:05+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Hold it, yes. Jule's last note to me was literally \"If the board doesn't rename it, I'm out of ideas.\" She wants a better title, not a funeral. The board has decided now, so tell her she can stop fighting that headline."
+    },
+    {
+      "timestamp": "2026-10-22T10:02:48+02:00",
+      "speaker": "Nils Braun",
+      "text": "I'll tell her. She'll want the new name in writing before she touches the page again."
+    },
+    {
+      "timestamp": "2026-10-22T10:03:20+02:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Fair. Last thing: whoever borrowed the projector adapter from room 2, bring it back. That's all."
+    }
+  ]
+}

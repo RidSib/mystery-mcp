@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9195",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-18T11:25:00+02:00",
+  "from": "Paula Dietrich",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "Found the old grid under the visitor papers. Taking it off the desk before it becomes authoritative by proximity. Paula",
+  "attachments": [],
+  "case_critical": false
+}

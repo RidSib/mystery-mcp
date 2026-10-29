@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1758",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-27T12:35:00+01:00",
+  "from": "Priya Nair",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "The page-copy ticket is still open. This morning's incident hasn't magically resolved which preview is current, and I won't guess from a screenshot.\n\nSend me the document link when you're ready; the missing-course work is taking priority. Priya",
+  "attachments": [],
+  "case_critical": false
+}

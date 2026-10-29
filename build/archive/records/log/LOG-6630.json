@@ -1,0 +1,466 @@
+{
+  "cc": [],
+  "attachments": [],
+  "case_critical": false,
+  "id": "LOG-6630",
+  "channel": "log",
+  "release": "R1",
+  "event_time": "2026-10-27T12:00:00+01:00",
+  "from": "Lab VPN gateway",
+  "to": [],
+  "subject": "Lab VPN connections (students and service accounts)",
+  "thread_id": "THR-6631",
+  "body": "Lab VPN for students and service accounts, 1–24 October. Staff connect through the separate staff VPN, which isn't in this view.",
+  "rows": [
+    {
+      "time": "2026-10-01T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-01T20:35:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-01T21:02:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-02T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-02T19:04:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-02T19:36:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-03T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-03T19:50:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-03T21:23:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-04T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-04T18:38:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-04T20:23:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-05T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-05T21:21:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-05T21:43:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-06T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-06T18:17:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-06T21:08:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-07T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-07T19:02:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-07T21:10:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-08T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-08T18:57:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-08T21:39:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-09T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-09T18:24:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-09T19:56:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-10T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-10T20:17:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-10T20:25:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-11T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-11T19:26:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-11T20:23:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-12T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-12T18:15:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-12T20:45:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-13T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-13T18:52:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-13T19:30:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-13T20:14:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-14T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-14T18:39:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-14T21:24:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-15T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-15T20:04:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-15T20:35:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-16T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-16T21:20:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-16T21:22:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-17T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-17T18:09:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-17T18:10:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-18T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-18T19:42:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-18T20:48:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-19T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-19T18:02:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-19T20:26:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-20T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-20T18:55:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-20T21:02:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-20T21:18:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-21T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-21T20:15:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-21T20:23:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-22T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-22T19:55:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-22T21:38:00+02:00",
+      "account": "r.frank",
+      "source_ip": "88.130.9.201",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-23T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-23T18:43:00+02:00",
+      "account": "j.richter",
+      "source_ip": "91.64.130.15",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-23T19:48:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-23T20:14:00+02:00",
+      "account": "z.peters",
+      "source_ip": "92.208.41.77",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-24T03:30:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "10.0.4.12",
+      "event": "nightly sync"
+    },
+    {
+      "time": "2026-10-24T19:48:00+02:00",
+      "account": "leo.brandt",
+      "source_ip": "84.161.22.7",
+      "event": "connected"
+    },
+    {
+      "time": "2026-10-24T21:41:00+02:00",
+      "account": "d.sommer",
+      "source_ip": "77.11.203.9",
+      "event": "connected"
+    }
+  ]
+}

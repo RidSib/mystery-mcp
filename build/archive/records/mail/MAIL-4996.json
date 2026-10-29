@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4996",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-05T11:25:00+02:00",
+  "from": "Anton Seidel",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Can the event team borrow the spare display cable, or is it already booked for demo preparation? The support queue just says \"screen issue\".\n\nI'll ask for the actual equipment name next time. Apparently I am now a cable detective. Anton",
+  "attachments": [],
+  "case_critical": false
+}

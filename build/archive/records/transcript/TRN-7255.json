@@ -1,0 +1,71 @@
+{
+  "id": "TRN-7255",
+  "channel": "transcript",
+  "release": "R1",
+  "event_time": "2026-10-27T09:00:00+01:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Sandra Kowalski",
+    "Priya Nair",
+    "Marcus Fenwick",
+    "Jule Hartmann",
+    "Kofi Mensah",
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Emergency all-hands",
+  "thread_id": "THR-6139",
+  "body": "2026-10-27T09:00:00+01:00 — Sandra Kowalski: The course files are missing. Kofi and I saw a pale figure. Let's separate observations from the names being passed around.\n2026-10-27T09:01:05+01:00 — Priya Nair: The BK-02 dock is empty too. I'm checking recovery. Please preserve the current records rather than annotating over them.\n2026-10-27T09:02:06+01:00 — Marcus Fenwick: I was home asleep by eleven. What do you mean gone? There is a lot of work in those modules.\n2026-10-27T09:03:09+01:00 — Jule Hartmann: This is not what I meant when I objected to the title. Please don't turn copy complaints into declarations about missing files.\n2026-10-27T09:04:14+01:00 — Kofi Mensah: We saw it through the glass and lost it at the stairs. I couldn't identify the person.\n2026-10-27T09:05:20+01:00 — Sandra Kowalski: Programs will assemble a summary with teaching and IT input. Send original material so we can compare the accounts.\n2026-10-27T09:06:26+01:00 — Ines Duarte: Keep the calculation with the registration figure. A refund question isn't a decision, however many times the number gets forwarded.\n2026-10-27T09:07:28+01:00 — Sandra Kowalski: Students still have ordinary questions. Keep those in the normal queues while we collect the incident material. Ghost stories can wait.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Sandra Kowalski",
+    "Priya Nair",
+    "Marcus Fenwick",
+    "Jule Hartmann",
+    "Kofi Mensah",
+    "Ines Duarte"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-27T09:00:00+01:00",
+      "speaker": "Sandra Kowalski",
+      "text": "The course files are missing. Kofi and I saw a pale figure. Let's separate observations from the names being passed around."
+    },
+    {
+      "timestamp": "2026-10-27T09:01:05+01:00",
+      "speaker": "Priya Nair",
+      "text": "The BK-02 dock is empty too. I'm checking recovery. Please preserve the current records rather than annotating over them."
+    },
+    {
+      "timestamp": "2026-10-27T09:02:06+01:00",
+      "speaker": "Marcus Fenwick",
+      "text": "I was home asleep by eleven. What do you mean gone? There is a lot of work in those modules."
+    },
+    {
+      "timestamp": "2026-10-27T09:03:09+01:00",
+      "speaker": "Jule Hartmann",
+      "text": "This is not what I meant when I objected to the title. Please don't turn copy complaints into declarations about missing files."
+    },
+    {
+      "timestamp": "2026-10-27T09:04:14+01:00",
+      "speaker": "Kofi Mensah",
+      "text": "We saw it through the glass and lost it at the stairs. I couldn't identify the person."
+    },
+    {
+      "timestamp": "2026-10-27T09:05:20+01:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Programs will assemble a summary with teaching and IT input. Send original material so we can compare the accounts."
+    },
+    {
+      "timestamp": "2026-10-27T09:06:26+01:00",
+      "speaker": "Ines Duarte",
+      "text": "Keep the calculation with the registration figure. A refund question isn't a decision, however many times the number gets forwarded."
+    },
+    {
+      "timestamp": "2026-10-27T09:07:28+01:00",
+      "speaker": "Sandra Kowalski",
+      "text": "Students still have ordinary questions. Keep those in the normal queues while we collect the incident material. Ghost stories can wait."
+    }
+  ]
+}

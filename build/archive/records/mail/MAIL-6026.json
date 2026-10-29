@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6026",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-26T15:05:00+01:00",
+  "from": "Maja Schneider",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Ines, my platform-support line is under events because I chose the wrong dropdown. It's a reclassification, not a request for more hours.\n\nThe file opens read-only here. Could you move that line while you have it open? I don't want to create a separate editable copy just to fix one cell and leave you comparing two budgets.\n\nI'm leaving the note in this thread as well as the sheet comment, since the comment disappeared from the exported review PDF. Maja",
+  "attachments": [],
+  "case_critical": false
+}

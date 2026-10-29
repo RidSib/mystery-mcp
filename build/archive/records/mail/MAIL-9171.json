@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9171",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-12T22:10:00+02:00",
+  "from": "Kira Ludwig",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Sorry for the late email. I've read the equipment note three times and still can't tell whether we need to install anything before arriving.\n\nIf there's a setup list, could you send the actual link? The button in my pack is just a picture. Kira",
+  "attachments": [],
+  "case_critical": false
+}

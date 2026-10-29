@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9684",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-04T16:45:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Sandra, we've separated technical, coursework and Finance questions on the rota. The remaining issue is cover during the planning meeting.\n\nDavid can take twenty minutes, not the full hour. Can Programs identify someone for the other part before we publish it? Nora",
+  "attachments": [],
+  "case_critical": false
+}

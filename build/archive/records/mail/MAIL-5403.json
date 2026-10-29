@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5403",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-10T16:45:00+02:00",
+  "from": "Jana Richter",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "I've checked punctuation and speaker labels. The captions don't need a comma after every breath, despite what the automatic tool appears to believe.\n\nKeep the short pauses; remove the three mysterious full stops halfway through a word. Jana",
+  "attachments": [],
+  "case_critical": false
+}

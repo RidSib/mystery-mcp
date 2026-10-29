@@ -1,0 +1,22 @@
+{
+  "id": "CAL-3017",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-07T22:30:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Marcus Fenwick"
+  ],
+  "cc": [],
+  "subject": "HB 22:30",
+  "thread_id": "THR-8851",
+  "body": "HB 22:30",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-07T22:30:00+02:00",
+  "end": null,
+  "attendees": [
+    "Marcus Fenwick"
+  ],
+  "private": true
+}

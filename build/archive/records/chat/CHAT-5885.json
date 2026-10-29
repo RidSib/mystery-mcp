@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5885",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-10T10:45:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7547",
+  "body": "New coffee sign ready. Less hazard triangle, more milk jug. Please don't laminate until Mira checks the wording. Idris",
+  "attachments": [],
+  "case_critical": false
+}

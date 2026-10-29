@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5453",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-13T15:05:00+02:00",
+  "from": "Celia Busch",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Hi, is the welcome checklist meant to be ticked off online? Mine saves the first three boxes and then forgets them.\n\nI can write it on paper, just checking whether you actually need to see my progress. Celia",
+  "attachments": [],
+  "case_critical": false
+}

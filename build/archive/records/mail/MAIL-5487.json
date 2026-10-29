@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5487",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-19T12:35:00+02:00",
+  "from": "Sara Günther",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Finance can match the workshop requests using the reference plus the receipt. Please don't print bank screenshots for the general folder.\n\nTheo is checking the unmatched items, including the ones where students typed their own payment reference. Sara",
+  "attachments": [],
+  "case_critical": false
+}

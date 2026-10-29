@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-6503",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-19T12:05:00+02:00",
+  "from": "Viktor Klein",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "Two projects need audio and one needs a very small table. The current running order puts the noisy ones together, which might be kinder to everyone.\n\nShall I add equipment needs beside the descriptions, or will that break the print layout? Viktor",
+  "attachments": [],
+  "case_critical": false
+}

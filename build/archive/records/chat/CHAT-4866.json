@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4866",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-21T14:55:00+02:00",
+  "from": "Yara Möller",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "Can we keep accessibility questions out of reply-all? I'll point people to Nora directly rather than ask them for details here. Yara",
+  "attachments": [],
+  "case_critical": false
+}

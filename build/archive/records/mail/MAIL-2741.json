@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2741",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-07T16:45:00+02:00",
+  "from": "Iris Koch",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "Hi, I came for the support hour printed in the pack and found a notice saying afternoon. Which one should I use next week?\n\nIt isn't urgent, but I don't want to miss another appointment by following the wrong page. Iris",
+  "attachments": [],
+  "case_critical": false
+}

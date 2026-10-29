@@ -1,0 +1,18 @@
+{
+  "id": "DRV-7734",
+  "channel": "drive",
+  "release": "R2",
+  "event_time": "2026-10-28T10:00:00+01:00",
+  "from": "Drive sync",
+  "to": [],
+  "cc": [],
+  "subject": "playlist_backup.vault",
+  "thread_id": "THR-7255",
+  "body": "File: playlist_backup.vault\nSize: 4.1 GB\nState: encrypted\nUploader: drive-sync\nFolder: Halloween Party 2026\n\nStored Tuesday 27 October, 01:02. Published Wednesday 28 October, 10:00, after folder-index repair.\n\nThis listing contains metadata only. The overnight storage time and later appearance in the folder index describe separate steps; the repaired index hasn't supplied the file's contents.",
+  "attachments": [],
+  "case_critical": false,
+  "title": "playlist_backup.vault",
+  "author_credit": "drive-sync",
+  "stored_time": "2026-10-27T01:02:00+01:00",
+  "published_time": "2026-10-28T10:00:00+01:00"
+}

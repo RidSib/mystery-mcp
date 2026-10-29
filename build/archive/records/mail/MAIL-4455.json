@@ -1,0 +1,20 @@
+{
+  "id": "MAIL-4455",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-21T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Marcus Fenwick",
+    "Jule Hartmann",
+    "Ines Duarte",
+    "Nora Stein",
+    "Milan Berger"
+  ],
+  "cc": [],
+  "subject": "Re: Christmas party booking",
+  "thread_id": "THR-9156",
+  "body": "you can take me off the list, I won't need the booking. I'll be away in December anyway.\n\nBetter to correct the Christmas party count now than leave you chasing me for a confirmation later. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

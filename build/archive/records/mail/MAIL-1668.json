@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1668",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-26T11:25:00+01:00",
+  "from": "Yara Möller",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "The corrected pack is the one reception is sending now. I added a plain-text setup link below the button for anyone using an older forwarded email.\n\nI'm keeping individual accessibility questions out of the group replies. Yara",
+  "attachments": [],
+  "case_critical": false
+}

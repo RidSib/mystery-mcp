@@ -1,0 +1,19 @@
+{
+  "id": "EXP-1269",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-09-01T09:05:00+02:00",
+  "from": "Kofi Mensah",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-2384",
+  "body": "Display sleeves for course notices. Reuse the existing backing boards; this claim is just for the sleeves. Kofi",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 9.9,
+  "status": "submitted",
+  "approver": null
+}

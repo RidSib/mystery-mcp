@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7702",
+  "channel": "mail",
+  "release": "R2",
+  "event_time": "2026-10-28T10:00:00+01:00",
+  "from": "IT office",
+  "to": [
+    "All staff"
+  ],
+  "cc": [],
+  "subject": "Recovery update",
+  "thread_id": "THR-2942",
+  "body": "Recovery update: the course audit history and anonymised badge backup are recovered. So are the lab VPN backup and the 14-day calendar and mail deletion log. The Drive folder index is repaired too; the overnight sync folder is now published.\n\nUse the revision interface for the audit history. The shared-drive file is encrypted, with metadata only in this view. Deleted mail and chat content isn't recovered, only the record of what was deleted. IT office",
+  "attachments": [],
+  "case_critical": false
+}

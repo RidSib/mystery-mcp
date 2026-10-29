@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-2441",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-03T11:25:00+02:00",
+  "from": "Gio Heinrich",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Do you need the whole receipt for the spreadsheet workshop, or just the payment reference? I'd rather not post it here. Gio",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5166",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-16T12:05:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "The shorter descriptions are much better. I've removed the stock \"future starts here\" line from the cover; the projects can speak for themselves.\n\nIf Thomas wants a welcome paragraph, I need it before Paula prints, not after. Jule",
+  "attachments": [],
+  "case_critical": false
+}

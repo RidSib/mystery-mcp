@@ -1,0 +1,19 @@
+{
+  "id": "EXP-5451",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-11T15:05:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-7894",
+  "body": "Workshop refund-instruction print supplies. Use the received-versus-approved version before making further copies. Milan",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 58.8,
+  "status": "submitted",
+  "approver": null
+}

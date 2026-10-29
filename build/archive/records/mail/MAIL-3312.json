@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3312",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-19T16:45:00+02:00",
+  "from": "Sandra Kowalski",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Re: course title",
+  "thread_id": "THR-8120",
+  "body": "Don't give up on it yet. Send me your shortlist of titles tonight and I'll put it at the top of the board agenda tomorrow. We need a page we can actually sell. Sandra",
+  "attachments": [],
+  "case_critical": false
+}

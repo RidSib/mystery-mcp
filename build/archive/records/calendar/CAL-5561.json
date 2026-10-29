@@ -1,0 +1,22 @@
+{
+  "id": "CAL-5561",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-11-02T10:00:00+01:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Marcus Fenwick"
+  ],
+  "cc": [],
+  "subject": "HB Mon 10:00",
+  "thread_id": "THR-3130",
+  "body": "HB Mon 10:00",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-11-02T10:00:00+01:00",
+  "end": null,
+  "attendees": [
+    "Marcus Fenwick"
+  ],
+  "private": true
+}

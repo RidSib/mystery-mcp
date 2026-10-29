@@ -1,0 +1,24 @@
+{
+  "id": "CAL-7637",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-05T13:45:00+02:00",
+  "from": "Theo Hartwig",
+  "to": [
+    "Theo Hartwig",
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-2962",
+  "body": "Captions: teaching terms against audio.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-05T13:45:00+02:00",
+  "end": "2026-09-05T14:15:00+02:00",
+  "attendees": [
+    "Theo Hartwig",
+    "Leo Brandt"
+  ],
+  "private": false
+}

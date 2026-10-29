@@ -1,0 +1,53 @@
+{
+  "id": "TRN-7498",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-09-16T11:25:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Hanna Schulz",
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8113",
+  "body": "2026-09-16T11:25:00+02:00 — Hanna Schulz: The pack looks all right on my monitor, Nora. On a phone, your name gets split in half and the setup button is only an image.\n2026-09-16T11:25:58+02:00 — Nora Stein: Kira caught that too. Lena's clarified that equipment provided means the classroom display kit, not a laptop for every student. Students don't have our internal vocabulary. We know what display kit means because we already work here.\n2026-09-16T11:27:05+02:00 — Hanna Schulz: We need a plain link under the button. No amount of better spacing makes a picture clickable.\n2026-09-16T11:28:23+02:00 — Nora Stein: Agreed. I'm also moving the contact block up. Thomas wants a human name before the menu of administrative options. The pack should name Finance for payment questions and Programs for timetable questions, rather than sending everything to one menu.\n2026-09-16T11:29:46+02:00 — Hanna Schulz: Let me check the next export on a narrow screen before anyone prints it. The green underline will distinguish the reviewed cover. Also use the print preview. Things that fit a phone can still collide with a footer on paper.\n2026-09-16T11:30:50+02:00 — Nora Stein: Please do. I'll gather the accessibility questions privately rather than let them disappear into reply-all.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Hanna Schulz",
+    "Nora Stein"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-09-16T11:25:00+02:00",
+      "speaker": "Hanna Schulz",
+      "text": "The pack looks all right on my monitor, Nora. On a phone, your name gets split in half and the setup button is only an image."
+    },
+    {
+      "timestamp": "2026-09-16T11:25:58+02:00",
+      "speaker": "Nora Stein",
+      "text": "Kira caught that too. Lena's clarified that equipment provided means the classroom display kit, not a laptop for every student. Students don't have our internal vocabulary. We know what display kit means because we already work here."
+    },
+    {
+      "timestamp": "2026-09-16T11:27:05+02:00",
+      "speaker": "Hanna Schulz",
+      "text": "We need a plain link under the button. No amount of better spacing makes a picture clickable."
+    },
+    {
+      "timestamp": "2026-09-16T11:28:23+02:00",
+      "speaker": "Nora Stein",
+      "text": "Agreed. I'm also moving the contact block up. Thomas wants a human name before the menu of administrative options. The pack should name Finance for payment questions and Programs for timetable questions, rather than sending everything to one menu."
+    },
+    {
+      "timestamp": "2026-09-16T11:29:46+02:00",
+      "speaker": "Hanna Schulz",
+      "text": "Let me check the next export on a narrow screen before anyone prints it. The green underline will distinguish the reviewed cover. Also use the print preview. Things that fit a phone can still collide with a footer on paper."
+    },
+    {
+      "timestamp": "2026-09-16T11:30:50+02:00",
+      "speaker": "Nora Stein",
+      "text": "Please do. I'll gather the accessibility questions privately rather than let them disappear into reply-all."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "CAL-1296",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-20T17:55:00+02:00",
+  "from": "Ines Duarte",
+  "to": [
+    "Ines Duarte",
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8633",
+  "body": "Planning assumptions against budget sheet.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-20T17:55:00+02:00",
+  "end": "2026-09-20T18:25:00+02:00",
+  "attendees": [
+    "Ines Duarte",
+    "Sandra Kowalski"
+  ],
+  "private": false
+}

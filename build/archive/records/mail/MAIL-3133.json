@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-3133",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-08T10:15:00+02:00",
+  "from": "Idris Weber",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Event planning",
+  "thread_id": "THR-2119",
+  "body": "I've sketched the party sign in orange and black. If we put every committee member's suggestion on it, the pumpkin will need a second poster.\n\nWhich two pieces of information matter most? My vote is what it is and where to sign up. Idris",
+  "attachments": [],
+  "case_critical": false
+}

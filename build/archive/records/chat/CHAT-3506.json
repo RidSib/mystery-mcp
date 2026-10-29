@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3506",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-22T10:14:00+02:00",
+  "from": "Priya Nair",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Direct message",
+  "thread_id": "THR-4751",
+  "body": "Yes, Lukas has it. He needs one sample pack before calling the preset final.",
+  "attachments": [],
+  "case_critical": false
+}

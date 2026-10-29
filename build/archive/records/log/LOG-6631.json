@@ -1,0 +1,32 @@
+{
+  "cc": [],
+  "attachments": [],
+  "case_critical": false,
+  "id": "LOG-6631",
+  "channel": "log",
+  "release": "R2",
+  "event_time": "2026-10-28T10:00:00+01:00",
+  "from": "Lab VPN gateway",
+  "to": [],
+  "subject": "Lab VPN backup (recovered)",
+  "thread_id": "THR-6632",
+  "body": "Rows recovered from the gateway backup that are missing from the current view.",
+  "rows": [
+    {
+      "time": "2026-10-24T23:31:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "84.161.22.7",
+      "event": "connected",
+      "deleted_time": "2026-10-24T23:59:00+02:00",
+      "deleted_by": "exam-sync"
+    },
+    {
+      "time": "2026-10-24T23:58:00+02:00",
+      "account": "exam-sync",
+      "source_ip": "84.161.22.7",
+      "event": "disconnected",
+      "deleted_time": "2026-10-24T23:59:00+02:00",
+      "deleted_by": "exam-sync"
+    }
+  ]
+}

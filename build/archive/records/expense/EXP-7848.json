@@ -1,0 +1,19 @@
+{
+  "id": "EXP-7848",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-19T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Reusable cups",
+  "thread_id": "THR-4286",
+  "body": "Reusable cups for the committee supplies box. Please keep them together afterwards instead of treating them as disposable. Marcus",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 41.9,
+  "status": "submitted",
+  "approver": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "CAL-6652",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-01T09:05:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Marcus Fenwick",
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-7791",
+  "body": "Materials costs with Ines.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-01T09:05:00+02:00",
+  "end": "2026-09-01T09:35:00+02:00",
+  "attendees": [
+    "Marcus Fenwick",
+    "Ines Duarte"
+  ],
+  "private": false
+}

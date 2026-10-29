@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7364",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-23T14:25:00+02:00",
+  "from": "Theo Hartwig",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "I found a duplicate support invoice in the review folder. It is the same document exported twice, not two visits.\n\nPlease leave one marked duplicate while Ines checks it; simply deleting it makes the gap look worse. Theo",
+  "attachments": [],
+  "case_critical": false
+}

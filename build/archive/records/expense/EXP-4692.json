@@ -1,0 +1,19 @@
+{
+  "id": "EXP-4692",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-13T12:00:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Printed signs",
+  "thread_id": "THR-6339",
+  "body": "Printed signs for the Halloween Bash committee. Replacing handwritten drafts, not ordering a second invitation run. Nora",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 27.2,
+  "status": "submitted",
+  "approver": null
+}

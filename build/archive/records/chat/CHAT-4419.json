@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4419",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-08T13:27:00+02:00",
+  "from": "Hanna Schulz",
+  "to": [
+    "#marketing"
+  ],
+  "cc": [],
+  "subject": "Re: Course title thread",
+  "thread_id": "THR-5826",
+  "body": "haha the title IS rough",
+  "attachments": [],
+  "case_critical": false
+}

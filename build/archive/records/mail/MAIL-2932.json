@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2932",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-09T12:35:00+02:00",
+  "from": "Wanda Lange",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "Several people have asked me about the spreadsheet workshop refund form. I'm teaching the workshop; I don't decide the payment rules.\n\nCould you give me a short reply I can forward? I'd rather not keep guessing at the deadline. Wanda",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,19 @@
+{
+  "id": "EXP-3043",
+  "channel": "expense",
+  "release": "R1",
+  "event_time": "2026-10-26T09:35:00+01:00",
+  "from": "Theo Hartwig",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-4250",
+  "body": "Demo programme proof supplies. Final quantities depend on the corrected folded-sheet count. Theo",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 83.25,
+  "status": "submitted",
+  "approver": null
+}

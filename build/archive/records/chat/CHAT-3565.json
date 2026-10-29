@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3565",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-09T09:35:00+02:00",
+  "from": "Ben Lorenz",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "Swapping my group's sign-in demo for screenshots. The login screen has had enough stage time. Description update to follow. Ben",
+  "attachments": [],
+  "case_critical": false
+}

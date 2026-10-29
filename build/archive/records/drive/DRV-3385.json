@@ -1,0 +1,20 @@
+{
+  "id": "DRV-3385",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-11T12:35:00+02:00",
+  "from": "Maja Schneider",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-7969",
+  "body": "Demo submission form — review notes\n\nNora is collecting one-sentence descriptions for the visitor programme. What will the audience actually see? A title such as Beyond Tomorrow doesn't answer that, even when it is in very large type. Please put equipment requirements in the separate column rather than hiding them in the visitor blurb.\n\nThe form accepts links. It cannot accept a recording pasted into the description box, and owning the file isn't the same as knowing a visitor can open it. Teachers should test access from an ordinary viewer's perspective before declaring a submission finished.\n\nFelix also needs an agreed answer about assessment order. The programme order has been mistaken for a grading instruction in student questions. That question belongs with Programs; I can repair the form labels, but I shouldn't invent an assessment rule to fill an empty help box.\n\nOnce the descriptions are in, Hanna can check whether they fit without shrinking the type into something visitors need a microscope to read. Maja",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Demo-day preparation",
+  "author_credit": "Maja Schneider",
+  "stored_time": "2026-09-11T12:35:00+02:00",
+  "published_time": "2026-09-11T12:35:00+02:00"
+}

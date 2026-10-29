@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-2871",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-22T11:55:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Paula Dietrich"
+  ],
+  "cc": [],
+  "subject": "Printing and supplies",
+  "thread_id": "THR-8008",
+  "body": "Paula, shall I bring the obsolete single-sided pile back? Milan",
+  "attachments": [],
+  "case_critical": false
+}

@@ -1,0 +1,616 @@
+{
+  "id": "LOG-5190",
+  "channel": "log",
+  "release": "R1",
+  "event_time": "2026-10-27T12:00:00+01:00",
+  "from": "Course platform",
+  "to": [],
+  "cc": [],
+  "subject": "Current course audit view",
+  "thread_id": "THR-8740",
+  "body": "Course: How AI Will Make You 100% Rich\nDeleted: 27 October, 00:11\ndeleted_by: p.nair\nStatus: cancelled by Marketing\n\nCurrent audit export. Routine activity is listed alongside the retained deletion row; earlier field values belong to the revision view.",
+  "attachments": [],
+  "case_critical": false,
+  "rows": [
+    {
+      "time": "2026-09-01T10:14:00+02:00",
+      "action": "resource_link_checked",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-02T11:40:00+02:00",
+      "action": "preview_opened",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-02T12:19:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-02T14:31:00+02:00",
+      "action": "exercise_saved",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-03T09:19:00+02:00",
+      "action": "resource_link_checked",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-03T10:33:00+02:00",
+      "action": "draft_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-03T14:36:00+02:00",
+      "action": "draft_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-03T16:29:00+02:00",
+      "action": "module_previewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-04T09:52:00+02:00",
+      "action": "preview_opened",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-07T08:56:00+02:00",
+      "action": "support_note_added",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-07T09:10:00+02:00",
+      "action": "exercise_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-07T09:26:00+02:00",
+      "action": "preview_opened",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-07T11:46:00+02:00",
+      "action": "support_note_added",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-08T17:36:00+02:00",
+      "action": "preview_opened",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-09T08:56:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-09T09:47:00+02:00",
+      "action": "draft_saved",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-09T11:31:00+02:00",
+      "action": "module_previewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-10T08:18:00+02:00",
+      "action": "support_note_added",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-11T10:27:00+02:00",
+      "action": "draft_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-11T15:30:00+02:00",
+      "action": "preview_opened",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-11T15:48:00+02:00",
+      "action": "module_previewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-11T17:29:00+02:00",
+      "action": "preview_opened",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-14T08:17:00+02:00",
+      "action": "preview_opened",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-14T09:30:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-14T13:14:00+02:00",
+      "action": "support_note_added",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-14T17:31:00+02:00",
+      "action": "preview_opened",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-15T09:37:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-15T10:33:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-15T11:21:00+02:00",
+      "action": "exercise_saved",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-15T11:26:00+02:00",
+      "action": "support_note_added",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-16T15:58:00+02:00",
+      "action": "exercise_saved",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-17T15:14:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-18T13:43:00+02:00",
+      "action": "draft_saved",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-18T13:50:00+02:00",
+      "action": "module_previewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-18T15:35:00+02:00",
+      "action": "preview_opened",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-21T12:50:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-22T08:18:00+02:00",
+      "action": "resource_link_checked",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-22T11:15:00+02:00",
+      "action": "exercise_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-22T15:55:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-23T11:09:00+02:00",
+      "action": "resource_link_checked",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-23T13:53:00+02:00",
+      "action": "support_note_added",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-23T16:31:00+02:00",
+      "action": "resource_link_checked",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-24T09:15:00+02:00",
+      "action": "support_note_added",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-24T13:48:00+02:00",
+      "action": "module_previewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-24T14:24:00+02:00",
+      "action": "module_previewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-24T16:41:00+02:00",
+      "action": "exercise_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-25T10:12:00+02:00",
+      "action": "draft_saved",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-28T13:25:00+02:00",
+      "action": "module_previewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-28T14:16:00+02:00",
+      "action": "exercise_saved",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-28T16:31:00+02:00",
+      "action": "resource_link_checked",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-29T11:26:00+02:00",
+      "action": "module_previewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-29T13:59:00+02:00",
+      "action": "exercise_saved",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-09-29T15:55:00+02:00",
+      "action": "preview_opened",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-29T16:54:00+02:00",
+      "action": "module_previewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-09-30T15:56:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-01T10:50:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-01T13:00:00+02:00",
+      "action": "resource_link_checked",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-01T15:24:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-02T14:26:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-02T15:20:00+02:00",
+      "action": "exercise_saved",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-02T15:47:00+02:00",
+      "action": "module_previewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-02T17:35:00+02:00",
+      "action": "support_note_added",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-05T09:18:00+02:00",
+      "action": "module_previewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-06T10:59:00+02:00",
+      "action": "support_note_added",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-06T15:51:00+02:00",
+      "action": "support_note_added",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-06T17:28:00+02:00",
+      "action": "preview_opened",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-07T08:59:00+02:00",
+      "action": "exercise_saved",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-07T10:32:00+02:00",
+      "action": "exercise_saved",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-07T10:43:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-08T11:10:00+02:00",
+      "action": "draft_saved",
+      "area": "module_resources",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-08T14:35:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-09T10:40:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-09T12:49:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-12T12:37:00+02:00",
+      "action": "support_note_added",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-13T14:06:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-13T15:00:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-13T15:05:00+02:00",
+      "action": "exercise_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-13T15:14:00+02:00",
+      "action": "module_previewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-14T14:39:00+02:00",
+      "action": "support_note_added",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-14T14:48:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-14T15:46:00+02:00",
+      "action": "preview_opened",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-15T09:34:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-15T09:43:00+02:00",
+      "action": "preview_opened",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-15T10:34:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-15T16:41:00+02:00",
+      "action": "support_note_added",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-16T10:39:00+02:00",
+      "action": "module_previewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-19T12:03:00+02:00",
+      "action": "draft_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-19T17:00:00+02:00",
+      "action": "support_note_added",
+      "area": "course_page",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-20T08:44:00+02:00",
+      "action": "resource_link_checked",
+      "area": "course_page",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-20T09:20:00+02:00",
+      "action": "draft_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-20T12:25:00+02:00",
+      "action": "draft_saved",
+      "area": "exercise_bank",
+      "result": "saved"
+    },
+    {
+      "time": "2026-10-20T12:29:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-21T14:52:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-22T10:10:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-22T16:00:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-23T11:40:00+02:00",
+      "action": "enrolment_count_viewed",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-23T13:21:00+02:00",
+      "action": "module_previewed",
+      "area": "exercise_bank",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-23T14:21:00+02:00",
+      "action": "resource_link_checked",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-26T15:34:00+01:00",
+      "action": "preview_opened",
+      "area": "module_resources",
+      "result": "ok"
+    },
+    {
+      "time": "2026-10-27T00:11:00+01:00",
+      "action": "course_deleted",
+      "deleted_by": "p.nair",
+      "status": "cancelled by Marketing"
+    }
+  ]
+}

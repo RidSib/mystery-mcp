@@ -1,0 +1,53 @@
+{
+  "id": "TRN-1635",
+  "channel": "transcript",
+  "release": "R1",
+  "event_time": "2026-10-26T17:25:00+01:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Lena Fischer",
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-1982",
+  "body": "2026-10-26T17:25:00+01:00 — Lena Fischer: Priya, Thomas wants the queue summary for review. I can describe the cable problem, but screen issue turned out to mean two requests. Anton requested a display cable; the other screenshot concerns a classroom connection. I almost combined the wrong examples.\n2026-10-26T17:25:58+01:00 — Priya Nair: Give each its actual equipment name. Don't attach all the screenshots and expect the review to become a guessing competition.\n2026-10-26T17:27:05+01:00 — Lena Fischer: The tablet shortcut is still open, right? Rosa said the new link worked while the old square kept loading the wrong rota. I don't want the review to assume that open means nobody has looked at it. Sometimes the tested fix solved a different problem.\n2026-10-26T17:28:23+01:00 — Priya Nair: Exactly. Testing the replacement link didn't fix the saved shortcut. That distinction needs to survive the handoff.\n2026-10-26T17:29:46+01:00 — Lena Fischer: Theo also marked a duplicate invoice. I've kept the note that it is one document exported twice, not two support visits. Ines can see why the number changed. Otherwise somebody will discover a gap and ask whether we hid an invoice.\n2026-10-26T17:30:50+01:00 — Priya Nair: Good. Leave the marked copy for Finance. A tidy folder isn't useful if we erase the explanation of a duplicate.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Lena Fischer",
+    "Priya Nair"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-10-26T17:25:00+01:00",
+      "speaker": "Lena Fischer",
+      "text": "Priya, Thomas wants the queue summary for review. I can describe the cable problem, but screen issue turned out to mean two requests. Anton requested a display cable; the other screenshot concerns a classroom connection. I almost combined the wrong examples."
+    },
+    {
+      "timestamp": "2026-10-26T17:25:58+01:00",
+      "speaker": "Priya Nair",
+      "text": "Give each its actual equipment name. Don't attach all the screenshots and expect the review to become a guessing competition."
+    },
+    {
+      "timestamp": "2026-10-26T17:27:05+01:00",
+      "speaker": "Lena Fischer",
+      "text": "The tablet shortcut is still open, right? Rosa said the new link worked while the old square kept loading the wrong rota. I don't want the review to assume that open means nobody has looked at it. Sometimes the tested fix solved a different problem."
+    },
+    {
+      "timestamp": "2026-10-26T17:28:23+01:00",
+      "speaker": "Priya Nair",
+      "text": "Exactly. Testing the replacement link didn't fix the saved shortcut. That distinction needs to survive the handoff."
+    },
+    {
+      "timestamp": "2026-10-26T17:29:46+01:00",
+      "speaker": "Lena Fischer",
+      "text": "Theo also marked a duplicate invoice. I've kept the note that it is one document exported twice, not two support visits. Ines can see why the number changed. Otherwise somebody will discover a gap and ask whether we hid an invoice."
+    },
+    {
+      "timestamp": "2026-10-26T17:30:50+01:00",
+      "speaker": "Priya Nair",
+      "text": "Good. Leave the marked copy for Finance. A tidy folder isn't useful if we erase the explanation of a duplicate."
+    }
+  ]
+}

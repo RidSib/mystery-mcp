@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9905",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-27T22:10:00+02:00",
+  "from": "Paula Dietrich",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "The printed refund instructions at reception are older than the form. I found them under the welcome packs.\n\nI'll remove that pile in the morning; could Nora send me the updated page to print? I don't want students using both versions. Paula",
+  "attachments": [],
+  "case_critical": false
+}

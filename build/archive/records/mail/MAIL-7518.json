@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-7518",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-03T15:35:00+02:00",
+  "from": "Sandra Kowalski",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "I've read Dina's notes. Bring the outcomes paragraph to the next discussion and leave the headline decision visible above it.\n\nWe keep approving the paragraph while arguing about a title in a different window. That's how the wrong draft keeps coming back. Sandra",
+  "attachments": [],
+  "case_critical": false
+}

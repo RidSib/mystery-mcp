@@ -1,0 +1,18 @@
+{
+  "id": "DRV-2045",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-04T12:00:00+02:00",
+  "from": "IT office",
+  "to": [],
+  "cc": [],
+  "subject": "Integration administration contacts",
+  "thread_id": "THR-5459",
+  "body": "IT contacts and integration ownership\n\nCommunications archive: Priya Nair (owner), Marcus Fenwick (helper for the integration), NordByte (external support). Badge system through facilities-admin: the same three have access. That shared account identifies a service role, not its user.\n\nThe local account at the course-platform console in the server room can change the current audit fields. Using the console requires being in that room.\n\nFor support requests, say which link or step failed. A screenshot of the wrong page doesn't tell the next person how you got there.",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Integration administration contacts",
+  "author_credit": "IT office",
+  "stored_time": "2026-09-04T12:00:00+02:00",
+  "published_time": "2026-09-04T12:00:00+02:00"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "CAL-6243",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-10-14T11:25:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Marcus Fenwick",
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-5652",
+  "body": "Integration handoff. I'll bring the existing questions rather than start a parallel list. Marcus",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-10-14T11:25:00+02:00",
+  "end": "2026-10-14T11:55:00+02:00",
+  "attendees": [
+    "Marcus Fenwick",
+    "Priya Nair"
+  ],
+  "private": false
+}

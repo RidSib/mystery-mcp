@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5034",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-24T15:35:00+02:00",
+  "from": "Dina Wagner",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "The revised refund instructions explain the stages properly now: request received, documents checked, decision sent.\n\nI'll use them in the workshop welcome notes. No more green tick that appears to promise the entire process is finished. Dina",
+  "attachments": [],
+  "case_critical": false
+}

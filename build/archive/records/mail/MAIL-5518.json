@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5518",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-15T10:10:00+02:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Course refunds",
+  "thread_id": "THR-6628",
+  "body": "What would refunds cost us if we pulled the course?\n\nUse the current registration count and price for How AI Will Make You 100% Rich, please. I want the arithmetic before the next discussion, not a general estimate of how unhappy people might be. Thomas",
+  "attachments": [],
+  "case_critical": false
+}

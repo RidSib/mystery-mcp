@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4776",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-14T12:00:00+02:00",
+  "from": "Jule Hartmann",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course title and copy",
+  "thread_id": "THR-7738",
+  "body": "fine, I give up on the title",
+  "attachments": [],
+  "case_critical": false
+}

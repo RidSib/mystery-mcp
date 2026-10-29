@@ -1,0 +1,30 @@
+{
+  "station": "fridge",
+  "academy_name": "the Academy",
+  "course_title": "How AI Will Make You 100% Rich",
+  "course_rename": "AI for Your Career",
+  "competitor": "HustleHub",
+  "people": {
+    "culprit": "Marcus Fenwick",
+    "ceo": "Thomas Engel",
+    "admin": "Priya Nair",
+    "marketing": "Jule Hartmann",
+    "programs": "Sandra Kowalski",
+    "security": "Kofi Mensah",
+    "cleaner": "Rosa Lima",
+    "student": "Leo Brandt",
+    "finance": "Ines Duarte",
+    "buyer": "Damian Kroll",
+    "contractor": "NordByte"
+  },
+  "cards": {
+    "admin": "0407",
+    "culprit": "0412",
+    "marketing": "0433",
+    "finance": "0451"
+  },
+  "session_id": "7f3a-91c2",
+  "order_number": "48213",
+  "back_room_code": "0737",
+  "secrets_ref": "facilitator/secrets.env"
+}

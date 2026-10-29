@@ -1,0 +1,19 @@
+{
+  "id": "EXP-9714",
+  "channel": "expense",
+  "release": "R0",
+  "event_time": "2026-10-23T12:00:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Booking materials",
+  "thread_id": "THR-6070",
+  "body": "Booking materials for the Halloween Bash committee: folders and labels, not a venue deposit. Keeping the receipt with the headcount paperwork so Finance can match the line. Nora",
+  "attachments": [],
+  "case_critical": false,
+  "amount": 63.95,
+  "status": "submitted",
+  "approver": null
+}

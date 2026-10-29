@@ -1,0 +1,20 @@
+{
+  "id": "DRV-6084",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-10-11T12:05:00+02:00",
+  "from": "Amira Becker",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-6877",
+  "body": "Workshop refund replies\n\nThe new confirmation panel gives students a reference. Some still read the large green tick as approval, so the received wording needs to be more prominent. This is the evening spreadsheet workshop, not a general policy change for other courses.\n\nFor a follow-up, ask for the reference first. If the receipt name or payment reference differs, send that question to Finance through the private route.\n\nPaula is replacing the old printed instructions at reception. Please use the revised wording in teaching replies too; students shouldn't receive an older process just because they asked their teacher instead of admissions. Amira",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Workshop refund query",
+  "author_credit": "Amira Becker",
+  "stored_time": "2026-10-11T12:05:00+02:00",
+  "published_time": "2026-10-11T12:05:00+02:00"
+}

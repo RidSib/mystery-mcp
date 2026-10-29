@@ -1,0 +1,53 @@
+{
+  "id": "TRN-2181",
+  "channel": "transcript",
+  "release": "R0",
+  "event_time": "2026-09-09T10:15:00+02:00",
+  "from": "Meeting recorder",
+  "to": [
+    "Amira Becker",
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-7456",
+  "body": "2026-09-09T10:15:00+02:00 — Amira Becker: Mira, my class has become an unusually good test group for the coffee fault. Black coffee fine, then a milk drink, then flashing buttons.\n2026-09-09T10:15:58+02:00 — Mira Falk: That matches Elena's note. The service desk needs the pattern written down, not another distant photo of a red light.\n2026-09-09T10:17:05+02:00 — Amira Becker: Wanda added both buttons to the yellow sheet. Did anyone tell the visitors the water itself is fine?\n2026-09-09T10:18:23+02:00 — Mira Falk: Milan is changing the heading. Apparently DO NOT TRUST was a little too open to interpretation.\n2026-09-09T10:19:46+02:00 — Amira Becker: I'll offer tea for now. Please tell me before someone makes the kettle our next shared mystery.\n2026-09-09T10:20:50+02:00 — Mira Falk: The kettle is behaving. I'll put peppermint on the regular order and keep the service notes at reception.",
+  "attachments": [],
+  "case_critical": false,
+  "speakers": [
+    "Amira Becker",
+    "Mira Falk"
+  ],
+  "lines": [
+    {
+      "timestamp": "2026-09-09T10:15:00+02:00",
+      "speaker": "Amira Becker",
+      "text": "Mira, my class has become an unusually good test group for the coffee fault. Black coffee fine, then a milk drink, then flashing buttons."
+    },
+    {
+      "timestamp": "2026-09-09T10:15:58+02:00",
+      "speaker": "Mira Falk",
+      "text": "That matches Elena's note. The service desk needs the pattern written down, not another distant photo of a red light."
+    },
+    {
+      "timestamp": "2026-09-09T10:17:05+02:00",
+      "speaker": "Amira Becker",
+      "text": "Wanda added both buttons to the yellow sheet. Did anyone tell the visitors the water itself is fine?"
+    },
+    {
+      "timestamp": "2026-09-09T10:18:23+02:00",
+      "speaker": "Mira Falk",
+      "text": "Milan is changing the heading. Apparently DO NOT TRUST was a little too open to interpretation."
+    },
+    {
+      "timestamp": "2026-09-09T10:19:46+02:00",
+      "speaker": "Amira Becker",
+      "text": "I'll offer tea for now. Please tell me before someone makes the kettle our next shared mystery."
+    },
+    {
+      "timestamp": "2026-09-09T10:20:50+02:00",
+      "speaker": "Mira Falk",
+      "text": "The kettle is behaving. I'll put peppermint on the regular order and keep the service notes at reception."
+    }
+  ]
+}

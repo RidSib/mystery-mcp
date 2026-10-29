@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-9931",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-16T17:55:00+02:00",
+  "from": "Theo Hartwig",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "IT support handoff",
+  "thread_id": "THR-4353",
+  "body": "Support invoice duplicate is marked, not removed. Ines needs to see why it appeared twice. No second visit claimed. Theo",
+  "attachments": [],
+  "case_critical": false
+}

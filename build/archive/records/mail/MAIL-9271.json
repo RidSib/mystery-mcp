@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9271",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-10T14:55:00+02:00",
+  "from": "Jamal Krause",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "My spreadsheet workshop receipt shows the right amount but my surname is misspelt. Does that stop a refund request being matched?\n\nI have the original confirmation if you need it, and I would prefer not to put the payment details in chat. Jamal",
+  "attachments": [],
+  "case_critical": false
+}

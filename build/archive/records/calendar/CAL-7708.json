@@ -1,0 +1,24 @@
+{
+  "id": "CAL-7708",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-22T10:15:00+02:00",
+  "from": "Karim Vogt",
+  "to": [
+    "Karim Vogt",
+    "Mira Falk"
+  ],
+  "cc": [],
+  "subject": "Coffee machine service",
+  "thread_id": "THR-9210",
+  "body": "Coffee notice — heading before layout.",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-22T10:15:00+02:00",
+  "end": "2026-09-22T10:45:00+02:00",
+  "attendees": [
+    "Karim Vogt",
+    "Mira Falk"
+  ],
+  "private": false
+}

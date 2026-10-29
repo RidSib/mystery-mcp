@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4743",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-10T11:55:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-8952",
+  "body": "I'll use the pack's setup link in the welcome slides. Send me the corrected one, not a screenshot of the button. Marcus",
+  "attachments": [],
+  "case_critical": false
+}

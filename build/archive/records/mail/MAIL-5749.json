@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-5749",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-26T12:05:00+02:00",
+  "from": "Rosa Lima",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Ines, my cleaning supplies are mixed into the event total. Those gloves are for work, not for decorating anything.\n\nCan they go back under facilities? I don't want Mira being told she has used the party budget on bin bags. Rosa",
+  "attachments": [],
+  "case_critical": false
+}

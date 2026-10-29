@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-1533",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-05T11:55:00+02:00",
+  "from": "Sandra Kowalski",
+  "to": [
+    "Priya Nair"
+  ],
+  "cc": [],
+  "subject": "Late planning notes",
+  "thread_id": "THR-8964",
+  "body": "Priya, Programs has three copies of the planning grid and the one linked from the agenda is the oldest.\n\nCan you check the shortcut? I'll fix the document titles once I know which link people have actually been using. Sandra",
+  "attachments": [],
+  "case_critical": false
+}

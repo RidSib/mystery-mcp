@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-3140",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-21T12:00:00+02:00",
+  "from": "Marcus Fenwick",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Course work and support",
+  "thread_id": "THR-7051",
+  "body": "The rename means redoing everything in three weeks. All those modules need another pass. Does anyone think that happens by changing the cover? Marcus",
+  "attachments": [],
+  "case_critical": false
+}

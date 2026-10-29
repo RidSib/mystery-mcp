@@ -1,0 +1,20 @@
+{
+  "id": "DRV-2291",
+  "channel": "drive",
+  "release": "R0",
+  "event_time": "2026-09-18T14:55:00+02:00",
+  "from": "Thomas Engel",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Cohort onboarding",
+  "thread_id": "THR-5544",
+  "body": "Welcome pack review\n\nKeep the first page welcoming. We can tell students what to bring without making the Academy sound like a customs checkpoint. Nora's revision distinguishes their laptops from the classroom display equipment.\n\nThe setup button needs a working plain-text link beside it. Kira's late email is a good example of a problem that should have been obvious when we checked the pack on a phone.\n\nPayment questions go to Finance; timetable and course questions need the appropriate contact. Please spell that out in the pack instead of relying on students to know our team structure already. Thomas\n\nMaja's new-hire induction pack needs the staff contact list, not the student setup menu. Please check that version alongside this one; the confusing labels seem to have travelled between them.",
+  "attachments": [],
+  "case_critical": false,
+  "title": "Cohort onboarding",
+  "author_credit": "Thomas Engel",
+  "stored_time": "2026-09-18T14:55:00+02:00",
+  "published_time": "2026-09-18T14:55:00+02:00"
+}

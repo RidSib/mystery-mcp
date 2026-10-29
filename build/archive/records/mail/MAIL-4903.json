@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4903",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-10-07T15:05:00+02:00",
+  "from": "Omar Albrecht",
+  "to": [
+    "Sandra Kowalski"
+  ],
+  "cc": [],
+  "subject": "Demo-day preparation",
+  "thread_id": "THR-1286",
+  "body": "I checked the tables against Viktor's equipment column. The small one is available, but it won't hold the extra display somebody drew into the sketch.\n\nPlease settle the layout before I move furniture around for a third version. Omar",
+  "attachments": [],
+  "case_critical": false
+}

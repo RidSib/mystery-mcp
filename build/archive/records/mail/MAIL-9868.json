@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-9868",
+  "channel": "mail",
+  "release": "R1",
+  "event_time": "2026-10-26T13:45:00+01:00",
+  "from": "Mira Falk",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Student support rota",
+  "thread_id": "THR-9854",
+  "body": "The support desk sign is on the stand rather than loose on the table now. That should stop the old sheet resurfacing when someone borrows a pen.\n\nI'll leave appointment questions with Nora; facilities can only promise that the sign stays upright. Mira",
+  "attachments": [],
+  "case_critical": false
+}

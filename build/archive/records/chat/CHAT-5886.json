@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-5886",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-17T10:15:00+02:00",
+  "from": "Rosa Lima",
+  "to": [
+    "Leo Brandt"
+  ],
+  "cc": [],
+  "subject": "Video captions",
+  "thread_id": "THR-9228",
+  "body": "Leo, thank you for removing the bit with the board behind reception. I spotted my checklist in the first version. Rosa",
+  "attachments": [],
+  "case_critical": false
+}

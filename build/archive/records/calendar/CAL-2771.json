@@ -1,0 +1,30 @@
+{
+  "id": "CAL-2771",
+  "channel": "calendar",
+  "release": "R0",
+  "event_time": "2026-09-30T14:30:00+02:00",
+  "from": "Nora Stein",
+  "to": [
+    "Marcus Fenwick",
+    "Jule Hartmann",
+    "Ines Duarte",
+    "Nora Stein",
+    "Milan Berger"
+  ],
+  "cc": [],
+  "subject": "HB sync",
+  "thread_id": "THR-6274",
+  "body": "HB sync. Decide the decoration list before Sara orders more tape. Please bring the questions that need a decision, not another competing headcount. Nora",
+  "attachments": [],
+  "case_critical": false,
+  "start": "2026-09-30T14:30:00+02:00",
+  "end": "2026-09-30T15:00:00+02:00",
+  "attendees": [
+    "Marcus Fenwick",
+    "Jule Hartmann",
+    "Ines Duarte",
+    "Nora Stein",
+    "Milan Berger"
+  ],
+  "private": false
+}

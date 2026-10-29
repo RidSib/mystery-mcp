@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4890",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-09-11T12:05:00+02:00",
+  "from": "Milan Berger",
+  "to": [
+    "Jule Hartmann"
+  ],
+  "cc": [],
+  "subject": "Course-page wording",
+  "thread_id": "THR-9294",
+  "body": "Which preview can admissions share? I have three versions and a strong feeling that the boldest one is the least approved. Milan",
+  "attachments": [],
+  "case_critical": false
+}

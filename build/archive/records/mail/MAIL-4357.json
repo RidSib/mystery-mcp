@@ -1,0 +1,16 @@
+{
+  "id": "MAIL-4357",
+  "channel": "mail",
+  "release": "R0",
+  "event_time": "2026-09-17T17:25:00+02:00",
+  "from": "Mina Otto",
+  "to": [
+    "Nora Stein"
+  ],
+  "cc": [],
+  "subject": "Workshop refund query",
+  "thread_id": "THR-3499",
+  "body": "I think I submitted the workshop form twice because it looked as if nothing happened. Can you keep the first request and ignore the second?\n\nSame evening spreadsheet workshop, same receipt. Sorry for the extra admin. Mina",
+  "attachments": [],
+  "case_critical": false
+}

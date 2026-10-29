@@ -1,0 +1,16 @@
+{
+  "id": "CHAT-4934",
+  "channel": "chat",
+  "release": "R0",
+  "event_time": "2026-10-24T09:35:00+02:00",
+  "from": "Maja Schneider",
+  "to": [
+    "Ines Duarte"
+  ],
+  "cc": [],
+  "subject": "Budget review",
+  "thread_id": "THR-4723",
+  "body": "Support hours are under events in my draft. Wrong dropdown, not a secret party. I'll ask Ines to move the line. Maja",
+  "attachments": [],
+  "case_critical": false
+}
